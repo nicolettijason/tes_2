@@ -1,0 +1,2491 @@
+GitAutoSave.bat
+2020_03_10_ArduinoNanoFlatNanoPaint\Arduino Nano Paint Capacitive v6.f3d
+2020_03_10_ArduinoNanoFlatNanoPaint\Arduino Nano Paint Capacitive v6.f3d.powd
+2020_03_10_ArduinoNanoFlatNanoPaint\Arduino Nano Paint Capacitive v6.stl
+2020_03_10_ArduinoNanoFlatNanoPaint\Arduino Nano Paint Capacitive v6.stl.powd
+2020_03_10_ArduinoNanoFlatNanoPaint\Capture d’écran 2022-05-30 040919.png
+2020_03_10_ArduinoNanoFlatNanoPaint\Capture d’écran 2022-05-30 040919.png.powd
+2020_03_10_ArduinoNanoFlatNanoPaint\Capture d’écran 2022-05-30 040939.png
+2020_03_10_ArduinoNanoFlatNanoPaint\Capture d’écran 2022-05-30 040939.png.powd
+2020_03_10_ArduinoNanoFlatNanoPaint\CE3_Arduino Nano Paint Capacitive v6.3mf
+2020_03_10_ArduinoNanoFlatNanoPaint\CE3_Arduino Nano Paint Capacitive v6.3mf.powd
+2020_03_10_ArduinoNanoFlatNanoPaint\CE3_Arduino Nano Paint Capacitive v6.gcode
+2020_03_10_ArduinoNanoFlatNanoPaint\CE3_Arduino Nano Paint Capacitive v6.gcode.powd
+2020_03_10_ArduinoNanoFlatNanoPaint\README.md
+2020_03_10_ArduinoNanoFlatNanoPaint\README.md.powd
+2020_03_10_NanoToCapacitiveSensors\Capture d’écran 2022-05-30 040302.png
+2020_03_10_NanoToCapacitiveSensors\Capture d’écran 2022-05-30 040302.png.powd
+2020_03_10_NanoToCapacitiveSensors\CE3_Nano To Capacitive Sensors v8 Solo.3mf
+2020_03_10_NanoToCapacitiveSensors\CE3_Nano To Capacitive Sensors v8 Solo.3mf.powd
+2020_03_10_NanoToCapacitiveSensors\Convert.stl
+2020_03_10_NanoToCapacitiveSensors\Convert.stl.powd
+2020_03_10_NanoToCapacitiveSensors\Nano To Capacitive Sensors v8 Solo.stl
+2020_03_10_NanoToCapacitiveSensors\Nano To Capacitive Sensors v8 Solo.stl.powd
+2020_03_10_NanoToCapacitiveSensors\Nano To Capacitive Sensors v8.f3d
+2020_03_10_NanoToCapacitiveSensors\Nano To Capacitive Sensors v8.f3d.powd
+2020_03_10_NanoToCapacitiveSensors\Nano To Capacitive Sensors v8.stl
+2020_03_10_NanoToCapacitiveSensors\Nano To Capacitive Sensors v8.stl.powd
+2020_03_10_NanoToCapacitiveSensors\README.md
+2020_03_10_NanoToCapacitiveSensors\README.md.powd
+2020_04_10_CoccinelleNanoPaint\20220530_154111.jpg
+2020_04_10_CoccinelleNanoPaint\20220530_154111.jpg.powd
+2020_04_10_CoccinelleNanoPaint\Capture d’écran 2022-05-30 035833.png
+2020_04_10_CoccinelleNanoPaint\Capture d’écran 2022-05-30 035833.png.powd
+2020_04_10_CoccinelleNanoPaint\Capture d’écran 2022-05-30 035906.png
+2020_04_10_CoccinelleNanoPaint\Capture d’écran 2022-05-30 035906.png.powd
+2020_04_10_CoccinelleNanoPaint\CE3_Coccinelle  Nano Paint Sensors v6.3mf
+2020_04_10_CoccinelleNanoPaint\CE3_Coccinelle  Nano Paint Sensors v6.3mf.powd
+2020_04_10_CoccinelleNanoPaint\CE3_Coccinelle  Nano Paint Sensors v6.gcode
+2020_04_10_CoccinelleNanoPaint\CE3_Coccinelle  Nano Paint Sensors v6.gcode.powd
+2020_04_10_CoccinelleNanoPaint\Coccinelle  Nano Paint Sensors v6.f3d
+2020_04_10_CoccinelleNanoPaint\Coccinelle  Nano Paint Sensors v6.f3d.powd
+2020_04_10_CoccinelleNanoPaint\Coccinelle  Nano Paint Sensors v6.stl
+2020_04_10_CoccinelleNanoPaint\Coccinelle  Nano Paint Sensors v6.stl.powd
+2020_04_10_CoccinelleNanoPaint\Convert.blend
+2020_04_10_CoccinelleNanoPaint\Convert.blend.powd
+2020_04_10_CoccinelleNanoPaint\README.md
+2020_04_10_CoccinelleNanoPaint\README.md.powd
+2020_04_10_CoccinelleNanoPaint\Screen2022-05-30 035212.png
+2020_04_10_CoccinelleNanoPaint\Screen2022-05-30 035212.png.powd
+2020_06_10_Nano2CapacitivesOneFace\Capture d’écran 2022-05-30 042242.png
+2020_06_10_Nano2CapacitivesOneFace\Capture d’écran 2022-05-30 042242.png.powd
+2020_06_10_Nano2CapacitivesOneFace\Capture d’écran 2022-05-30 042258.png
+2020_06_10_Nano2CapacitivesOneFace\Capture d’écran 2022-05-30 042258.png.powd
+2020_06_10_Nano2CapacitivesOneFace\Nano To Capacitive Sensors One Face Plus v2.stl
+2020_06_10_Nano2CapacitivesOneFace\Nano To Capacitive Sensors One Face Plus v2.stl.powd
+2020_06_10_Nano2CapacitivesOneFace\Nano To Capacitive Sensors One Face v7.f3d
+2020_06_10_Nano2CapacitivesOneFace\Nano To Capacitive Sensors One Face v7.f3d.powd
+2020_06_10_Nano2CapacitivesOneFace\Nano To Capacitive Sensors One Face v7.stl
+2020_06_10_Nano2CapacitivesOneFace\Nano To Capacitive Sensors One Face v7.stl.powd
+2020_06_10_Nano2CapacitivesOneFace\README.md
+2020_06_10_Nano2CapacitivesOneFace\README.md.powd
+2020_09_27_ArduinoBluetoothAdaptator\Arduino & Bluetooth I3 v2.f3d
+2020_09_27_ArduinoBluetoothAdaptator\Arduino & Bluetooth I3 v2.f3d.powd
+2020_09_27_ArduinoBluetoothAdaptator\Arduino & Bluetooth Wood Adaptator V1 v10.f3d
+2020_09_27_ArduinoBluetoothAdaptator\Arduino & Bluetooth Wood Adaptator V1 v10.f3d.powd
+2020_09_27_ArduinoBluetoothAdaptator\Capture d’écran 2022-05-30 043725.png
+2020_09_27_ArduinoBluetoothAdaptator\Capture d’écran 2022-05-30 043725.png.powd
+2020_09_27_ArduinoBluetoothAdaptator\README.md
+2020_09_27_ArduinoBluetoothAdaptator\README.md.powd
+2020_09_27_ArduinoFootBoard\Arduino Foot Board V1.0 v3.f3d
+2020_09_27_ArduinoFootBoard\Arduino Foot Board V1.0 v3.f3d.powd
+2020_09_27_ArduinoFootBoard\Arduino Foot Board V1.0 v3.stl
+2020_09_27_ArduinoFootBoard\Arduino Foot Board V1.0 v3.stl.powd
+2020_09_27_ArduinoFootBoard\Capture d’écran 2022-05-30 051428.png
+2020_09_27_ArduinoFootBoard\Capture d’écran 2022-05-30 051428.png.powd
+2020_09_27_ArduinoFootBoard\Capture d’écran 2022-05-30 051557.png
+2020_09_27_ArduinoFootBoard\Capture d’écran 2022-05-30 051557.png.powd
+2020_09_27_ArduinoFootBoard\Capture d’écran 2022-05-30 051613.png
+2020_09_27_ArduinoFootBoard\Capture d’écran 2022-05-30 051613.png.powd
+2020_09_27_ArduinoFootBoard\README.md
+2020_09_27_ArduinoFootBoard\README.md.powd
+2020_09_27_ArduinoNanoHandPad\Arduino Nano Hand Pad v13.f3d
+2020_09_27_ArduinoNanoHandPad\Arduino Nano Hand Pad v13.f3d.powd
+2020_09_27_ArduinoNanoHandPad\Arduino Nano Hand Pad v13.stl
+2020_09_27_ArduinoNanoHandPad\Arduino Nano Hand Pad v13.stl.powd
+2020_09_27_ArduinoNanoHandPad\Capture d’écran 2022-05-30 043415.png
+2020_09_27_ArduinoNanoHandPad\Capture d’écran 2022-05-30 043415.png.powd
+2020_09_27_ArduinoNanoHandPad\README.md
+2020_09_27_ArduinoNanoHandPad\README.md.powd
+2020_09_27_CNCBatteriesHolderBoard\Batteries Storage v15.f3z
+2020_09_27_CNCBatteriesHolderBoard\Batteries Storage v15.f3z.powd
+2020_09_27_CNCBatteriesHolderBoard\Batteries Storage v15.stl
+2020_09_27_CNCBatteriesHolderBoard\Batteries Storage v15.stl.powd
+2020_09_27_CNCBatteriesHolderBoard\Capture d’écran 2022-05-30 050546.png
+2020_09_27_CNCBatteriesHolderBoard\Capture d’écran 2022-05-30 050546.png.powd
+2020_09_27_CNCBatteriesHolderBoard\Capture d’écran 2022-05-30 050614.png
+2020_09_27_CNCBatteriesHolderBoard\Capture d’écran 2022-05-30 050614.png.powd
+2020_09_27_CNCBatteriesHolderBoard\README.md
+2020_09_27_CNCBatteriesHolderBoard\README.md.powd
+2020_09_27_CNCLegoJoint\Capture d’écran 2022-05-30 055146.png
+2020_09_27_CNCLegoJoint\Capture d’écran 2022-05-30 055146.png.powd
+2020_09_27_CNCLegoJoint\Capture d’écran 2022-05-30 055207.png
+2020_09_27_CNCLegoJoint\Capture d’écran 2022-05-30 055207.png.powd
+2020_09_27_CNCLegoJoint\LegoJoin v7.f3z
+2020_09_27_CNCLegoJoint\LegoJoin v7.f3z.powd
+2020_09_27_CNCLegoJoint\LegoJoin v7.stl
+2020_09_27_CNCLegoJoint\LegoJoin v7.stl.powd
+2020_09_27_CNCLegoJoint\README.md
+2020_09_27_CNCLegoJoint\README.md.powd
+2020_09_27_GetaCNC41\Basic Wood Geta with cavity v44.f3z
+2020_09_27_GetaCNC41\Basic Wood Geta with cavity v44.f3z.powd
+2020_09_27_GetaCNC41\Basic Wood Geta with cavity v44.stl
+2020_09_27_GetaCNC41\Basic Wood Geta with cavity v44.stl.powd
+2020_09_27_GetaCNC41\Capture d’écran 2022-05-30 050914.png
+2020_09_27_GetaCNC41\Capture d’écran 2022-05-30 050914.png.powd
+2020_09_27_GetaCNC41\Capture d’écran 2022-05-30 050947.png
+2020_09_27_GetaCNC41\Capture d’écran 2022-05-30 050947.png.powd
+2020_09_27_GetaCNC41\Capture d’écran 2022-05-30 051013.png
+2020_09_27_GetaCNC41\Capture d’écran 2022-05-30 051013.png.powd
+2020_09_27_GetaCNC41\Capture d’écran 2022-05-30 051153.png
+2020_09_27_GetaCNC41\Capture d’écran 2022-05-30 051153.png.powd
+2020_09_27_GetaCNC41\README.md
+2020_09_27_GetaCNC41\README.md.powd
+2020_09_27_PringleCoinFilterPlates\Coin Filter Plates v20.f3z
+2020_09_27_PringleCoinFilterPlates\Coin Filter Plates v20.f3z.powd
+2020_09_27_PringleCoinFilterPlates\Coin Filter Plates v20.stl
+2020_09_27_PringleCoinFilterPlates\Coin Filter Plates v20.stl.powd
+2020_09_27_PringleCoinFilterPlates\Convert.blend
+2020_09_27_PringleCoinFilterPlates\Convert.blend.powd
+2020_09_27_PringleCoinFilterPlates\EloiStree3D2020_09_27_PringleCoinFilterPlates CNC project to make filtering tools for coins that just require a pringle cyli.URL
+2020_09_27_PringleCoinFilterPlates\EloiStree3D2020_09_27_PringleCoinFilterPlates CNC project to make filtering tools for coins that just require a pringle cyli.URL.powd
+2020_09_27_PringleCoinFilterPlates\Fichier STL gratuit Pringle Coins filter (Euro € Version )・Idée pour impression 3D à télécharger • Cults.URL
+2020_09_27_PringleCoinFilterPlates\Fichier STL gratuit Pringle Coins filter (Euro € Version )・Idée pour impression 3D à télécharger • Cults.URL.powd
+2020_09_27_PringleCoinFilterPlates\GitAutoSave.bat
+2020_09_27_PringleCoinFilterPlates\PieceAdaptedToPrint.blend
+2020_09_27_PringleCoinFilterPlates\PieceAdaptedToPrint.blend.powd
+2020_09_27_PringleCoinFilterPlates\README.md
+2020_09_27_PringleCoinFilterPlates\README.md.powd
+2020_09_27_PringleCoinFilterPlates\Screenshot (1).png
+2020_09_27_PringleCoinFilterPlates\Screenshot (1).png.powd
+2020_09_27_PringleCoinFilterPlates\Screenshot (2).png
+2020_09_27_PringleCoinFilterPlates\Screenshot (2).png.powd
+2020_09_27_PringleCoinFilterPlates\Screenshot (3).png
+2020_09_27_PringleCoinFilterPlates\Screenshot (3).png.powd
+2020_09_27_PringleCoinFilterPlates\SCreenshot.png
+2020_09_27_PringleCoinFilterPlates\SCreenshot.png.powd
+2020_09_27_PringleCoinFilterPlates\untitled.blend
+2020_09_27_PringleCoinFilterPlates\untitled.blend.powd
+2020_09_27_ShoGiCNCProductionBoard\171288390-c030d0f9-422f-46c8-9b97-620ae0d8d9b9.png
+2020_09_27_ShoGiCNCProductionBoard\171288390-c030d0f9-422f-46c8-9b97-620ae0d8d9b9.png.powd
+2020_09_27_ShoGiCNCProductionBoard\171315224-174cf590-bd1e-4027-ba49-c129f8ad254d.png
+2020_09_27_ShoGiCNCProductionBoard\171315224-174cf590-bd1e-4027-ba49-c129f8ad254d.png.powd
+2020_09_27_ShoGiCNCProductionBoard\BlenderShogi.png
+2020_09_27_ShoGiCNCProductionBoard\BlenderShogi.png.powd
+2020_09_27_ShoGiCNCProductionBoard\Buy It.URL
+2020_09_27_ShoGiCNCProductionBoard\Buy It.URL.powd
+2020_09_27_ShoGiCNCProductionBoard\EloiStree3D2020_09_27_ShoGiCNCProductionBoard This project was an attempt to do a ShoGi Game with CNC by using some holder b.URL
+2020_09_27_ShoGiCNCProductionBoard\EloiStree3D2020_09_27_ShoGiCNCProductionBoard This project was an attempt to do a ShoGi Game with CNC by using some holder b.URL.powd
+2020_09_27_ShoGiCNCProductionBoard\GitAutoSave.bat
+2020_09_27_ShoGiCNCProductionBoard\PieceAdaptedToPrint.blend
+2020_09_27_ShoGiCNCProductionBoard\PieceAdaptedToPrint.blend.powd
+2020_09_27_ShoGiCNCProductionBoard\PieceAdaptedToPrint.blend1
+2020_09_27_ShoGiCNCProductionBoard\PieceAdaptedToPrint.blend1.powd
+2020_09_27_ShoGiCNCProductionBoard\README.md
+2020_09_27_ShoGiCNCProductionBoard\README.md.powd
+2020_09_27_ShoGiCNCProductionBoard\Screenshot (1).png
+2020_09_27_ShoGiCNCProductionBoard\Screenshot (1).png.powd
+2020_09_27_ShoGiCNCProductionBoard\Screenshot (2).png
+2020_09_27_ShoGiCNCProductionBoard\Screenshot (2).png.powd
+2020_09_27_ShoGiCNCProductionBoard\Screenshot (3).png
+2020_09_27_ShoGiCNCProductionBoard\Screenshot (3).png.powd
+2020_09_27_ShoGiCNCProductionBoard\ShoGi Production Pattern v14.f3z
+2020_09_27_ShoGiCNCProductionBoard\ShoGi Production Pattern v14.f3z.powd
+2020_09_27_ShoGiCNCProductionBoard\ShoGi Production Pattern v14.stl
+2020_09_27_ShoGiCNCProductionBoard\ShoGi Production Pattern v14.stl.powd
+2020_09_27_ShoGiCNCProductionBoard\ShoGitTwoPlayerBoard.stl
+2020_09_27_ShoGiCNCProductionBoard\ShoGitTwoPlayerBoard.stl.powd
+2020_09_27_ShoGiCNCProductionBoard\TwoPlayerShogi.blend
+2020_09_27_ShoGiCNCProductionBoard\TwoPlayerShogi.blend.powd
+2020_09_27_ShoGiCNCProductionBoard\TwoPlayerShogi.blend1
+2020_09_27_ShoGiCNCProductionBoard\TwoPlayerShogi.blend1.powd
+2020_09_27_SmallPhoneHolderShape\Capture d’écran 2022-05-30 045733.png
+2020_09_27_SmallPhoneHolderShape\Capture d’écran 2022-05-30 045733.png.powd
+2020_09_27_SmallPhoneHolderShape\Capture d’écran 2022-05-30 045753.png
+2020_09_27_SmallPhoneHolderShape\Capture d’écran 2022-05-30 045753.png.powd
+2020_09_27_SmallPhoneHolderShape\COnvert.blend
+2020_09_27_SmallPhoneHolderShape\COnvert.blend.powd
+2020_09_27_SmallPhoneHolderShape\HolderPhone_Holder_from_left_over_v3_001.stl
+2020_09_27_SmallPhoneHolderShape\HolderPhone_Holder_from_left_over_v3_001.stl.powd
+2020_09_27_SmallPhoneHolderShape\HolderPhone_Holder_from_left_over_v3_002.stl
+2020_09_27_SmallPhoneHolderShape\HolderPhone_Holder_from_left_over_v3_002.stl.powd
+2020_09_27_SmallPhoneHolderShape\HolderPhone_Holder_from_left_over_v3_003.stl
+2020_09_27_SmallPhoneHolderShape\HolderPhone_Holder_from_left_over_v3_003.stl.powd
+2020_09_27_SmallPhoneHolderShape\HolderPhone_Holder_from_left_over_v3_004.stl
+2020_09_27_SmallPhoneHolderShape\HolderPhone_Holder_from_left_over_v3_004.stl.powd
+2020_09_27_SmallPhoneHolderShape\HolderPhone_Holder_from_left_over_v3_005.stl
+2020_09_27_SmallPhoneHolderShape\HolderPhone_Holder_from_left_over_v3_005.stl.powd
+2020_09_27_SmallPhoneHolderShape\Phone Holder from left over v3.f3d
+2020_09_27_SmallPhoneHolderShape\Phone Holder from left over v3.f3d.powd
+2020_09_27_SmallPhoneHolderShape\Phone Holder from left over v3.stl
+2020_09_27_SmallPhoneHolderShape\Phone Holder from left over v3.stl.powd
+2020_09_27_SmallPhoneHolderShape\README.md
+2020_09_27_SmallPhoneHolderShape\README.md.powd
+2020_09_27_StabiloHolder3018Pro\Capture d’écran 2022-05-30 044844.png
+2020_09_27_StabiloHolder3018Pro\Capture d’écran 2022-05-30 044844.png.powd
+2020_09_27_StabiloHolder3018Pro\CE3_StabiloHolder v15.gcode
+2020_09_27_StabiloHolder3018Pro\CE3_StabiloHolder v15.gcode.powd
+2020_09_27_StabiloHolder3018Pro\Convert.blend
+2020_09_27_StabiloHolder3018Pro\Convert.blend.powd
+2020_09_27_StabiloHolder3018Pro\README.md
+2020_09_27_StabiloHolder3018Pro\README.md.powd
+2020_09_27_StabiloHolder3018Pro\StabiloHolder v15.f3z
+2020_09_27_StabiloHolder3018Pro\StabiloHolder v15.f3z.powd
+2020_09_27_StabiloHolder3018Pro\StabiloHolder v15.stl
+2020_09_27_StabiloHolder3018Pro\StabiloHolder v15.stl.powd
+2020_09_27_StepMotorToRotatingSculture\Capture d’écran 2022-05-30 053740.png
+2020_09_27_StepMotorToRotatingSculture\Capture d’écran 2022-05-30 053740.png.powd
+2020_09_27_StepMotorToRotatingSculture\Capture d’écran 2022-05-30 053827.png
+2020_09_27_StepMotorToRotatingSculture\Capture d’écran 2022-05-30 053827.png.powd
+2020_09_27_StepMotorToRotatingSculture\Capture d’écran 2022-05-30 053859.png
+2020_09_27_StepMotorToRotatingSculture\Capture d’écran 2022-05-30 053859.png.powd
+2020_09_27_StepMotorToRotatingSculture\README.md
+2020_09_27_StepMotorToRotatingSculture\README.md.powd
+2020_09_27_StepMotorToRotatingSculture\Rotation Board for scan v22.f3z
+2020_09_27_StepMotorToRotatingSculture\Rotation Board for scan v22.f3z.powd
+2020_09_27_StepMotorToRotatingSculture\Rotation Board for scan v22.stl
+2020_09_27_StepMotorToRotatingSculture\Rotation Board for scan v22.stl.powd
+2020_09_27_ToolPlateFor3018Pro\Capture d’écran 2022-05-30 044528.png
+2020_09_27_ToolPlateFor3018Pro\Capture d’écran 2022-05-30 044528.png.powd
+2020_09_27_ToolPlateFor3018Pro\Capture d’écran 2022-05-30 044600.png
+2020_09_27_ToolPlateFor3018Pro\Capture d’écran 2022-05-30 044600.png.powd
+2020_09_27_ToolPlateFor3018Pro\README.md
+2020_09_27_ToolPlateFor3018Pro\README.md.powd
+2020_09_27_ToolPlateFor3018Pro\Tools Plate For 3018 Pro v7.f3z
+2020_09_27_ToolPlateFor3018Pro\Tools Plate For 3018 Pro v7.f3z.powd
+2020_09_27_ToolPlateFor3018Pro\Tools Plate For 3018 Pro v7.stl
+2020_09_27_ToolPlateFor3018Pro\Tools Plate For 3018 Pro v7.stl.powd
+2020_09_29_CapacitiveHandBoard\Capture d’écran 2022-05-30 042537.png
+2020_09_29_CapacitiveHandBoard\Capture d’écran 2022-05-30 042537.png.powd
+2020_09_29_CapacitiveHandBoard\Capture d’écran 2022-05-30 042628.png
+2020_09_29_CapacitiveHandBoard\Capture d’écran 2022-05-30 042628.png.powd
+2020_09_29_CapacitiveHandBoard\README.md
+2020_09_29_CapacitiveHandBoard\README.md.powd
+2020_09_29_CapacitiveHandBoard\Wood Hand Inside Slide Board V0 v7.f3z
+2020_09_29_CapacitiveHandBoard\Wood Hand Inside Slide Board V0 v7.f3z.powd
+2020_09_29_CapacitiveHandBoard\Wood Hand Inside Slide Board V0 v7.stl
+2020_09_29_CapacitiveHandBoard\Wood Hand Inside Slide Board V0 v7.stl.powd
+2022_05_12_TruncatedIcosahedron\3D.png
+2022_05_12_TruncatedIcosahedron\3D.png.powd
+2022_05_12_TruncatedIcosahedron\9HexaPentaOf3mmMom.3mf
+2022_05_12_TruncatedIcosahedron\9HexaPentaOf3mmMom.3mf.powd
+2022_05_12_TruncatedIcosahedron\EloiStree3D2022_05_12_TruncatedIcosahedron BBQ stick ball in a Truncated icosahedron shape..URL
+2022_05_12_TruncatedIcosahedron\EloiStree3D2022_05_12_TruncatedIcosahedron BBQ stick ball in a Truncated icosahedron shape..URL.powd
+2022_05_12_TruncatedIcosahedron\Fichier 3MF Truncated Icosahedron holding necklace stones with BBQ Stick・Design pour impression 3D à télécharger • Cults.URL
+2022_05_12_TruncatedIcosahedron\Fichier 3MF Truncated Icosahedron holding necklace stones with BBQ Stick・Design pour impression 3D à télécharger • Cults.URL.powd
+2022_05_12_TruncatedIcosahedron\FivePieceOfHexaPentaProject_3mmHoles.3mf
+2022_05_12_TruncatedIcosahedron\FivePieceOfHexaPentaProject_3mmHoles.3mf.powd
+2022_05_12_TruncatedIcosahedron\FivePieceOfHexaPentaProject_3mmHoles_10x3.3mf
+2022_05_12_TruncatedIcosahedron\FivePieceOfHexaPentaProject_3mmHoles_10x3.3mf.powd
+2022_05_12_TruncatedIcosahedron\GitAutoSave.bat
+2022_05_12_TruncatedIcosahedron\Print12PentaProject250mm.3mf
+2022_05_12_TruncatedIcosahedron\Print12PentaProject250mm.3mf.powd
+2022_05_12_TruncatedIcosahedron\Print12PentaProject3mm.3mf
+2022_05_12_TruncatedIcosahedron\Print12PentaProject3mm.3mf.powd
+2022_05_12_TruncatedIcosahedron\Print12PentaProject3mm.gcode
+2022_05_12_TruncatedIcosahedron\Print12PentaProject3mm.gcode.powd
+2022_05_12_TruncatedIcosahedron\README.md
+2022_05_12_TruncatedIcosahedron\README.md.powd
+2022_05_12_TruncatedIcosahedron\test.3mf
+2022_05_12_TruncatedIcosahedron\test.3mf.powd
+2022_05_29_Scrabble\ExportBlender.blend
+2022_05_29_Scrabble\ExportBlender.blend.powd
+2022_05_29_Scrabble\GitAutoSave.bat
+2022_05_29_Scrabble\KAZYcase-scrabble.ttf
+2022_05_29_Scrabble\KAZYcase-scrabble.ttf.powd
+2022_05_29_Scrabble\Parts2022_05_29_Scrabble_v3_005.stl
+2022_05_29_Scrabble\Parts2022_05_29_Scrabble_v3_005.stl.powd
+2022_05_29_Scrabble\Parts2022_05_29_Scrabble_v3_006.stl
+2022_05_29_Scrabble\Parts2022_05_29_Scrabble_v3_006.stl.powd
+2022_05_29_Scrabble\Parts2022_05_29_Scrabble_v3_007.stl
+2022_05_29_Scrabble\Parts2022_05_29_Scrabble_v3_007.stl.powd
+2022_05_29_Scrabble\Parts2022_05_29_Scrabble_v3_008.stl
+2022_05_29_Scrabble\Parts2022_05_29_Scrabble_v3_008.stl.powd
+2022_05_29_Scrabble\Parts2022_05_29_Scrabble_v3_009.stl
+2022_05_29_Scrabble\Parts2022_05_29_Scrabble_v3_009.stl.powd
+2022_05_29_Scrabble\Parts2022_05_29_Scrabble_v3_010.stl
+2022_05_29_Scrabble\Parts2022_05_29_Scrabble_v3_010.stl.powd
+2022_05_29_Scrabble\Parts2022_05_29_Scrabble_v3_011.stl
+2022_05_29_Scrabble\Parts2022_05_29_Scrabble_v3_011.stl.powd
+2022_05_29_Scrabble\Parts2022_05_29_Scrabble_v3_012.stl
+2022_05_29_Scrabble\Parts2022_05_29_Scrabble_v3_012.stl.powd
+2022_05_29_Scrabble\Parts2022_05_29_Scrabble_v3_013.stl
+2022_05_29_Scrabble\Parts2022_05_29_Scrabble_v3_013.stl.powd
+2022_05_29_Scrabble\Parts2022_05_29_Scrabble_v3_014.stl
+2022_05_29_Scrabble\Parts2022_05_29_Scrabble_v3_014.stl.powd
+2022_05_29_Scrabble\Parts2022_05_29_Scrabble_v3_015.stl
+2022_05_29_Scrabble\Parts2022_05_29_Scrabble_v3_015.stl.powd
+2022_05_29_Scrabble\Parts2022_05_29_Scrabble_v3_016.stl
+2022_05_29_Scrabble\Parts2022_05_29_Scrabble_v3_016.stl.powd
+2022_05_29_Scrabble\Parts2022_05_29_Scrabble_v3_017.stl
+2022_05_29_Scrabble\Parts2022_05_29_Scrabble_v3_017.stl.powd
+2022_05_29_Scrabble\Parts2022_05_29_Scrabble_v3_018.stl
+2022_05_29_Scrabble\Parts2022_05_29_Scrabble_v3_018.stl.powd
+2022_05_29_Scrabble\Parts2022_05_29_Scrabble_v3_019.stl
+2022_05_29_Scrabble\Parts2022_05_29_Scrabble_v3_019.stl.powd
+2022_05_29_Scrabble\Parts2022_05_29_Scrabble_v3_020.stl
+2022_05_29_Scrabble\Parts2022_05_29_Scrabble_v3_020.stl.powd
+2022_05_29_Scrabble\Parts2022_05_29_Scrabble_v3_021.stl
+2022_05_29_Scrabble\Parts2022_05_29_Scrabble_v3_021.stl.powd
+2022_05_29_Scrabble\Parts2022_05_29_Scrabble_v3_022.stl
+2022_05_29_Scrabble\Parts2022_05_29_Scrabble_v3_022.stl.powd
+2022_05_29_Scrabble\Parts2022_05_29_Scrabble_v3_023.stl
+2022_05_29_Scrabble\Parts2022_05_29_Scrabble_v3_023.stl.powd
+2022_05_29_Scrabble\Parts2022_05_29_Scrabble_v3_024.stl
+2022_05_29_Scrabble\Parts2022_05_29_Scrabble_v3_024.stl.powd
+2022_05_29_Scrabble\Parts2022_05_29_Scrabble_v3_025.stl
+2022_05_29_Scrabble\Parts2022_05_29_Scrabble_v3_025.stl.powd
+2022_05_29_Scrabble\Parts2022_05_29_Scrabble_v3_026.stl
+2022_05_29_Scrabble\Parts2022_05_29_Scrabble_v3_026.stl.powd
+2022_05_29_Scrabble\Parts2022_05_29_Scrabble_v3_027.stl
+2022_05_29_Scrabble\Parts2022_05_29_Scrabble_v3_027.stl.powd
+2022_05_29_Scrabble\Parts2022_05_29_Scrabble_v3_028.stl
+2022_05_29_Scrabble\Parts2022_05_29_Scrabble_v3_028.stl.powd
+2022_05_29_Scrabble\Parts2022_05_29_Scrabble_v3_029.stl
+2022_05_29_Scrabble\Parts2022_05_29_Scrabble_v3_029.stl.powd
+2022_05_29_Scrabble\Parts2022_05_29_Scrabble_v3_030.stl
+2022_05_29_Scrabble\Parts2022_05_29_Scrabble_v3_030.stl.powd
+2022_05_29_Scrabble\README.md
+2022_05_29_Scrabble\README.md.powd
+2022_05_29_Scrabble\SprayPart.stl
+2022_05_29_Scrabble\SprayPart.stl.powd
+2022_05_29_Scrabble\SprayPart1.stl
+2022_05_29_Scrabble\SprayPart1.stl.powd
+2022_05_29_Scrabble\SprayPart2.stl
+2022_05_29_Scrabble\SprayPart2.stl.powd
+2022_05_29_Scrabble\SprayPart3.stl
+2022_05_29_Scrabble\SprayPart3.stl.powd
+2022_05_29_Scrabble\SprayPartSmalls.stl
+2022_05_29_Scrabble\SprayPartSmalls.stl.powd
+2022_05_30_HexagonSataStorage\2022_05_30_V0_SataStorage.3mf
+2022_05_30_HexagonSataStorage\2022_05_30_V0_SataStorage.3mf.powd
+2022_05_30_HexagonSataStorage\2022_05_30_V0_SataStorage.gcode
+2022_05_30_HexagonSataStorage\2022_05_30_V0_SataStorage.gcode.powd
+2022_05_30_HexagonSataStorage\ConvertFusionToSTL.blend
+2022_05_30_HexagonSataStorage\ConvertFusionToSTL.blend.powd
+2022_05_30_HexagonSataStorage\GitAutoSave.bat
+2022_05_30_HexagonSataStorage\HexaGoneSataStorage v2.stl
+2022_05_30_HexagonSataStorage\HexaGoneSataStorage v2.stl.powd
+2022_05_30_HexagonSataStorage\HexaGoneSataStorage v2HexaGoneSataStorage_v2.stl
+2022_05_30_HexagonSataStorage\HexaGoneSataStorage v2HexaGoneSataStorage_v2.stl.powd
+2022_05_30_HexagonSataStorage\HexaGoneSataStorage v2HexaGoneSataStorage_v2_001.stl
+2022_05_30_HexagonSataStorage\HexaGoneSataStorage v2HexaGoneSataStorage_v2_001.stl.powd
+2022_05_30_HexagonSataStorage\HexaGoneSataStorage v2HexaGoneSataStorage_v2_002.stl
+2022_05_30_HexagonSataStorage\HexaGoneSataStorage v2HexaGoneSataStorage_v2_002.stl.powd
+2022_05_30_HexagonSataStorage\HexaGoneSataStorage v2HexaGoneSataStorage_v2_003.stl
+2022_05_30_HexagonSataStorage\HexaGoneSataStorage v2HexaGoneSataStorage_v2_003.stl.powd
+2022_05_30_HexagonSataStorage\HexaGoneSataStorage v2HexaGoneSataStorage_v2_004.stl
+2022_05_30_HexagonSataStorage\HexaGoneSataStorage v2HexaGoneSataStorage_v2_004.stl.powd
+2022_05_30_HexagonSataStorage\HexaGoneSataStorage v2HexaGoneSataStorage_v2_005.stl
+2022_05_30_HexagonSataStorage\HexaGoneSataStorage v2HexaGoneSataStorage_v2_005.stl.powd
+2022_05_30_HexagonSataStorage\HexaGoneSataStorage v2HexaGoneSataStorage_v2_006.stl
+2022_05_30_HexagonSataStorage\HexaGoneSataStorage v2HexaGoneSataStorage_v2_006.stl.powd
+2022_05_30_HexagonSataStorage\HexaGoneSataStorage v2HexaGoneSataStorage_v2_007.stl
+2022_05_30_HexagonSataStorage\HexaGoneSataStorage v2HexaGoneSataStorage_v2_007.stl.powd
+2022_05_30_HexagonSataStorage\HexaGoneSataStorage v2HexaGoneSataStorage_v2_008.stl
+2022_05_30_HexagonSataStorage\HexaGoneSataStorage v2HexaGoneSataStorage_v2_008.stl.powd
+2022_05_30_HexagonSataStorage\HexaGoneSataStorage v3.f3d
+2022_05_30_HexagonSataStorage\HexaGoneSataStorage v3.f3d.powd
+2022_05_30_HexagonSataStorage\README.md
+2022_05_30_HexagonSataStorage\README.md.powd
+2022_05_30_HexagonSataStorage\ScreenshotFromFusion360.png
+2022_05_30_HexagonSataStorage\ScreenshotFromFusion360.png.powd
+2022_06_10_EuroCoinsSTL\Euro As STL Cylinder v1.f3d
+2022_06_10_EuroCoinsSTL\Euro As STL Cylinder v1.f3d.powd
+2022_06_10_EuroCoinsSTL\Euro As STL Cylinder v1.stl
+2022_06_10_EuroCoinsSTL\Euro As STL Cylinder v1.stl.powd
+2022_06_10_EuroCoinsSTL\GitAutoSave.bat
+2022_06_10_EuroCoinsSTL\README.md
+2022_06_10_EuroCoinsSTL\README.md.powd
+2022_06_10_TwoPlatesThroughHole\ConvertA.blend
+2022_06_10_TwoPlatesThroughHole\ConvertA.blend.powd
+2022_06_10_TwoPlatesThroughHole\ConvertA.blend1
+2022_06_10_TwoPlatesThroughHole\ConvertA.blend1.powd
+2022_06_10_TwoPlatesThroughHole\GitAutoSave.bat
+2022_06_10_TwoPlatesThroughHole\HexaGonalBaseTest.blend
+2022_06_10_TwoPlatesThroughHole\HexaGonalBaseTest.blend.powd
+2022_06_10_TwoPlatesThroughHole\README.md
+2022_06_10_TwoPlatesThroughHole\README.md.powd
+2022_06_10_TwoPlatesThroughHole\State.png
+2022_06_10_TwoPlatesThroughHole\State.png.powd
+2022_06_10_TwoPlatesThroughHole\TwoBoardsThroghPlaneWith30mmHole v1.f3d
+2022_06_10_TwoPlatesThroughHole\TwoBoardsThroghPlaneWith30mmHole v1.f3d.powd
+2022_06_10_TwoPlatesThroughHole\TwoBoardsThroghPlaneWith30mmHole v1.stl
+2022_06_10_TwoPlatesThroughHole\TwoBoardsThroghPlaneWith30mmHole v1.stl.powd
+2022_06_10_TwoPlatesThroughHole\TwoBoardsThroghPlaneWith30mmHole v2.f3d
+2022_06_10_TwoPlatesThroughHole\TwoBoardsThroghPlaneWith30mmHole v2.f3d.powd
+2022_06_10_TwoPlatesThroughHole\TwoBoardsThroghPlaneWith30mmHole v2.stl
+2022_06_10_TwoPlatesThroughHole\TwoBoardsThroghPlaneWith30mmHole v2.stl.powd
+2022_06_10_TwoPlatesThroughHole\TwoBoardsThroghPlaneWith30mmHole v3.stl
+2022_06_10_TwoPlatesThroughHole\TwoBoardsThroghPlaneWith30mmHole v3.stl.powd
+2022_06_10_TwoPlatesThroughHole\TwoBoardsThroghPlaneWith30mmHole v5.stl
+2022_06_10_TwoPlatesThroughHole\TwoBoardsThroghPlaneWith30mmHole v5.stl.powd
+2022_06_10_TwoPlatesThroughHole\TwoBoardsThroghPlaneWith30mmHole v6.stl
+2022_06_10_TwoPlatesThroughHole\TwoBoardsThroghPlaneWith30mmHole v6.stl.powd
+2022_06_10_TwoPlatesThroughHole\TwoBoardsThroghPlaneWith30mmHole v7.stl
+2022_06_10_TwoPlatesThroughHole\TwoBoardsThroghPlaneWith30mmHole v7.stl.powd
+2022_06_10_TwoPlatesThroughHole\TwoBoardsThroghPlaneWith30mmHole v8.stl
+2022_06_10_TwoPlatesThroughHole\TwoBoardsThroghPlaneWith30mmHole v8.stl.powd
+2022_06_16_PicaTinnySTL\GitAutoSave.bat
+2022_06_16_PicaTinnySTL\README.md
+2022_06_16_PicaTinnySTL\README.md.powd
+2022_06_16_PicaTinnySTL\ScrewSize.md
+2022_06_16_PicaTinnySTL\ScrewSize.md.powd
+2022_06_16_PicaTinnySTL\State.png
+2022_06_16_PicaTinnySTL\State.png.powd
+2022_06_18_PicaTinnyArduinoHolders\GitAutoSave.bat
+2022_06_18_PicaTinnyArduinoHolders\ProjectState.png
+2022_06_18_PicaTinnyArduinoHolders\ProjectState.png.powd
+2022_06_18_PicaTinnyArduinoHolders\README.md
+2022_06_18_PicaTinnyArduinoHolders\README.md.powd
+2022_06_21_QuadraAndDuoPicaTinnyAroundStick\README.md
+2022_06_21_QuadraAndDuoPicaTinnyAroundStick\README.md.powd
+2022_06_21_QuadraAndDuoPicaTinnyAroundStick\ScreenShot.png
+2022_06_21_QuadraAndDuoPicaTinnyAroundStick\ScreenShot.png.powd
+2022_06_21_VRPicaTinnyJoins\JoinPicaTinnyToVRHolders.blend
+2022_06_21_VRPicaTinnyJoins\JoinPicaTinnyToVRHolders.blend.powd
+2022_06_21_VRPicaTinnyJoins\JoinPicaTinnyToVRHolders.blend1
+2022_06_21_VRPicaTinnyJoins\JoinPicaTinnyToVRHolders.blend1.powd
+2022_06_21_VRPicaTinnyJoins\README.md
+2022_06_21_VRPicaTinnyJoins\README.md.powd
+2022_06_23_WalkStickController\GitAutoSave.bat
+2022_06_23_WalkStickController\ProjectState.png
+2022_06_23_WalkStickController\ProjectState.png.powd
+2022_06_23_WalkStickController\README.md
+2022_06_23_WalkStickController\README.md.powd
+2022_09_03_ExperimentMidi63Connector\4x8and2x10mmMagnetConnector.gcode
+2022_09_03_ExperimentMidi63Connector\4x8and2x10mmMagnetConnector.gcode.powd
+2022_09_03_ExperimentMidi63Connector\CE3_Midi Connector Experiment v1.gcode
+2022_09_03_ExperimentMidi63Connector\CE3_Midi Connector Experiment v1.gcode.powd
+2022_09_03_ExperimentMidi63Connector\HolderTest.gcode
+2022_09_03_ExperimentMidi63Connector\HolderTest.gcode.powd
+2022_09_03_ExperimentMidi63Connector\HorizontalHolderTest.stl
+2022_09_03_ExperimentMidi63Connector\HorizontalHolderTest.stl.powd
+2022_09_03_ExperimentMidi63Connector\Midi Connector Experiment v1.f3d
+2022_09_03_ExperimentMidi63Connector\Midi Connector Experiment v1.f3d.powd
+2022_09_03_ExperimentMidi63Connector\Midi Connector Experiment v1.stl
+2022_09_03_ExperimentMidi63Connector\Midi Connector Experiment v1.stl.powd
+2022_09_03_ExperimentMidi63Connector\README.md
+2022_09_03_ExperimentMidi63Connector\README.md.powd
+2022_09_03_ExperimentMidi63Connector\SpringMagnet.gcode
+2022_09_03_ExperimentMidi63Connector\SpringMagnet.gcode.powd
+2022_09_03_MidiFootEntry\2022_09_03_MidiFootBoard v1.f3d
+2022_09_03_MidiFootEntry\2022_09_03_MidiFootBoard v1.f3d.powd
+2022_09_03_MidiFootEntry\DownFoot.gcode
+2022_09_03_MidiFootEntry\DownFoot.gcode.powd
+2022_09_03_MidiFootEntry\MaxFootSizeEnder3.dxf
+2022_09_03_MidiFootEntry\MaxFootSizeEnder3.dxf.powd
+2022_09_03_MidiFootEntry\README.md
+2022_09_03_MidiFootEntry\README.md.powd
+2022_09_03_MidiFootEntry\TopFoot.gcode
+2022_09_03_MidiFootEntry\TopFoot.gcode.powd
+2022_09_03_Mini63mmJack\MidiJack v1.fbx
+2022_09_03_Mini63mmJack\MidiJack v1.fbx.powd
+2022_09_03_Mini63mmJack\MidiJack v1.stl
+2022_09_03_Mini63mmJack\MidiJack v1.stl.powd
+2022_09_03_Mini63mmJack\MidiJackShapehandMeasureFull.svg
+2022_09_03_Mini63mmJack\MidiJackShapehandMeasureFull.svg.powd
+2022_09_03_Mini63mmJack\MidiJackShapehandMeasureHalf.dxf
+2022_09_03_Mini63mmJack\MidiJackShapehandMeasureHalf.dxf.powd
+2022_09_03_Mini63mmJack\MidiJackShapehandMeasureHalf.svg
+2022_09_03_Mini63mmJack\MidiJackShapehandMeasureHalf.svg.powd
+2022_09_03_Mini63mmJack\README.md
+2022_09_03_Mini63mmJack\README.md.powd
+2022_09_10_MidiFootArcadeBoard\README.md
+2022_09_10_MidiFootArcadeBoard\README.md.powd
+2022_09_11_Arduino_MidiFootBoard\README.md
+2022_09_11_Arduino_MidiFootBoard\README.md.powd
+2022_09_11_Arduino_MidiFootBoard\Required.png
+2022_09_11_Arduino_MidiFootBoard\Required.png.powd
+2022_09_11_BirdFeederNoShit\BirdFeederNoShit v1.f3d
+2022_09_11_BirdFeederNoShit\BirdFeederNoShit v1.f3d.powd
+2022_09_11_BirdFeederNoShit\BirdFeederNoShit v1.stl
+2022_09_11_BirdFeederNoShit\BirdFeederNoShit v1.stl.powd
+2022_09_11_BirdFeederNoShit\BirdPartBirdFeederNoShit_v1.stl
+2022_09_11_BirdFeederNoShit\BirdPartBirdFeederNoShit_v1.stl.powd
+2022_09_11_BirdFeederNoShit\BirdPartBirdFeederNoShit_v1_001.stl
+2022_09_11_BirdFeederNoShit\BirdPartBirdFeederNoShit_v1_001.stl.powd
+2022_09_11_BirdFeederNoShit\Splitter.blend
+2022_09_11_BirdFeederNoShit\Splitter.blend.powd
+2022_09_14_ThetaSStereoOnPicaTinny\08mm_CE3_PartsThetaSStereoOnPicaTinny_v1_001.gcode
+2022_09_14_ThetaSStereoOnPicaTinny\08mm_CE3_PartsThetaSStereoOnPicaTinny_v1_001.gcode.powd
+2022_09_14_ThetaSStereoOnPicaTinny\08mm_ThetaSOnPicaTinny.gcode
+2022_09_14_ThetaSStereoOnPicaTinny\08mm_ThetaSOnPicaTinny.gcode.powd
+2022_09_14_ThetaSStereoOnPicaTinny\PartsThetaSStereoOnPicaTinny_v1.stl
+2022_09_14_ThetaSStereoOnPicaTinny\PartsThetaSStereoOnPicaTinny_v1.stl.powd
+2022_09_14_ThetaSStereoOnPicaTinny\PartsThetaSStereoOnPicaTinny_v1_001.stl
+2022_09_14_ThetaSStereoOnPicaTinny\PartsThetaSStereoOnPicaTinny_v1_001.stl.powd
+2022_09_14_ThetaSStereoOnPicaTinny\ThetaSStereoOnPicaTinny v1.f3d
+2022_09_14_ThetaSStereoOnPicaTinny\ThetaSStereoOnPicaTinny v1.f3d.powd
+2022_09_14_ThetaSStereoOnPicaTinny\ThetaSStereoOnPicaTinny v1.stl
+2022_09_14_ThetaSStereoOnPicaTinny\ThetaSStereoOnPicaTinny v1.stl.powd
+2022_09_15_MoldTube\08mmLeft.gcode
+2022_09_15_MoldTube\08mmLeft.gcode.powd
+2022_09_15_MoldTube\08mmRight.gcode
+2022_09_15_MoldTube\08mmRight.gcode.powd
+2022_09_15_MoldTube\MoldCylinder v1.f3d
+2022_09_15_MoldTube\MoldCylinder v1.f3d.powd
+2022_09_15_MoldTube\MoldCylinder v1.fbx
+2022_09_15_MoldTube\MoldCylinder v1.fbx.powd
+2022_09_15_MoldTube\MoldCylinder v1.obj
+2022_09_15_MoldTube\MoldCylinder v1.obj.powd
+2022_09_15_MoldTube\MoldCylinder v1.stl
+2022_09_15_MoldTube\MoldCylinder v1.stl.powd
+2022_09_15_MoldTube\PartMoldCylinder_v1.stl
+2022_09_15_MoldTube\PartMoldCylinder_v1.stl.powd
+2022_09_15_MoldTube\PartMoldCylinder_v1_001.stl
+2022_09_15_MoldTube\PartMoldCylinder_v1_001.stl.powd
+2022_09_18_ArrowsPointer\3DPointingArrow v2.f3d
+2022_09_18_ArrowsPointer\3DPointingArrow v2.f3d.powd
+2022_09_18_ArrowsPointer\3DPointingArrow v2.stl
+2022_09_18_ArrowsPointer\3DPointingArrow v2.stl.powd
+2022_09_18_ArrowsPointer\GitAutoSave.bat
+2022_09_18_ArrowsPointer\Screenshot 2022-09-27 201417.png
+2022_09_18_ArrowsPointer\Screenshot 2022-09-27 201417.png.powd
+2022_09_21_360GroundAndButton\360GroundAndButton v0.f3d
+2022_09_21_360GroundAndButton\360GroundAndButton v0.f3d.powd
+2022_09_21_360GroundAndButton\360GroundAndButton v1.fbx
+2022_09_21_360GroundAndButton\360GroundAndButton v1.fbx.powd
+2022_09_21_360GroundAndButton\360GroundAndButtons.f3d
+2022_09_21_360GroundAndButton\360GroundAndButtons.f3d.powd
+2022_09_21_360GroundAndButton\GitAutoSave.bat
+2022_10_01_DroneSoccer\Drone Soccer Invalide Ball With Led v1.f3d
+2022_10_01_DroneSoccer\Drone Soccer Invalide Ball With Led v1.f3d.powd
+2022_10_01_DroneSoccer\Drone Soccer Invalide Ball With Led v1.fbx
+2022_10_01_DroneSoccer\Drone Soccer Invalide Ball With Led v1.fbx.powd
+2022_10_01_DroneSoccer\GitAutoSave.bat
+2022_10_01_DroneSoccerArena\Arena Drone Soccer Ball (not official) v1.fbx
+2022_10_01_DroneSoccerArena\Arena Drone Soccer Ball (not official) v1.fbx.powd
+2022_10_01_DroneSoccerArena\GitAutoSave.bat
+2022_10_04_TelloHolders\CE3_DroneV5Tello_Clip_Around_v5Tello_Clip_Around_v5.gcode
+2022_10_04_TelloHolders\CE3_DroneV5Tello_Clip_Around_v5Tello_Clip_Around_v5.gcode.powd
+2022_10_04_TelloHolders\CE3_Tello Clip Around v1.gcode
+2022_10_04_TelloHolders\CE3_Tello Clip Around v1.gcode.powd
+2022_10_04_TelloHolders\CE3_Tello Clip Around v2.gcode
+2022_10_04_TelloHolders\CE3_Tello Clip Around v2.gcode.powd
+2022_10_04_TelloHolders\DroneV5Tello_Clip_Around_v5.stl
+2022_10_04_TelloHolders\DroneV5Tello_Clip_Around_v5.stl.powd
+2022_10_04_TelloHolders\DroneV5Tello_Clip_Around_v5Tello_Clip_Around_v5.stl
+2022_10_04_TelloHolders\DroneV5Tello_Clip_Around_v5Tello_Clip_Around_v5.stl.powd
+2022_10_04_TelloHolders\DroneV5Tello_Clip_Around_v5_001.stl
+2022_10_04_TelloHolders\DroneV5Tello_Clip_Around_v5_001.stl.powd
+2022_10_04_TelloHolders\Export.blend
+2022_10_04_TelloHolders\Export.blend.powd
+2022_10_04_TelloHolders\GitAutoSave.bat
+2022_10_04_TelloHolders\Tello Clip Around Second Draft v2.stl
+2022_10_04_TelloHolders\Tello Clip Around Second Draft v2.stl.powd
+2022_10_04_TelloHolders\Tello Clip Around Second Draft v3.stl
+2022_10_04_TelloHolders\Tello Clip Around Second Draft v3.stl.powd
+2022_10_04_TelloHolders\Tello Clip Around Second Draft v4.f3d
+2022_10_04_TelloHolders\Tello Clip Around Second Draft v4.f3d.powd
+2022_10_04_TelloHolders\Tello Clip Around Second Draft v4.stl
+2022_10_04_TelloHolders\Tello Clip Around Second Draft v4.stl.powd
+2022_10_04_TelloHolders\Tello Clip Around Second Draft v6.stl
+2022_10_04_TelloHolders\Tello Clip Around Second Draft v6.stl.powd
+2022_10_04_TelloHolders\Tello Clip Around v1.f3d
+2022_10_04_TelloHolders\Tello Clip Around v1.f3d.powd
+2022_10_04_TelloHolders\Tello Clip Around v1.stl
+2022_10_04_TelloHolders\Tello Clip Around v1.stl.powd
+2022_10_04_TelloHolders\Tello Clip Around v2.stl
+2022_10_04_TelloHolders\Tello Clip Around v2.stl.powd
+2022_10_04_TelloHolders\Tello Clip Around v4.stl
+2022_10_04_TelloHolders\Tello Clip Around v4.stl.powd
+2022_10_04_TelloHolders\Tello Clip Around v5.stl
+2022_10_04_TelloHolders\Tello Clip Around v5.stl.powd
+2022_10_18_PicaTinyForPhoneHolder\PhotoPicaTinny v1.f3d
+2022_10_18_PicaTinyForPhoneHolder\PhotoPicaTinny v1.stl
+2022_10_18_PicaTinyForPhoneHolder\PhotoPicaTinny v2.stl
+2022_10_18_PicaTinyForPhoneHolder\README.md
+2022_10_18_VerticalScultureHolder\2022_10_18_VerticalScultureHolder v2.stl
+2022_10_18_VerticalScultureHolder\2022_10_18_VerticalScultureHolder v3.stl
+2022_10_18_VerticalScultureHolder\Custum Sculture Holder.f3d
+2022_10_18_VerticalScultureHolder\README.md
+2022_10_18_VerticalScultureHolder\Screen.png
+2022_10_25_AspireVNitroCDHolder\Aspire V Nitro CD Holder Replacement v0.f3d
+2022_10_25_AspireVNitroCDHolder\Aspire V Nitro CD Holder Replacement v1.stl
+2022_10_25_AspireVNitroCDHolder\CE3_Aspire V Nitro CD Holder Replacement v1.gcode
+2022_10_25_AspireVNitroCDHolder\README.md
+2022_10_25_AspireVNitroCDHolder\Screenshot001.png
+2022_10_26_BirdFoodBoxHolder\BirdBoxHolder Attempt 0 v1.f3d
+2022_10_26_BirdFoodBoxHolder\BirdBoxHolder Attempt 0 v1.stl
+2022_10_26_BirdFoodBoxHolder\CE3_BirdBoxHolder Attempt 0 v1.gcode
+2022_10_26_BirdFoodBoxHolder\Photo001.png
+2022_10_26_BirdFoodBoxHolder\README.md
+2022_10_26_BirdFoodBoxHolder\Screenshot001.png
+2022_12_25_MsiCpuFanHolder\HUAYU BIG FAN to MSI Pulse76 v1.stl
+2022_12_25_MsiCpuFanHolder\HUAYU BIG FAN to MSI Pulse76 v2.f3d
+2022_12_25_MsiCpuFanHolder\HUAYU BIG FAN to MSI Pulse76 v2.stl
+2022_12_25_MsiCpuFanHolder\HUAYU BIG FAN to MSI Pulse76 v3.stl
+2022_12_25_MsiCpuFanHolder\HUAYU BIG FAN to MSI Pulse76 v4.stl
+2022_12_25_MsiCpuFanHolder\HUAYU BIG FAN to MSI Pulse76 v6.f3d
+2022_12_25_MsiCpuFanHolder\HUAYU BIG FAN to MSI Pulse76 v6.stl
+2022_12_25_MsiCpuFanHolder\MSI Pulse76 CPU Repalcement v2.f3d
+2022_12_25_MsiCpuFanHolder\MSI Pulse76 CPU Repalcement v2.stl
+2022_12_25_MsiCpuFanHolder\MSI Pulse76 CPU Repalcement v4.stl
+2022_12_25_MsiCpuFanHolder\README.md
+2022_12_26_JoseSculptureHolder\CE3_Holder Sculture Jose v1.gcode
+2022_12_26_JoseSculptureHolder\Holder Sculture Jose 1mm.stl
+2022_12_26_JoseSculptureHolder\Holder Sculture Jose 2_5_mm.stl
+2022_12_26_JoseSculptureHolder\Holder Sculture Jose v1.f3d
+2022_12_26_JoseSculptureHolder\README.md
+2023_01_09_PaperShapeAroundQuest2\AroundFaceDown.stl
+2023_01_09_PaperShapeAroundQuest2\AroundFaceUp.stl
+2023_01_09_PaperShapeAroundQuest2\Face3DOculus2.x3d
+2023_01_09_PaperShapeAroundQuest2\FaceUpAndDownExport.blend
+2023_01_09_PaperShapeAroundQuest2\FaceUpAndDownExport.blend1
+2023_01_09_PaperShapeAroundQuest2\LeftBottomSticker.dxf
+2023_01_09_PaperShapeAroundQuest2\Oculus Quest 2  Around Paper protection v3.stl
+2023_01_09_PaperShapeAroundQuest2\README.md
+2023_01_09_PaperShapeAroundQuest2\RightBottomSticker.dxf
+2023_01_09_PaperShapeAroundQuest2\ScanPaper3DQuest.jpg
+2023_01_09_PaperShapeAroundQuest2\TopSticker.dxf
+2023_01_12_QuestSideLabelHolder\CE3E3V2_Oculus Quest 2 Label v1.3mf
+2023_01_12_QuestSideLabelHolder\Oculus Quest 2 Label v1.stl
+2023_01_12_QuestSideLabelHolder\Oculus Quest 2 Label v5.stl
+2023_01_12_QuestSideLabelHolder\Paper Holder.stl
+2023_01_12_QuestSideLabelHolder\PaperShape.dxf
+2023_01_12_QuestSideLabelHolder\PaperShapeDetails.dxf
+2023_01_12_QuestSideLabelHolder\PaperShapeWithMargin.dxf
+2023_01_12_QuestSideLabelHolder\QuestSideLabelHolder.f3d
+2023_01_12_QuestSideLabelHolder\README.md
+2023_01_12_QuestSideLabelHolder\TestPrintSketch.pdf
+2023_01_18_PlotterVinylCutPicaTiny\Plotter Vinyl Ender3 V2 v1.stl
+2023_01_18_PlotterVinylCutPicaTiny\Plotter Vinyl Ender3 V2 v3.stl
+2023_01_18_PlotterVinylCutPicaTiny\Plotter Vinyl Ender3 V2 v7.stl
+2023_01_18_PlotterVinylCutPicaTiny\PlotterPicaTinyVersion.stl
+2023_01_18_PlotterVinylCutPicaTiny\V1_PlotterVinyl.f3d
+2023_01_18_PlotterVinylCutPicaTiny\V2_PlotterVinyl.f3d
+2023_01_19_PicatinyHolderEnder3V2\2023_01_19_PicatinyHolderEnder3V2.stl
+2023_01_19_PicatinyHolderEnder3V2\PicatinnyEnder3V2Adapter v1.stl
+2023_01_19_PicatinyHolderEnder3V2\PicatinnyEnder3V2Adapter v2.stl
+2023_01_19_PicatinyHolderEnder3V2\PicatinnyEnder3V2Adapter v3.stl
+2023_01_19_PicatinyHolderEnder3V2\PicatinnyEnder3V2Adapter v5.f3d
+2023_01_19_PicatinyHolderEnder3V2\PicatinnyEnder3V2Adapter v5.stl
+2023_01_19_PicatinyHolderEnder3V2\README.md
+2023_01_21_AtomstackProPlusPicaTinyHolder\Atomstack ProPlus PicaTinnyHolder v1.stl
+2023_01_21_AtomstackProPlusPicaTinyHolder\Atomstack ProPlus PicaTinnyHolder v3.f3d
+2023_01_21_AtomstackProPlusPicaTinyHolder\README.md
+2023_01_21_LaserEngravingA3PaperCalibration\CutZone.dxf
+2023_01_21_LaserEngravingA3PaperCalibration\GraduationCutBoard.dxf
+2023_01_21_LaserEngravingA3PaperCalibration\README.md
+2023_01_22_LaserCalibrationWrapper\LaserCalibrationWrapper Heavy.stl
+2023_01_22_LaserCalibrationWrapper\LaserCalibrationWrapper Light.stl
+2023_01_22_LaserCalibrationWrapper\LaserCalibrationWrapper v1.f3d
+2023_01_22_LaserCalibrationWrapper\LaserCalibrationWrapper v1.stl
+2023_01_22_LaserCalibrationWrapper\LaserCalibrationWrapper v11.stl
+2023_01_22_LaserCalibrationWrapper\LaserCalibrationWrapper v1Full.stl
+2023_01_22_LaserCalibrationWrapper\LaserCalibrationWrapper v9.stl
+2023_01_22_PlotterPaperCutter\2023_01_22_ToPrint.gcode
+2023_01_22_PlotterPaperCutter\BottomForLaser.stl
+2023_01_22_PlotterPaperCutter\CalibrationSizeForPrinter.stl
+2023_01_22_PlotterPaperCutter\CalibrationSizeForPrinter11801185.stl
+2023_01_22_PlotterPaperCutter\Elastic Plotter v17.stl
+2023_01_22_PlotterPaperCutter\MagnetPlotter v1.stl
+2023_01_22_PlotterPaperCutter\MagnetPlotterTop.stl
+2023_01_22_PlotterPaperCutter\MeasureBottom.dxf
+2023_01_22_PlotterPaperCutter\Plotter Paper Cutter.f3d
+2023_01_22_PlotterPaperCutter\PlotterInnerAdapteur.stl
+2023_01_22_PlotterPaperCutter\PlotterMainStructure.stl
+2023_01_22_PlotterPaperCutter\README.md
+2023_01_22_PlotterPaperCutter\Test AdaptatorCircle.stl
+2023_01_22_PlotterPaperCutter\TestAdaptatorInner.stl
+2023_01_22_SkadisPatternStlAndDXF\README.md
+2023_01_22_SkadisPatternStlAndDXF\Skadis Pegboard v6.f3d
+2023_01_22_SkadisPatternStlAndDXF\Skadis Pegboard v9.f3d
+2023_01_22_SkadisPatternStlAndDXF\SkadisSkadis_20x20_ender.stl
+2023_01_22_SkadisPatternStlAndDXF\SkadisSkadis_20x20_ender_round.stl
+2023_01_22_SkadisPatternStlAndDXF\SkadisSkadis_36x56.stl
+2023_01_22_SkadisPatternStlAndDXF\SkadisSkadis_56x37.stl
+2023_01_22_SkadisPatternStlAndDXF\SkadisSkadis_76x56.stl
+2023_01_22_SkadisPatternStlAndDXF\SkadisSkadis_A3.stl
+2023_01_22_SkadisPatternStlAndDXF\SkadisSkadis_A4.stl
+2023_01_22_SkadisPatternStlAndDXF\SkadisSkadis_Pegboard_v9.stl
+2023_01_23_CalibrationFootDXF\CalibrationFoot_30to40mm.dxf
+2023_01_23_CalibrationFootDXF\FootCalibrationLine.dxf
+2023_01_23_CalibrationFootDXF\FootQualibrationLine.dxf
+2023_01_30_QuestFlatHolderConstruct\DXFFlatVersion.dxf
+2023_01_30_QuestFlatHolderConstruct\Flat Quest Holder Curved v2.stl
+2023_01_30_QuestFlatHolderConstruct\Quest Flat Holder To Store v1.f3d
+2023_01_30_QuestFlatHolderConstruct\Quest Flat Holder To Store v1.stl
+2023_01_30_QuestFlatHolderConstruct\Quest Flat Holder To Store v11.f3d
+2023_01_30_QuestFlatHolderConstruct\Quest Flat Holder To Store v3.stl
+2023_01_30_QuestFlatHolderConstruct\Quest Flat Holder To Store v4.stl
+2023_01_30_QuestFlatHolderConstruct\Quest Flat Holder To Store v6.stl
+2023_01_30_QuestFlatHolderConstruct\Quest Flat Holder To Store v7.stl
+2023_01_30_QuestFlatHolderConstruct\Quest Flat Holder To Store v9.stl
+2023_01_30_QuestFlatHolderConstruct\README.md
+2023_02_07_AppleMouseHolder\2023_02_07_AppleMouseHolderEtsy.zip
+2023_02_07_AppleMouseHolder\329884250_883723872961837_3146300959096836724_n.mp4
+2023_02_07_AppleMouseHolder\Apple Mouse Holder v1.f3d
+2023_02_07_AppleMouseHolder\AppleMouseHolder.png
+2023_02_07_AppleMouseHolder\BlendExportApple_Mouse_Holder_v1_002Apple_Mouse_Holder_v2_001.stl
+2023_02_07_AppleMouseHolder\BlendExportApple_Mouse_Holder_v1_002Apple_Mouse_Holder_v2_002.stl
+2023_02_07_AppleMouseHolder\Cult3D.png
+2023_02_07_AppleMouseHolder\README.md
+2023_02_09_CutVinylLabelForQuest\Capture d’écran 2023-02-09 115108.png
+2023_02_09_CutVinylLabelForQuest\Capture d’écran 2023-02-09 115123.png
+2023_02_09_CutVinylLabelForQuest\Capture d’écran 2023-02-09 115143.png
+2023_02_09_CutVinylLabelForQuest\CutBorder.dxf
+2023_02_09_CutVinylLabelForQuest\CutBorderRound.dxf
+2023_02_09_CutVinylLabelForQuest\LightBurn_cut.lbrn2
+2023_02_09_CutVinylLabelForQuest\ScreenFusion.png
+2023_02_09_CutVinylLabelForQuest\ZigZag.dxf
+2023_02_09_CutVinylLabelForQuest\ZigZagRound.dxf
+2023_02_17_DigitClockMesh\Digit Clock Mesh v1.f3d
+2023_02_17_DigitClockMesh\Digit Clock Mesh v1.fbx
+2023_02_17_DigitClockMesh\Digit Clock Mesh With Space.fbx
+2023_02_17_DigitClockMesh\DigitalClockScore.blend
+2023_02_17_DigitClockMesh\DigitalClockScore.blend1
+2023_02_17_DigitClockMesh\DigitalClockScorePieceRelease.fbx
+2023_02_17_DigitClockMesh\DigitalClockScoreRelease.fbx
+2023_02_18_DroneSoccerGoalShape\2023_02_18_DroneSoccerGoalFormat v0.f3d
+2023_02_18_DroneSoccerGoalShape\2023_02_18_DroneSoccerGoalFormat v3.fbx
+2023_02_18_DroneSoccerGoalShape\2023_02_18_DroneSoccerGoalFormat v3.stl
+2023_02_18_DroneSoccerGoalShape\DroneSoccerGoalFormat.fbx
+2023_02_18_DroneSoccerGoalShape\DroneSoccerGoalFormatGlassUV.png
+2023_02_18_DroneSoccerGoalShape\DroneSoccerGoalFormatUV.png
+2023_02_18_DroneSoccerGoalShape\FBXToUV.blend
+2023_02_18_DroneSoccerGoalShape\FBXToUV.blend1
+2023_02_25_QuestCalibrationAnchor\LeftMarkController.dxf
+2023_02_25_QuestCalibrationAnchor\Mark.stl
+2023_02_25_QuestCalibrationAnchor\MarkQuestCalibrationAnchor_v1.stl
+2023_02_25_QuestCalibrationAnchor\MarkQuestCalibrationAnchor_v1_001.stl
+2023_02_25_QuestCalibrationAnchor\QuestCalibrationAnchor v1.stl
+2023_02_25_QuestCalibrationAnchor\QuestCalibrationAnchor v10.f3d
+2023_02_25_QuestCalibrationAnchor\QuestCalibrationAnchor v13.stl
+2023_02_25_QuestCalibrationAnchor\QuestCalibrationAnchor v3.f3d
+2023_02_25_QuestCalibrationAnchor\QuestCalibrationAnchor v3.stl
+2023_02_25_QuestCalibrationAnchor\QuestCalibrationAnchor v4.stl
+2023_02_25_QuestCalibrationAnchor\QuestCalibrationAnchor v5.stl
+2023_02_25_QuestCalibrationAnchor\QuestCalibrationAnchor v6.stl
+2023_02_25_QuestCalibrationAnchor\QuestCalibrationAnchor v7.stl
+2023_02_25_QuestCalibrationAnchor\QuestCalibrationAnchor.f3d
+2023_02_25_QuestCalibrationAnchor\QuestCalibrationAnchorV2.stl
+2023_02_25_QuestCalibrationAnchor\QuestCalibrationAnchorV7.fbx
+2023_02_25_QuestCalibrationAnchor\README.md
+2023_02_25_QuestCalibrationAnchor\RightMarkController.dxf
+2023_02_28_HexagonQuest2Storage\HexaGoneAreTheBestagone v4.stl
+2023_02_28_HexagonQuest2Storage\HexaGoneAreTheBestagone v6.stl
+2023_02_28_HexagonQuest2Storage\HexaGoneAreTheBestagone v8.f3d
+2023_02_28_HexagonQuest2Storage\HexaGoneAreTheBestagone v8.stl
+2023_02_28_HexagonQuest2Storage\HexaGoneAreTheBestagone2 v4.stl
+2023_02_28_HexagonQuest2Storage\HexaGoneAreTheBestagone2 v8.stl
+2023_02_28_HexagonQuest2Storage\README.md
+2023_02_28_HexagonQuest2Storage\untitledHexaGoneAreTheBestagone_v4_001.stl
+2023_02_28_HexagonQuest2Storage\untitledHexaGoneAreTheBestagone_v4_002.stl
+2023_03_01_FromWeb_QuestAndLynxPerfectFBX\README.md
+2023_03_04_RotationArrowsAxis\RotateArrowCurved.fbx
+2023_03_04_RotationArrowsAxis\RotateArrowCurvedCentered.fbx
+2023_03_04_RotationArrowsAxis\RotateArrowForward.fbx
+2023_03_04_RotationArrowsAxis\Rotation Arrows Axis v1.f3d
+2023_03_14_MicrophoneH1ToPicaTiny\2023_03_14_MicrophoneH1HolderToPicaTiny v1.stl
+2023_03_14_MicrophoneH1ToPicaTiny\2023_03_14_MicrophoneH1HolderToPicaTiny v4.f3d
+2023_03_14_MicrophoneH1ToPicaTiny\2023_03_14_MicrophoneH1HolderToPicaTiny v6.stl
+2023_03_14_MicrophoneH1ToPicaTiny\PicaTinyHolder.stl
+2023_03_14_MicrophoneH1ToPicaTiny\picatinyrailforh1.stl
+2023_03_14_MicrophoneH1ToPicaTiny\PicaTinyTie.stl
+2023_03_14_MicrophoneH1ToPicaTiny\PicaTinyTieHolder.stl
+2023_03_14_MicrophoneH1ToPicaTiny\Project.f3d
+2023_03_14_MicrophoneH1ToPicaTiny\README.md
+2023_10_11_LenseProtectionForTheQuest3\2023_10_11_LensProtectionQuest3.f3d
+2023_10_11_LenseProtectionForTheQuest3\A4 Laser One. lbrn2.lbrn2
+2023_10_11_LenseProtectionForTheQuest3\A4 Laser.lbrn2
+2023_10_11_LenseProtectionForTheQuest3\CE3E3V2_LensProtectionPLA.gcode
+2023_10_11_LenseProtectionForTheQuest3\Ethernal_512x512.png
+2023_10_11_LenseProtectionForTheQuest3\LensProtectionPLA.stl
+2023_10_11_LenseProtectionForTheQuest3\ProtectionSVG.dxf
+2023_10_11_LenseProtectionForTheQuest3\README.md
+2023_12_06_CarRCBattleArena\Bed.mtl
+2023_12_06_CarRCBattleArena\Bed.obj
+2023_12_06_CarRCBattleArena\Bed6.mtl
+2023_12_06_CarRCBattleArena\Bed6.obj
+2023_12_06_CarRCBattleArena\Border.mtl
+2023_12_06_CarRCBattleArena\Border.obj
+2023_12_06_CarRCBattleArena\BorderOne.mtl
+2023_12_06_CarRCBattleArena\BorderOne.obj
+2023_12_06_CarRCBattleArena\BorderOne6.mtl
+2023_12_06_CarRCBattleArena\BorderOne6.obj
+2023_12_06_CarRCBattleArena\Car RC Battle Arena v1.f3d
+2023_12_06_CarRCBattleArena\Car RC Battle Arena v3.obj
+2023_12_06_CarRCBattleArena\Car RC Battle Arena.mtl
+2023_12_06_CarRCBattleArena\Car RC Battle Arena.obj
+2023_12_06_CarRCBattleArena\CarRCBattleArenaSketch.dxf
+2023_12_06_CarRCBattleArena\Corner.mtl
+2023_12_06_CarRCBattleArena\Corner.obj
+2023_12_06_CarRCBattleArena\Ground.kra
+2023_12_06_CarRCBattleArenaJumper\Square.fbx
+2023_12_06_CarRCBattleArenaJumper\Square.mtl
+2023_12_06_CarRCBattleArenaJumper\Square.obj
+2023_12_06_CarRCBattleArenaJumper\StarterBody.mtl
+2023_12_06_CarRCBattleArenaJumper\StarterBody.obj
+2023_12_06_CarRCBattleArenaJumper\StarterSideLeft.mtl
+2023_12_06_CarRCBattleArenaJumper\StarterSideLeft.obj
+2023_12_06_CarRCBattleArenaJumper\StarterSideRight.mtl
+2023_12_06_CarRCBattleArenaJumper\StarterSideRight.obj
+2024_02_20_Az09ArrowsArial\0.mtl
+2024_02_20_Az09ArrowsArial\0.obj
+2024_02_20_Az09ArrowsArial\1.mtl
+2024_02_20_Az09ArrowsArial\1.obj
+2024_02_20_Az09ArrowsArial\2.mtl
+2024_02_20_Az09ArrowsArial\2.obj
+2024_02_20_Az09ArrowsArial\2024_02_20_Az09Arrows v1.f3d
+2024_02_20_Az09ArrowsArial\2024_02_20_Az09Arrows v1.fbx
+2024_02_20_Az09ArrowsArial\3.mtl
+2024_02_20_Az09ArrowsArial\3.obj
+2024_02_20_Az09ArrowsArial\4.mtl
+2024_02_20_Az09ArrowsArial\4.obj
+2024_02_20_Az09ArrowsArial\5.mtl
+2024_02_20_Az09ArrowsArial\5.obj
+2024_02_20_Az09ArrowsArial\6.mtl
+2024_02_20_Az09ArrowsArial\6.obj
+2024_02_20_Az09ArrowsArial\7.mtl
+2024_02_20_Az09ArrowsArial\7.obj
+2024_02_20_Az09ArrowsArial\8.mtl
+2024_02_20_Az09ArrowsArial\8.obj
+2024_02_20_Az09ArrowsArial\9.mtl
+2024_02_20_Az09ArrowsArial\9.obj
+2024_02_20_Az09ArrowsArial\ArrowLeft.mtl
+2024_02_20_Az09ArrowsArial\ArrowLeft.obj
+CNC Disks\BI_10_250_BreakIt8mm.nc
+CNC Disks\BI_250_500_BreakIt8mm.nc
+CNC Disks\BI_500_1500_BreakIt_Under1mm.nc
+CNC Disks\BI_80_50tracks.nc
+CNC Disks\BI_90_140mm_D04mm.nc
+CNC Disks\BreakIt8mm.nc
+CNC Disks\F200.nc
+CNC Disks\HolesInArray.nc
+CNC Disks\iphoneF200.nc
+CNC Disks\LastStab.nc
+CNC Disks\S80BreakIt8mm.nc
+CNC Disks\StabiloHolder.nc
+CNC Disks\StabiloHolder_2020_08_21.nc
+CNC Disks\wb15holes.nc
+CNC Disks\wb8lines.nc
+CNC Disks\words.nc
+FusionSaveExportUnstore\2023_02_18_DroneSoccerGoalFormat v3.f3d
+FusionSaveExportUnstore\2023_03_14_MicrophoneH1HolderToPicaTiny v2.f3d
+FusionSaveExportUnstore\2023_03_14_MicrophoneH1HolderToPicaTiny v9.f3d
+FusionSaveExportUnstore\Digit Clock Mesh v4.f3d
+FusionSaveExportUnstore\Flat Quest Holder Curved v3.f3d
+FusionSaveExportUnstore\HexaGoneAreTheBestagone v10.f3d
+FusionSaveExportUnstore\HexaGoneAreTheBestagone2 v9.f3d
+FusionSaveExportUnstore\QuestCalibrationAnchor v14.f3d
+FusionSaveExportUnstore\Rotation Arrows Axis v5.f3d
+GCODE Disks\4x3_MomHexa3mm.gcode
+GCODE Disks\9HexaPentaOf3mmMom.gcode
+GCODE Disks\CE3_2525.gcode
+GCODE Disks\CE3_2525410.gcode
+GCODE Disks\CE3_2525v0.gcode
+GCODE Disks\CE3_2525v7.gcode
+GCODE Disks\CE3_2525v8.gcode
+GCODE Disks\CE3_ArduinoOnPicaTinnyTestArduinoLeonardoArduinoOnPicaTinny_v1_001.gcode
+GCODE Disks\CE3_Aspire V Nitro CD Holder Replacement v1.gcode
+GCODE Disks\CE3_BoiteResit3.gcode
+GCODE Disks\CE3_CanAndGunStaff_and_Walking_Stick_Pica_Tinny_v2_002.gcode
+GCODE Disks\CE3_HorizontalHolderTest.gcode
+GCODE Disks\CE3_pm.gcode
+GCODE Disks\CE3_rail_only.gcode
+GCODE Disks\CE3_ShogiBoardWithMainPiecesVertical.gcode
+GCODE Disks\CE3_untitledTello_Clip_Around_Second_Draft_v4.gcode
+GCODE Disks\EB3D_Manual_bed_level_E3v2_M0.gcode
+GCODE Disks\EB3D_Manual_bed_level_E3v2_M25.gcode
+GCODE Disks\ReadMe.md
+GCODE Disks\Tip.gcode
+GCODE Disks\ToothPick_3mm_momhexa_3x10pieces.gcode
+GCODE Disks\ToothPick_3mm_momhexa_3x10piecesslow.gcode
+GCODE Disks\ToothPick_3mm_momhexa_5pieces.gcode
+Undecided\GitAutoSave.bat
+2020_06_10_Nano2CapacitivesOneFace\V2\Capture d’écran 2022-05-30 042328.png
+2020_06_10_Nano2CapacitivesOneFace\V2\Capture d’écran 2022-05-30 042328.png.powd
+2020_06_10_Nano2CapacitivesOneFace\V2\Capture d’écran 2022-05-30 042401.png
+2020_06_10_Nano2CapacitivesOneFace\V2\Capture d’écran 2022-05-30 042401.png.powd
+2020_06_10_Nano2CapacitivesOneFace\V2\Nano To Capacitive Sensors One Face Plus v2.f3d
+2020_06_10_Nano2CapacitivesOneFace\V2\Nano To Capacitive Sensors One Face Plus v2.f3d.powd
+2020_06_10_Nano2CapacitivesOneFace\V2\Nano To Capacitive Sensors One Face Plus v2.stl
+2020_06_10_Nano2CapacitivesOneFace\V2\Nano To Capacitive Sensors One Face Plus v2.stl.powd
+2020_09_27_PringleCoinFilterPlates\Filters\CointFiltersCoin_Filter_Plates_v20_001.stl
+2020_09_27_PringleCoinFilterPlates\Filters\CointFiltersCoin_Filter_Plates_v20_001.stl.powd
+2020_09_27_PringleCoinFilterPlates\Filters\CointFiltersCoin_Filter_Plates_v20_002.stl
+2020_09_27_PringleCoinFilterPlates\Filters\CointFiltersCoin_Filter_Plates_v20_002.stl.powd
+2020_09_27_PringleCoinFilterPlates\Filters\CointFiltersCoin_Filter_Plates_v20_003.stl
+2020_09_27_PringleCoinFilterPlates\Filters\CointFiltersCoin_Filter_Plates_v20_003.stl.powd
+2020_09_27_PringleCoinFilterPlates\Filters\CointFiltersCoin_Filter_Plates_v20_004.stl
+2020_09_27_PringleCoinFilterPlates\Filters\CointFiltersCoin_Filter_Plates_v20_004.stl.powd
+2020_09_27_PringleCoinFilterPlates\Filters\CointFiltersCoin_Filter_Plates_v20_005.stl
+2020_09_27_PringleCoinFilterPlates\Filters\CointFiltersCoin_Filter_Plates_v20_005.stl.powd
+2020_09_27_PringleCoinFilterPlates\Filters\CointFiltersCoin_Filter_Plates_v20_006.stl
+2020_09_27_PringleCoinFilterPlates\Filters\CointFiltersCoin_Filter_Plates_v20_006.stl.powd
+2020_09_27_PringleCoinFilterPlates\Filters\CointFiltersCoin_Filter_Plates_v20_007.stl
+2020_09_27_PringleCoinFilterPlates\Filters\CointFiltersCoin_Filter_Plates_v20_007.stl.powd
+2020_09_27_PringleCoinFilterPlates\Filters\CointFiltersCoin_Filter_Plates_v20_008.stl
+2020_09_27_PringleCoinFilterPlates\Filters\CointFiltersCoin_Filter_Plates_v20_008.stl.powd
+2020_09_27_PringleCoinFilterPlates\Filters\CointFiltersCoin_Filter_Plates_v20_009.stl
+2020_09_27_PringleCoinFilterPlates\Filters\CointFiltersCoin_Filter_Plates_v20_009.stl.powd
+2020_09_27_PringleCoinFilterPlates\Filters\CointFiltersCoin_Filter_Plates_v20_010.stl
+2020_09_27_PringleCoinFilterPlates\Filters\CointFiltersCoin_Filter_Plates_v20_010.stl.powd
+2020_09_27_PringleCoinFilterPlates\Filters\CointFiltersCoin_Filter_Plates_v20_011.stl
+2020_09_27_PringleCoinFilterPlates\Filters\CointFiltersCoin_Filter_Plates_v20_011.stl.powd
+2020_09_27_PringleCoinFilterPlates\Filters\CointFiltersCoin_Filter_Plates_v20_012.stl
+2020_09_27_PringleCoinFilterPlates\Filters\CointFiltersCoin_Filter_Plates_v20_012.stl.powd
+2020_09_27_PringleCoinFilterPlates\Gcode\PringleFilterSomeTest.gcode
+2020_09_27_PringleCoinFilterPlates\Gcode\PringleFilterSomeTest.gcode.powd
+2020_09_27_ShoGiCNCProductionBoard\EloiShoghi\PieceAdaptedToPrintB.stl
+2020_09_27_ShoGiCNCProductionBoard\EloiShoghi\PieceAdaptedToPrintB.stl.powd
+2020_09_27_ShoGiCNCProductionBoard\EloiShoghi\PieceAdaptedToPrintG.stl
+2020_09_27_ShoGiCNCProductionBoard\EloiShoghi\PieceAdaptedToPrintG.stl.powd
+2020_09_27_ShoGiCNCProductionBoard\EloiShoghi\PieceAdaptedToPrintK.stl
+2020_09_27_ShoGiCNCProductionBoard\EloiShoghi\PieceAdaptedToPrintK.stl.powd
+2020_09_27_ShoGiCNCProductionBoard\EloiShoghi\PieceAdaptedToPrintL.stl
+2020_09_27_ShoGiCNCProductionBoard\EloiShoghi\PieceAdaptedToPrintL.stl.powd
+2020_09_27_ShoGiCNCProductionBoard\EloiShoghi\PieceAdaptedToPrintN.stl
+2020_09_27_ShoGiCNCProductionBoard\EloiShoghi\PieceAdaptedToPrintN.stl.powd
+2020_09_27_ShoGiCNCProductionBoard\EloiShoghi\PieceAdaptedToPrintP.stl
+2020_09_27_ShoGiCNCProductionBoard\EloiShoghi\PieceAdaptedToPrintP.stl.powd
+2020_09_27_ShoGiCNCProductionBoard\EloiShoghi\PieceAdaptedToPrintR.stl
+2020_09_27_ShoGiCNCProductionBoard\EloiShoghi\PieceAdaptedToPrintR.stl.powd
+2020_09_27_ShoGiCNCProductionBoard\EloiShoghi\PieceAdaptedToPrintS.stl
+2020_09_27_ShoGiCNCProductionBoard\EloiShoghi\PieceAdaptedToPrintS.stl.powd
+2020_09_27_ShoGiCNCProductionBoard\Gcode\CE3_HolderPhone_Holer_5mm.gcode
+2020_09_27_ShoGiCNCProductionBoard\Gcode\CE3_HolderPhone_Holer_5mm.gcode.powd
+2020_09_27_ShoGiCNCProductionBoard\Gcode\CE3_PieceAdaptedToPrintG.gcode
+2020_09_27_ShoGiCNCProductionBoard\Gcode\CE3_PieceAdaptedToPrintG.gcode.powd
+2020_09_27_ShoGiCNCProductionBoard\Screenshot\20220531_190229.jpg
+2020_09_27_ShoGiCNCProductionBoard\Screenshot\20220531_190229.jpg.powd
+2020_09_27_ShoGiCNCProductionBoard\Screenshot\20220601_191722.jpg
+2020_09_27_ShoGiCNCProductionBoard\Screenshot\20220601_191722.jpg.powd
+2020_09_27_ShoGiCNCProductionBoard\Screenshot\20220601_191723.jpg
+2020_09_27_ShoGiCNCProductionBoard\Screenshot\20220601_191723.jpg.powd
+2020_09_27_ShoGiCNCProductionBoard\ShiChessEnder3Version\Convert.blend
+2020_09_27_ShoGiCNCProductionBoard\ShiChessEnder3Version\Convert.blend.powd
+2020_09_27_ShoGiCNCProductionBoard\ShiChessEnder3Version\Convert.blend1
+2020_09_27_ShoGiCNCProductionBoard\ShiChessEnder3Version\Convert.blend1.powd
+2020_09_27_ShoGiCNCProductionBoard\ShiChessEnder3Version\ShogiChessCncAndPLA v2.f3d
+2020_09_27_ShoGiCNCProductionBoard\ShiChessEnder3Version\ShogiChessCncAndPLA v2.f3d.powd
+2020_09_27_ShoGiCNCProductionBoard\ShiChessEnder3Version\ShogiChessCncAndPLA v2.stl
+2020_09_27_ShoGiCNCProductionBoard\ShiChessEnder3Version\ShogiChessCncAndPLA v2.stl.powd
+2020_09_29_CapacitiveHandBoard\FirstDraft\Capture d’écran 2022-05-30 044147.png
+2020_09_29_CapacitiveHandBoard\FirstDraft\Capture d’écran 2022-05-30 044147.png.powd
+2020_09_29_CapacitiveHandBoard\FirstDraft\Wood Hand Slide Board V0 v4.f3z
+2020_09_29_CapacitiveHandBoard\FirstDraft\Wood Hand Slide Board V0 v4.f3z.powd
+2020_09_29_CapacitiveHandBoard\FirstDraft\Wood Hand Slide Board V0 v4.stl
+2020_09_29_CapacitiveHandBoard\FirstDraft\Wood Hand Slide Board V0 v4.stl.powd
+2022_05_12_TruncatedIcosahedron\GCODE\9HexaPentaOf3mmMom.gcode
+2022_05_12_TruncatedIcosahedron\GCODE\9HexaPentaOf3mmMom.gcode.powd
+2022_05_12_TruncatedIcosahedron\Photo\171051635-28f35284-8716-4637-9099-3b0c7094f731.png
+2022_05_12_TruncatedIcosahedron\Photo\171051635-28f35284-8716-4637-9099-3b0c7094f731.png.powd
+2022_05_12_TruncatedIcosahedron\Photo\171051640-a18e6b6c-7057-4048-8077-69fcd0004123.png
+2022_05_12_TruncatedIcosahedron\Photo\171051640-a18e6b6c-7057-4048-8077-69fcd0004123.png.powd
+2022_05_12_TruncatedIcosahedron\Photo\171486192-dadb9d33-8c7a-40f8-8e77-050eed594be6.png
+2022_05_12_TruncatedIcosahedron\Photo\171486192-dadb9d33-8c7a-40f8-8e77-050eed594be6.png.powd
+2022_05_12_TruncatedIcosahedron\Photo\171486231-c70e53a9-c8a2-44b7-9401-fc1b62b79b64.png
+2022_05_12_TruncatedIcosahedron\Photo\171486231-c70e53a9-c8a2-44b7-9401-fc1b62b79b64.png.powd
+2022_05_12_TruncatedIcosahedron\Photo\171486303-fcaf9e23-dbf3-4de1-adea-42eeac15a487.png
+2022_05_12_TruncatedIcosahedron\Photo\171486303-fcaf9e23-dbf3-4de1-adea-42eeac15a487.png.powd
+2022_05_12_TruncatedIcosahedron\Photo\20220530_145805.jpg
+2022_05_12_TruncatedIcosahedron\Photo\20220530_145805.jpg.powd
+2022_05_12_TruncatedIcosahedron\Photo\20220530_145806.jpg
+2022_05_12_TruncatedIcosahedron\Photo\20220530_145806.jpg.powd
+2022_05_12_TruncatedIcosahedron\Photo\20220530_145813.jpg
+2022_05_12_TruncatedIcosahedron\Photo\20220530_145813.jpg.powd
+2022_05_12_TruncatedIcosahedron\Photo\20220530_145822.jpg
+2022_05_12_TruncatedIcosahedron\Photo\20220530_145822.jpg.powd
+2022_05_12_TruncatedIcosahedron\Photo\20220530_145829.jpg
+2022_05_12_TruncatedIcosahedron\Photo\20220530_145829.jpg.powd
+2022_05_12_TruncatedIcosahedron\Photo\20220530_145840.jpg
+2022_05_12_TruncatedIcosahedron\Photo\20220530_145840.jpg.powd
+2022_05_12_TruncatedIcosahedron\Photo\20220530_145849.jpg
+2022_05_12_TruncatedIcosahedron\Photo\20220530_145849.jpg.powd
+2022_05_12_TruncatedIcosahedron\Photo\Capture d’écran 2022-06-01 212557.png
+2022_05_12_TruncatedIcosahedron\Photo\Capture d’écran 2022-06-01 212557.png.powd
+2022_05_12_TruncatedIcosahedron\Unstored\2525.blend
+2022_05_12_TruncatedIcosahedron\Unstored\2525.blend.powd
+2022_05_12_TruncatedIcosahedron\Unstored\2525.blend1
+2022_05_12_TruncatedIcosahedron\Unstored\2525.blend1.powd
+2022_05_12_TruncatedIcosahedron\Unstored\2525.stl
+2022_05_12_TruncatedIcosahedron\Unstored\2525.stl.powd
+2022_05_12_TruncatedIcosahedron\Unstored\25251.blend
+2022_05_12_TruncatedIcosahedron\Unstored\25251.blend.powd
+2022_05_12_TruncatedIcosahedron\Unstored\25251.blend1
+2022_05_12_TruncatedIcosahedron\Unstored\25251.blend1.powd
+2022_05_12_TruncatedIcosahedron\Unstored\25252.blend
+2022_05_12_TruncatedIcosahedron\Unstored\25252.blend.powd
+2022_05_12_TruncatedIcosahedron\Unstored\25252.blend1
+2022_05_12_TruncatedIcosahedron\Unstored\25252.blend1.powd
+2022_05_12_TruncatedIcosahedron\Unstored\25253.blend
+2022_05_12_TruncatedIcosahedron\Unstored\25253.blend.powd
+2022_05_12_TruncatedIcosahedron\Unstored\25253.blend1
+2022_05_12_TruncatedIcosahedron\Unstored\25253.blend1.powd
+2022_05_12_TruncatedIcosahedron\Unstored\25254.blend
+2022_05_12_TruncatedIcosahedron\Unstored\25254.blend.powd
+2022_05_12_TruncatedIcosahedron\Unstored\25254.blend1
+2022_05_12_TruncatedIcosahedron\Unstored\25254.blend1.powd
+2022_05_12_TruncatedIcosahedron\Unstored\2525410.blend
+2022_05_12_TruncatedIcosahedron\Unstored\2525410.blend.powd
+2022_05_12_TruncatedIcosahedron\Unstored\2525410.stl
+2022_05_12_TruncatedIcosahedron\Unstored\2525410.stl.powd
+2022_05_12_TruncatedIcosahedron\Unstored\25255.blend
+2022_05_12_TruncatedIcosahedron\Unstored\25255.blend.powd
+2022_05_12_TruncatedIcosahedron\Unstored\25255.blend1
+2022_05_12_TruncatedIcosahedron\Unstored\25255.blend1.powd
+2022_05_12_TruncatedIcosahedron\Unstored\2525B.stl
+2022_05_12_TruncatedIcosahedron\Unstored\2525B.stl.powd
+2022_05_12_TruncatedIcosahedron\Unstored\2525v0.stl
+2022_05_12_TruncatedIcosahedron\Unstored\2525v0.stl.powd
+2022_05_12_TruncatedIcosahedron\Unstored\2525v01.stl
+2022_05_12_TruncatedIcosahedron\Unstored\2525v01.stl.powd
+2022_05_12_TruncatedIcosahedron\Unstored\2525v02.stl
+2022_05_12_TruncatedIcosahedron\Unstored\2525v02.stl.powd
+2022_05_12_TruncatedIcosahedron\Unstored\2525v03.stl
+2022_05_12_TruncatedIcosahedron\Unstored\2525v03.stl.powd
+2022_05_12_TruncatedIcosahedron\Unstored\2525v04.stl
+2022_05_12_TruncatedIcosahedron\Unstored\2525v04.stl.powd
+2022_05_12_TruncatedIcosahedron\Unstored\2525v05.stl
+2022_05_12_TruncatedIcosahedron\Unstored\2525v05.stl.powd
+2022_05_12_TruncatedIcosahedron\Unstored\2525v06.stl
+2022_05_12_TruncatedIcosahedron\Unstored\2525v06.stl.powd
+2022_05_12_TruncatedIcosahedron\Unstored\2525v7.stl
+2022_05_12_TruncatedIcosahedron\Unstored\2525v7.stl.powd
+2022_05_12_TruncatedIcosahedron\Unstored\buckynode.stl
+2022_05_12_TruncatedIcosahedron\Unstored\buckynode.stl.powd
+2022_05_12_TruncatedIcosahedron\Unstored\buckynode25x25.stl
+2022_05_12_TruncatedIcosahedron\Unstored\buckynode25x25.stl.powd
+2022_05_12_TruncatedIcosahedron\Unstored\HexaPentaMom_2_5mm.blend
+2022_05_12_TruncatedIcosahedron\Unstored\HexaPentaMom_2_5mm.blend.powd
+2022_05_12_TruncatedIcosahedron\Unstored\HexaPentaMom_3mm.blend
+2022_05_12_TruncatedIcosahedron\Unstored\HexaPentaMom_3mm.blend.powd
+2022_05_12_TruncatedIcosahedron\Unstored\README.md
+2022_05_12_TruncatedIcosahedron\Unstored\README.md.powd
+2022_05_12_TruncatedIcosahedron\Unstored\SoccerVertexX12.stl
+2022_05_12_TruncatedIcosahedron\Unstored\SoccerVertexX12.stl.powd
+2022_05_12_TruncatedIcosahedron\Unstored\StackTest5.stl
+2022_05_12_TruncatedIcosahedron\Unstored\StackTest5.stl.powd
+2022_05_12_TruncatedIcosahedron\Unstored\Thing files for Toothpick Truncated Icosahedron by scorch - Thingiverse.URL
+2022_05_12_TruncatedIcosahedron\Unstored\Thing files for Toothpick Truncated Icosahedron by scorch - Thingiverse.URL.powd
+2022_05_12_TruncatedIcosahedron\Unstored\Thing files for Truncated Icosahedron by hwiguna - Thingiverse.URL
+2022_05_12_TruncatedIcosahedron\Unstored\Thing files for Truncated Icosahedron by hwiguna - Thingiverse.URL.powd
+2022_05_12_TruncatedIcosahedron\Unstored\Truncated icosahedron - Wikipedia.URL
+2022_05_12_TruncatedIcosahedron\Unstored\Truncated icosahedron - Wikipedia.URL.powd
+2022_05_12_TruncatedIcosahedron\Unstored\uploads_5a_51_4d_8e_9c_buckynode.scad
+2022_05_12_TruncatedIcosahedron\Unstored\uploads_5a_51_4d_8e_9c_buckynode.scad.powd
+2022_05_12_TruncatedIcosahedron\V2\CE3_V_2_0TruncatedIcosphereV2_v2_001.gcode
+2022_05_12_TruncatedIcosahedron\V2\CE3_V_2_0TruncatedIcosphereV2_v2_001.gcode.powd
+2022_05_12_TruncatedIcosahedron\V2\CE3_V_2_0TruncatedIcosphereV2_v2_001TruncatedIcosphereV2_v5_001.3mf
+2022_05_12_TruncatedIcosahedron\V2\CE3_V_2_0TruncatedIcosphereV2_v2_001TruncatedIcosphereV2_v5_001.3mf.powd
+2022_05_12_TruncatedIcosahedron\V2\ExportV2.blend
+2022_05_12_TruncatedIcosahedron\V2\ExportV2.blend.powd
+2022_05_12_TruncatedIcosahedron\V2\ExportV2.blend1
+2022_05_12_TruncatedIcosahedron\V2\ExportV2.blend1.powd
+2022_05_12_TruncatedIcosahedron\V2\TruncatedIcosphereGroup4.gcode
+2022_05_12_TruncatedIcosahedron\V2\TruncatedIcosphereGroup4.gcode.powd
+2022_05_12_TruncatedIcosahedron\V2\TruncatedIcosphereV2 v2.stl
+2022_05_12_TruncatedIcosahedron\V2\TruncatedIcosphereV2 v2.stl.powd
+2022_05_12_TruncatedIcosahedron\V2\TruncatedIcosphereV2 v3.stl
+2022_05_12_TruncatedIcosahedron\V2\TruncatedIcosphereV2 v3.stl.powd
+2022_05_12_TruncatedIcosahedron\V2\TruncatedIcosphereV2 v5.stl
+2022_05_12_TruncatedIcosahedron\V2\TruncatedIcosphereV2 v5.stl.powd
+2022_05_12_TruncatedIcosahedron\V2\V_2_0TruncatedIcosphereV2_v2_001.stl
+2022_05_12_TruncatedIcosahedron\V2\V_2_0TruncatedIcosphereV2_v2_001.stl.powd
+2022_05_12_TruncatedIcosahedron\V2\V_2_0TruncatedIcosphereV2_v2_001TruncatedIcosphereV2_v5_001.stl
+2022_05_12_TruncatedIcosahedron\V2\V_2_0TruncatedIcosphereV2_v2_001TruncatedIcosphereV2_v5_001.stl.powd
+2022_05_29_Scrabble\Gcode\CKNDB.gcode
+2022_05_29_Scrabble\Gcode\CKNDB.gcode.powd
+2022_05_29_Scrabble\Gcode\ILJFH.gcode
+2022_05_29_Scrabble\Gcode\ILJFH.gcode.powd
+2022_05_29_Scrabble\Gcode\O12_89.gcode
+2022_05_29_Scrabble\Gcode\O12_89.gcode.powd
+2022_05_29_Scrabble\Gcode\QMRUV.gcode
+2022_05_29_Scrabble\Gcode\QMRUV.gcode.powd
+2022_05_29_Scrabble\Gcode\WXGPT.gcode
+2022_05_29_Scrabble\Gcode\WXGPT.gcode.powd
+2022_05_29_Scrabble\Gcode\ZSYEA.gcode
+2022_05_29_Scrabble\Gcode\ZSYEA.gcode.powd
+2022_05_29_Scrabble\photo\20220529_231431.jpg
+2022_05_29_Scrabble\photo\20220529_231431.jpg.powd
+2022_05_29_Scrabble\photo\20220529_231434.jpg
+2022_05_29_Scrabble\photo\20220529_231434.jpg.powd
+2022_05_29_Scrabble\photo\20220530_000021.jpg
+2022_05_29_Scrabble\photo\20220530_000021.jpg.powd
+2022_05_29_Scrabble\photo\20220530_000022.jpg
+2022_05_29_Scrabble\photo\20220530_000022.jpg.powd
+2022_05_30_HexagonSataStorage\Raw CNC Version\SataSATA_Storage_Large.stl
+2022_05_30_HexagonSataStorage\Raw CNC Version\SataSATA_Storage_Large.stl.powd
+2022_05_30_HexagonSataStorage\Raw CNC Version\SataSATA_Storage_Small.stl
+2022_05_30_HexagonSataStorage\Raw CNC Version\SataSATA_Storage_Small.stl.powd
+2022_05_30_HexagonSataStorage\Raw CNC Version\SataStorage.blend
+2022_05_30_HexagonSataStorage\Raw CNC Version\SataStorage.blend.powd
+2022_05_30_HexagonSataStorage\Raw CNC Version\SataStorage.blend1
+2022_05_30_HexagonSataStorage\Raw CNC Version\SataStorage.blend1.powd
+2022_06_10_TwoPlatesThroughHole\Test_06_10\justJointest.3mf
+2022_06_10_TwoPlatesThroughHole\Test_06_10\justJointest.3mf.powd
+2022_06_10_TwoPlatesThroughHole\Test_06_10\justJointeststep.gcode
+2022_06_10_TwoPlatesThroughHole\Test_06_10\justJointeststep.gcode.powd
+2022_06_10_TwoPlatesThroughHole\Test_06_10\untitledTwoBoardsThroghPlaneWith30mmHole_v2_001.stl
+2022_06_10_TwoPlatesThroughHole\Test_06_10\untitledTwoBoardsThroghPlaneWith30mmHole_v2_001.stl.powd
+2022_06_10_TwoPlatesThroughHole\Test_06_10\untitledTwoBoardsThroghPlaneWith30mmHole_v2_002.stl
+2022_06_10_TwoPlatesThroughHole\Test_06_10\untitledTwoBoardsThroghPlaneWith30mmHole_v2_002.stl.powd
+2022_06_10_TwoPlatesThroughHole\Test_06_10\untitledTwoBoardsThroghPlaneWith30mmHole_v2_003.stl
+2022_06_10_TwoPlatesThroughHole\Test_06_10\untitledTwoBoardsThroghPlaneWith30mmHole_v2_003.stl.powd
+2022_06_10_TwoPlatesThroughHole\Test_06_10\untitledTwoBoardsThroghPlaneWith30mmHole_v2_004.stl
+2022_06_10_TwoPlatesThroughHole\Test_06_10\untitledTwoBoardsThroghPlaneWith30mmHole_v2_004.stl.powd
+2022_06_10_TwoPlatesThroughHole\Test_06_10\untitledTwoBoardsThroghPlaneWith30mmHole_v2_005.stl
+2022_06_10_TwoPlatesThroughHole\Test_06_10\untitledTwoBoardsThroghPlaneWith30mmHole_v2_005.stl.powd
+2022_06_10_TwoPlatesThroughHole\Test_06_10\untitledTwoBoardsThroghPlaneWith30mmHole_v2_006.stl
+2022_06_10_TwoPlatesThroughHole\Test_06_10\untitledTwoBoardsThroghPlaneWith30mmHole_v2_006.stl.powd
+2022_06_10_TwoPlatesThroughHole\Test_06_10\untitledTwoBoardsThroghPlaneWith30mmHole_v2_007.stl
+2022_06_10_TwoPlatesThroughHole\Test_06_10\untitledTwoBoardsThroghPlaneWith30mmHole_v2_007.stl.powd
+2022_06_10_TwoPlatesThroughHole\Test_06_10\untitledTwoBoardsThroghPlaneWith30mmHole_v2_008.stl
+2022_06_10_TwoPlatesThroughHole\Test_06_10\untitledTwoBoardsThroghPlaneWith30mmHole_v2_008.stl.powd
+2022_06_10_TwoPlatesThroughHole\Test_06_11\ToMark.stl
+2022_06_10_TwoPlatesThroughHole\Test_06_11\ToMark.stl.powd
+2022_06_10_TwoPlatesThroughHole\Test_06_11\ToTestTwoBoardsThroghPlaneWith30mmHole_v2_001.stl
+2022_06_10_TwoPlatesThroughHole\Test_06_11\ToTestTwoBoardsThroghPlaneWith30mmHole_v2_001.stl.powd
+2022_06_10_TwoPlatesThroughHole\Test_06_11\ToTestTwoBoardsThroghPlaneWith30mmHole_v2_002.stl
+2022_06_10_TwoPlatesThroughHole\Test_06_11\ToTestTwoBoardsThroghPlaneWith30mmHole_v2_002.stl.powd
+2022_06_10_TwoPlatesThroughHole\Test_06_11\ToTestTwoBoardsThroghPlaneWith30mmHole_v2_003.stl
+2022_06_10_TwoPlatesThroughHole\Test_06_11\ToTestTwoBoardsThroghPlaneWith30mmHole_v2_003.stl.powd
+2022_06_10_TwoPlatesThroughHole\Test_06_11\ToTestTwoBoardsThroghPlaneWith30mmHole_v2_004.stl
+2022_06_10_TwoPlatesThroughHole\Test_06_11\ToTestTwoBoardsThroghPlaneWith30mmHole_v2_004.stl.powd
+2022_06_10_TwoPlatesThroughHole\Test_06_11\ToTestTwoBoardsThroghPlaneWith30mmHole_v2_005.stl
+2022_06_10_TwoPlatesThroughHole\Test_06_11\ToTestTwoBoardsThroghPlaneWith30mmHole_v2_005.stl.powd
+2022_06_10_TwoPlatesThroughHole\Test_06_11\ToTestTwoBoardsThroghPlaneWith30mmHole_v2_006.stl
+2022_06_10_TwoPlatesThroughHole\Test_06_11\ToTestTwoBoardsThroghPlaneWith30mmHole_v2_006.stl.powd
+2022_06_10_TwoPlatesThroughHole\Test_06_11\ToTestTwoBoardsThroghPlaneWith30mmHole_v2_007.stl
+2022_06_10_TwoPlatesThroughHole\Test_06_11\ToTestTwoBoardsThroghPlaneWith30mmHole_v2_007.stl.powd
+2022_06_10_TwoPlatesThroughHole\Test_06_11\ToTestTwoBoardsThroghPlaneWith30mmHole_v2_008.stl
+2022_06_10_TwoPlatesThroughHole\Test_06_11\ToTestTwoBoardsThroghPlaneWith30mmHole_v2_008.stl.powd
+2022_06_10_TwoPlatesThroughHole\Test_06_11\ToTestTwoBoardsThroghPlaneWith30mmHole_v2_009.stl
+2022_06_10_TwoPlatesThroughHole\Test_06_11\ToTestTwoBoardsThroghPlaneWith30mmHole_v2_009.stl.powd
+2022_06_10_TwoPlatesThroughHole\Test_06_11\ToTestTwoBoardsThroghPlaneWith30mmHole_v2_010.stl
+2022_06_10_TwoPlatesThroughHole\Test_06_11\ToTestTwoBoardsThroghPlaneWith30mmHole_v2_010.stl.powd
+2022_06_10_TwoPlatesThroughHole\Test_06_13\BigPlate20cm1mm.3mf
+2022_06_10_TwoPlatesThroughHole\Test_06_13\BigPlate20cm1mm.3mf.powd
+2022_06_10_TwoPlatesThroughHole\Test_06_13\BigPlate20cm1mmPart2.gcode
+2022_06_10_TwoPlatesThroughHole\Test_06_13\BigPlate20cm1mmPart2.gcode.powd
+2022_06_10_TwoPlatesThroughHole\Test_06_13\Part1.3mf
+2022_06_10_TwoPlatesThroughHole\Test_06_13\Part1.3mf.powd
+2022_06_10_TwoPlatesThroughHole\Test_06_13\TwoBoardsThroghPlaneWith30mmHoleTwoBoardsThroghPlaneWith30mmHole_v3_001.stl
+2022_06_10_TwoPlatesThroughHole\Test_06_13\TwoBoardsThroghPlaneWith30mmHoleTwoBoardsThroghPlaneWith30mmHole_v3_001.stl.powd
+2022_06_10_TwoPlatesThroughHole\Test_06_13\TwoBoardsThroghPlaneWith30mmHoleTwoBoardsThroghPlaneWith30mmHole_v3_002.stl
+2022_06_10_TwoPlatesThroughHole\Test_06_13\TwoBoardsThroghPlaneWith30mmHoleTwoBoardsThroghPlaneWith30mmHole_v3_002.stl.powd
+2022_06_10_TwoPlatesThroughHole\Test_06_13\TwoBoardsThroghPlaneWith30mmHoleTwoBoardsThroghPlaneWith30mmHole_v3_003.stl
+2022_06_10_TwoPlatesThroughHole\Test_06_13\TwoBoardsThroghPlaneWith30mmHoleTwoBoardsThroghPlaneWith30mmHole_v3_003.stl.powd
+2022_06_10_TwoPlatesThroughHole\Test_06_13\TwoBoardsThroghPlaneWith30mmHoleTwoBoardsThroghPlaneWith30mmHole_v3_004.stl
+2022_06_10_TwoPlatesThroughHole\Test_06_13\TwoBoardsThroghPlaneWith30mmHoleTwoBoardsThroghPlaneWith30mmHole_v3_004.stl.powd
+2022_06_10_TwoPlatesThroughHole\Test_06_13\TwoBoardsThroghPlaneWith30mmHoleTwoBoardsThroghPlaneWith30mmHole_v3_005.stl
+2022_06_10_TwoPlatesThroughHole\Test_06_13\TwoBoardsThroghPlaneWith30mmHoleTwoBoardsThroghPlaneWith30mmHole_v3_005.stl.powd
+2022_06_10_TwoPlatesThroughHole\Test_06_13\TwoBoardsThroghPlaneWith30mmHoleTwoBoardsThroghPlaneWith30mmHole_v3_006.stl
+2022_06_10_TwoPlatesThroughHole\Test_06_13\TwoBoardsThroghPlaneWith30mmHoleTwoBoardsThroghPlaneWith30mmHole_v3_006.stl.powd
+2022_06_10_TwoPlatesThroughHole\Test_06_13\TwoBoardsThroghPlaneWith30mmHoleTwoBoardsThroghPlaneWith30mmHole_v3_007.stl
+2022_06_10_TwoPlatesThroughHole\Test_06_13\TwoBoardsThroghPlaneWith30mmHoleTwoBoardsThroghPlaneWith30mmHole_v3_007.stl.powd
+2022_06_10_TwoPlatesThroughHole\Test_06_14\V12TwoBoardsThroghPlaneWith30mmHole_v5_001.stl
+2022_06_10_TwoPlatesThroughHole\Test_06_14\V12TwoBoardsThroghPlaneWith30mmHole_v5_001.stl.powd
+2022_06_10_TwoPlatesThroughHole\Test_06_14\V12TwoBoardsThroghPlaneWith30mmHole_v5_002.stl
+2022_06_10_TwoPlatesThroughHole\Test_06_14\V12TwoBoardsThroghPlaneWith30mmHole_v5_002.stl.powd
+2022_06_10_TwoPlatesThroughHole\Test_06_14\V6TwoBoardsThroghPlaneWith30mmHole_v6.stl
+2022_06_10_TwoPlatesThroughHole\Test_06_14\V6TwoBoardsThroghPlaneWith30mmHole_v6.stl.powd
+2022_06_10_TwoPlatesThroughHole\Test_06_14\V6TwoBoardsThroghPlaneWith30mmHole_v6_001.stl
+2022_06_10_TwoPlatesThroughHole\Test_06_14\V6TwoBoardsThroghPlaneWith30mmHole_v6_001.stl.powd
+2022_06_10_TwoPlatesThroughHole\Test_06_14\V7TwoBoardsThroghPlaneWith30mmHole_v7_001.stl
+2022_06_10_TwoPlatesThroughHole\Test_06_14\V7TwoBoardsThroghPlaneWith30mmHole_v7_001.stl.powd
+2022_06_10_TwoPlatesThroughHole\Test_06_14\V7TwoBoardsThroghPlaneWith30mmHole_v7_002.stl
+2022_06_10_TwoPlatesThroughHole\Test_06_14\V7TwoBoardsThroghPlaneWith30mmHole_v7_002.stl.powd
+2022_06_10_TwoPlatesThroughHole\Test_06_14\V7TwoBoardsThroghPlaneWith30mmHole_v7_003.stl
+2022_06_10_TwoPlatesThroughHole\Test_06_14\V7TwoBoardsThroghPlaneWith30mmHole_v7_003.stl.powd
+2022_06_10_TwoPlatesThroughHole\Test_06_14\V7TwoBoardsThroghPlaneWith30mmHole_v7_004.stl
+2022_06_10_TwoPlatesThroughHole\Test_06_14\V7TwoBoardsThroghPlaneWith30mmHole_v7_004.stl.powd
+2022_06_10_TwoPlatesThroughHole\V2\2022_06_14_PrintTest.gcode
+2022_06_10_TwoPlatesThroughHole\V2\2022_06_14_PrintTest.gcode.powd
+2022_06_10_TwoPlatesThroughHole\V2\BaseV2.3mf
+2022_06_10_TwoPlatesThroughHole\V2\BaseV2.3mf.powd
+2022_06_10_TwoPlatesThroughHole\V2\PaperSize.3mf
+2022_06_10_TwoPlatesThroughHole\V2\PaperSize.3mf.powd
+2022_06_10_TwoPlatesThroughHole\V2\PaperSize.stl
+2022_06_10_TwoPlatesThroughHole\V2\PaperSize.stl.powd
+2022_06_10_TwoPlatesThroughHole\V2\PaperSizeTwoBoardsThroghPlaneWith30mmHole_v8_001.stl
+2022_06_10_TwoPlatesThroughHole\V2\PaperSizeTwoBoardsThroghPlaneWith30mmHole_v8_001.stl.powd
+2022_06_10_TwoPlatesThroughHole\V2\PaperSizeTwoBoardsThroghPlaneWith30mmHole_v8_002.stl
+2022_06_10_TwoPlatesThroughHole\V2\PaperSizeTwoBoardsThroghPlaneWith30mmHole_v8_002.stl.powd
+2022_06_10_TwoPlatesThroughHole\V2\PaperSizeTwoBoardsThroghPlaneWith30mmHole_v8_003.stl
+2022_06_10_TwoPlatesThroughHole\V2\PaperSizeTwoBoardsThroghPlaneWith30mmHole_v8_003.stl.powd
+2022_06_10_TwoPlatesThroughHole\V2\PaperSizeTwoBoardsThroghPlaneWith30mmHole_v8_004.stl
+2022_06_10_TwoPlatesThroughHole\V2\PaperSizeTwoBoardsThroghPlaneWith30mmHole_v8_004.stl.powd
+2022_06_10_TwoPlatesThroughHole\V2\PaperSizeTwoBoardsThroghPlaneWith30mmHole_v8_005.stl
+2022_06_10_TwoPlatesThroughHole\V2\PaperSizeTwoBoardsThroghPlaneWith30mmHole_v8_005.stl.powd
+2022_06_10_TwoPlatesThroughHole\V2\PaperSizeTwoBoardsThroghPlaneWith30mmHole_v8_006.stl
+2022_06_10_TwoPlatesThroughHole\V2\PaperSizeTwoBoardsThroghPlaneWith30mmHole_v8_006.stl.powd
+2022_06_10_TwoPlatesThroughHole\V2\PaperSizeTwoBoardsThroghPlaneWith30mmHole_v8_007.stl
+2022_06_10_TwoPlatesThroughHole\V2\PaperSizeTwoBoardsThroghPlaneWith30mmHole_v8_007.stl.powd
+2022_06_10_TwoPlatesThroughHole\V2\PaperSizeTwoBoardsThroghPlaneWith30mmHole_v8_008.stl
+2022_06_10_TwoPlatesThroughHole\V2\PaperSizeTwoBoardsThroghPlaneWith30mmHole_v8_008.stl.powd
+2022_06_10_TwoPlatesThroughHole\V2\PaperSizeTwoBoardsThroghPlaneWith30mmHole_v8_009.stl
+2022_06_10_TwoPlatesThroughHole\V2\PaperSizeTwoBoardsThroghPlaneWith30mmHole_v8_009.stl.powd
+2022_06_10_TwoPlatesThroughHole\V2\PaperSizeTwoBoardsThroghPlaneWith30mmHole_v8_010.stl
+2022_06_10_TwoPlatesThroughHole\V2\PaperSizeTwoBoardsThroghPlaneWith30mmHole_v8_010.stl.powd
+2022_06_10_TwoPlatesThroughHole\V2\PaperSizeTwoBoardsThroghPlaneWith30mmHole_v8_011.stl
+2022_06_10_TwoPlatesThroughHole\V2\PaperSizeTwoBoardsThroghPlaneWith30mmHole_v8_011.stl.powd
+2022_06_10_TwoPlatesThroughHole\V2\PaperSizeTwoBoardsThroghPlaneWith30mmHole_v8_012.stl
+2022_06_10_TwoPlatesThroughHole\V2\PaperSizeTwoBoardsThroghPlaneWith30mmHole_v8_012.stl.powd
+2022_06_10_TwoPlatesThroughHole\V2\PaperSizeTwoBoardsThroghPlaneWith30mmHole_v8_013.stl
+2022_06_10_TwoPlatesThroughHole\V2\PaperSizeTwoBoardsThroghPlaneWith30mmHole_v8_013.stl.powd
+2022_06_10_TwoPlatesThroughHole\V2\PaperSizeTwoBoardsThroghPlaneWith30mmHole_v8_014.stl
+2022_06_10_TwoPlatesThroughHole\V2\PaperSizeTwoBoardsThroghPlaneWith30mmHole_v8_014.stl.powd
+2022_06_10_TwoPlatesThroughHole\V2\PaperSizeTwoBoardsThroghPlaneWith30mmHole_v8_015.stl
+2022_06_10_TwoPlatesThroughHole\V2\PaperSizeTwoBoardsThroghPlaneWith30mmHole_v8_015.stl.powd
+2022_06_10_TwoPlatesThroughHole\V2\PaperSizeTwoBoardsThroghPlaneWith30mmHole_v8_016.stl
+2022_06_10_TwoPlatesThroughHole\V2\PaperSizeTwoBoardsThroghPlaneWith30mmHole_v8_016.stl.powd
+2022_06_10_TwoPlatesThroughHole\V2\PaperSizeTwoBoardsThroghPlaneWith30mmHole_v8_017.stl
+2022_06_10_TwoPlatesThroughHole\V2\PaperSizeTwoBoardsThroghPlaneWith30mmHole_v8_017.stl.powd
+2022_06_10_TwoPlatesThroughHole\V2\PaperSizeV2All.gcode
+2022_06_10_TwoPlatesThroughHole\V2\PaperSizeV2All.gcode.powd
+2022_06_10_TwoPlatesThroughHole\V2\PlateV2.3mf
+2022_06_10_TwoPlatesThroughHole\V2\PlateV2.3mf.powd
+2022_06_10_TwoPlatesThroughHole\V2\PlateV2Smalls.gcode
+2022_06_10_TwoPlatesThroughHole\V2\PlateV2Smalls.gcode.powd
+2022_06_10_TwoPlatesThroughHole\V2\PlateV2_024.stl
+2022_06_10_TwoPlatesThroughHole\V2\PlateV2_024.stl.powd
+2022_06_10_TwoPlatesThroughHole\V2\PlateV2_025.stl
+2022_06_10_TwoPlatesThroughHole\V2\PlateV2_025.stl.powd
+2022_06_10_TwoPlatesThroughHole\V2\PlateV2_026.stl
+2022_06_10_TwoPlatesThroughHole\V2\PlateV2_026.stl.powd
+2022_06_10_TwoPlatesThroughHole\V2\PlateV2_027.stl
+2022_06_10_TwoPlatesThroughHole\V2\PlateV2_027.stl.powd
+2022_06_10_TwoPlatesThroughHole\V2\PlateV2_028.stl
+2022_06_10_TwoPlatesThroughHole\V2\PlateV2_028.stl.powd
+2022_06_10_TwoPlatesThroughHole\V2\PlateV2_029.stl
+2022_06_10_TwoPlatesThroughHole\V2\PlateV2_029.stl.powd
+2022_06_10_TwoPlatesThroughHole\V2\PlateV2_030.stl
+2022_06_10_TwoPlatesThroughHole\V2\PlateV2_030.stl.powd
+2022_06_10_TwoPlatesThroughHole\V2\PlateV2_031.stl
+2022_06_10_TwoPlatesThroughHole\V2\PlateV2_031.stl.powd
+2022_06_10_TwoPlatesThroughHole\V2\PlateV2_032.stl
+2022_06_10_TwoPlatesThroughHole\V2\PlateV2_032.stl.powd
+2022_06_10_TwoPlatesThroughHole\V2\PlateV2_033.stl
+2022_06_10_TwoPlatesThroughHole\V2\PlateV2_033.stl.powd
+2022_06_10_TwoPlatesThroughHole\V2\PlateV2_034.stl
+2022_06_10_TwoPlatesThroughHole\V2\PlateV2_034.stl.powd
+2022_06_10_TwoPlatesThroughHole\V2\PlateV2_035.stl
+2022_06_10_TwoPlatesThroughHole\V2\PlateV2_035.stl.powd
+2022_06_10_TwoPlatesThroughHole\V2\PlateV2_036.stl
+2022_06_10_TwoPlatesThroughHole\V2\PlateV2_036.stl.powd
+2022_06_10_TwoPlatesThroughHole\V2\PlateV2_037.stl
+2022_06_10_TwoPlatesThroughHole\V2\PlateV2_037.stl.powd
+2022_06_10_TwoPlatesThroughHole\V2\PlateV2_038.stl
+2022_06_10_TwoPlatesThroughHole\V2\PlateV2_038.stl.powd
+2022_06_10_TwoPlatesThroughHole\V2\TwoBoardsThroghPlaneWith30mmHole v8.stl
+2022_06_10_TwoPlatesThroughHole\V2\TwoBoardsThroghPlaneWith30mmHole v8.stl.powd
+2022_06_10_TwoPlatesThroughHole\V2\V2.stl
+2022_06_10_TwoPlatesThroughHole\V2\V2.stl.powd
+2022_06_10_TwoPlatesThroughHole\V2\V230cmmeasure.stl
+2022_06_10_TwoPlatesThroughHole\V2\V230cmmeasure.stl.powd
+2022_06_10_TwoPlatesThroughHole\V2\V2Base.stl
+2022_06_10_TwoPlatesThroughHole\V2\V2Base.stl.powd
+2022_06_10_TwoPlatesThroughHole\V2\V2Base14And30CM.gcode
+2022_06_10_TwoPlatesThroughHole\V2\V2Base14And30CM.gcode.powd
+2022_06_10_TwoPlatesThroughHole\V2\V2Export.blend
+2022_06_10_TwoPlatesThroughHole\V2\V2Export.blend.powd
+2022_06_10_TwoPlatesThroughHole\V2\V2Export.blend1
+2022_06_10_TwoPlatesThroughHole\V2\V2Export.blend1.powd
+2022_06_10_TwoPlatesThroughHole\V2\V2Extension.stl
+2022_06_10_TwoPlatesThroughHole\V2\V2Extension.stl.powd
+2022_06_16_PicaTinnySTL\CurrentVersion\PinaTinnyStlAndPringle v7.stl
+2022_06_16_PicaTinnySTL\CurrentVersion\PinaTinnyStlAndPringle v7.stl.powd
+2022_06_16_PicaTinnySTL\CurrentWorkspace\PinaTinnyStlAndPringle v4.stl
+2022_06_16_PicaTinnySTL\CurrentWorkspace\PinaTinnyStlAndPringle v4.stl.powd
+2022_06_16_PicaTinnySTL\CurrentWorkspace\PinaTinnyStlAndPringle v5.3mf
+2022_06_16_PicaTinnySTL\CurrentWorkspace\PinaTinnyStlAndPringle v5.3mf.powd
+2022_06_16_PicaTinnySTL\CurrentWorkspace\PinaTinnyStlAndPringle v5.stl
+2022_06_16_PicaTinnySTL\CurrentWorkspace\PinaTinnyStlAndPringle v5.stl.powd
+2022_06_16_PicaTinnySTL\Sketch\PicaMeasure2D.dxf
+2022_06_16_PicaTinnySTL\Sketch\PicaMeasure2D.dxf.powd
+2022_06_16_PicaTinnySTL\Sketch\PinaTinnyStlAndPringle v2.f3d
+2022_06_16_PicaTinnySTL\Sketch\PinaTinnyStlAndPringle v2.f3d.powd
+2022_06_16_PicaTinnySTL\Sketch\PinaTinnyStlAndPringle v2.stl
+2022_06_16_PicaTinnySTL\Sketch\PinaTinnyStlAndPringle v2.stl.powd
+2022_06_16_PicaTinnySTL\Sketch\PinaTinnyStlAndPringle v4.stl
+2022_06_16_PicaTinnySTL\Sketch\PinaTinnyStlAndPringle v4.stl.powd
+2022_06_18_PicaTinnyArduinoHolders\Prototype\ArduinoOnPicaTinny v1.f3d
+2022_06_18_PicaTinnyArduinoHolders\Prototype\ArduinoOnPicaTinny v1.f3d.powd
+2022_06_18_PicaTinnyArduinoHolders\Prototype\ArduinoOnPicaTinny v1.stl
+2022_06_18_PicaTinnyArduinoHolders\Prototype\ArduinoOnPicaTinny v1.stl.powd
+2022_06_18_PicaTinnyArduinoHolders\Prototype\ArduinoOnPicaTinny v4.f3d
+2022_06_18_PicaTinnyArduinoHolders\Prototype\ArduinoOnPicaTinny v4.f3d.powd
+2022_06_18_PicaTinnyArduinoHolders\Prototype\ArduinoOnPicaTinny v4.stl
+2022_06_18_PicaTinnyArduinoHolders\Prototype\ArduinoOnPicaTinny v4.stl.powd
+2022_06_18_PicaTinnyArduinoHolders\Prototype\ArduinoOnPicaTinny v5.stl
+2022_06_18_PicaTinnyArduinoHolders\Prototype\ArduinoOnPicaTinny v5.stl.powd
+2022_06_18_PicaTinnyArduinoHolders\Prototype\ArduinoOnPicaTinnyTestArduinoLeonardoArduinoOnPicaTinny_v1_001.stl
+2022_06_18_PicaTinnyArduinoHolders\Prototype\ArduinoOnPicaTinnyTestArduinoLeonardoArduinoOnPicaTinny_v1_001.stl.powd
+2022_06_18_PicaTinnyArduinoHolders\Prototype\ArduinoOnPicaTinnyTestArduinoLeonardoArduinoOnPicaTinny_v1_004.stl
+2022_06_18_PicaTinnyArduinoHolders\Prototype\ArduinoOnPicaTinnyTestArduinoLeonardoArduinoOnPicaTinny_v1_004.stl.powd
+2022_06_18_PicaTinnyArduinoHolders\Prototype\ArduinoOnPicaTinnyTestArduinoLeonardoArduinoOnPicaTinny_v1_005.stl
+2022_06_18_PicaTinnyArduinoHolders\Prototype\ArduinoOnPicaTinnyTestArduinoLeonardoArduinoOnPicaTinny_v1_005.stl.powd
+2022_06_21_QuadraAndDuoPicaTinnyAroundStick\Prototype\QuadraAndDuoPicaTinnyAroundStick v1.f3d
+2022_06_21_QuadraAndDuoPicaTinnyAroundStick\Prototype\QuadraAndDuoPicaTinnyAroundStick v1.f3d.powd
+2022_06_21_QuadraAndDuoPicaTinnyAroundStick\Prototype\QuadraAndDuoPicaTinnyAroundStick v1.stl
+2022_06_21_QuadraAndDuoPicaTinnyAroundStick\Prototype\QuadraAndDuoPicaTinnyAroundStick v1.stl.powd
+2022_06_21_QuadraAndDuoPicaTinnyAroundStick\Prototype\QuadraAndDuoPicaTinnyAroundStick v3.stl
+2022_06_21_QuadraAndDuoPicaTinnyAroundStick\Prototype\QuadraAndDuoPicaTinnyAroundStick v3.stl.powd
+2022_06_21_VRPicaTinnyJoins\FetchFromWeb\CreatedFrom.URL
+2022_06_21_VRPicaTinnyJoins\FetchFromWeb\CreatedFrom.URL.powd
+2022_06_23_WalkStickController\PicaTinnyBaseToWood\Staff and Walking Stick Pica Tinny v1.f3d
+2022_06_23_WalkStickController\PicaTinnyBaseToWood\Staff and Walking Stick Pica Tinny v1.f3d.powd
+2022_06_23_WalkStickController\PicaTinnyBaseToWood\Staff and Walking Stick Pica Tinny v1.stl
+2022_06_23_WalkStickController\PicaTinnyBaseToWood\Staff and Walking Stick Pica Tinny v1.stl.powd
+2022_06_23_WalkStickController\PicaTinnyBaseToWood\V1Staff_and_Walking_Stick_Pica_Tinny_v1_001.stl
+2022_06_23_WalkStickController\PicaTinnyBaseToWood\V1Staff_and_Walking_Stick_Pica_Tinny_v1_001.stl.powd
+2022_06_23_WalkStickController\PicaTinnyBaseToWood\V1Staff_and_Walking_Stick_Pica_Tinny_v1_002.stl
+2022_06_23_WalkStickController\PicaTinnyBaseToWood\V1Staff_and_Walking_Stick_Pica_Tinny_v1_002.stl.powd
+2022_09_03_ExperimentMidi63Connector\ContactHolder\ExperimentOfConnectorHolder.f3d
+2022_09_03_ExperimentMidi63Connector\ContactHolder\ExperimentOfConnectorHolder.f3d.powd
+2022_09_03_ExperimentMidi63Connector\ContactHolder\Midi Foot Max With Plastic Midi Connetor v3.stl
+2022_09_03_ExperimentMidi63Connector\ContactHolder\Midi Foot Max With Plastic Midi Connetor v3.stl.powd
+2022_09_03_ExperimentMidi63Connector\ContactHolder\Midi Spring Tin08mm Holder Serial v2.f3d
+2022_09_03_ExperimentMidi63Connector\ContactHolder\Midi Spring Tin08mm Holder Serial v2.f3d.powd
+2022_09_03_ExperimentMidi63Connector\ContactHolder\VerticalHorizontalContactHolder.stl
+2022_09_03_ExperimentMidi63Connector\ContactHolder\VerticalHorizontalContactHolder.stl.powd
+2022_09_03_ExperimentMidi63Connector\MagnetContact\HolderMagnetV2.gcode
+2022_09_03_ExperimentMidi63Connector\MagnetContact\HolderMagnetV2.gcode.powd
+2022_09_03_ExperimentMidi63Connector\MagnetContact\Midi Connector Experiment Magnet (v2~recovered).stl
+2022_09_03_ExperimentMidi63Connector\MagnetContact\Midi Connector Experiment Magnet (v2~recovered).stl.powd
+2022_09_03_ExperimentMidi63Connector\MagnetContact\Midi Connector WithMagnet 8mm v1.f3d
+2022_09_03_ExperimentMidi63Connector\MagnetContact\Midi Connector WithMagnet 8mm v1.f3d.powd
+2022_09_03_ExperimentMidi63Connector\MagnetContact\Midi Connector WithMagnet 8mm v1.stl
+2022_09_03_ExperimentMidi63Connector\MagnetContact\Midi Connector WithMagnet 8mm v1.stl.powd
+2022_09_03_ExperimentMidi63Connector\MagnetContactV3\Midi Connector WithMagnet 8mm Diagonal v1.f3d
+2022_09_03_ExperimentMidi63Connector\MagnetContactV3\Midi Connector WithMagnet 8mm Diagonal v1.f3d.powd
+2022_09_03_ExperimentMidi63Connector\MagnetContactV3\Midi Connector WithMagnet 8mm Diagonal v1.stl
+2022_09_03_ExperimentMidi63Connector\MagnetContactV3\Midi Connector WithMagnet 8mm Diagonal v1.stl.powd
+2022_09_03_ExperimentMidi63Connector\MagnetHolder\MagnetHolder_02mm.gcode
+2022_09_03_ExperimentMidi63Connector\MagnetHolder\MagnetHolder_02mm.gcode.powd
+2022_09_03_ExperimentMidi63Connector\MagnetHolder\MagnetsMidiJackHolder v1.f3d
+2022_09_03_ExperimentMidi63Connector\MagnetHolder\MagnetsMidiJackHolder v1.f3d.powd
+2022_09_03_ExperimentMidi63Connector\MagnetHolder\MagnetsMidiJackHolder v1.stl
+2022_09_03_ExperimentMidi63Connector\MagnetHolder\MagnetsMidiJackHolder v1.stl.powd
+2022_09_03_ExperimentMidi63Connector\MagnetHolder\MagnetsMidiJackHolder v2.fbx
+2022_09_03_ExperimentMidi63Connector\MagnetHolder\MagnetsMidiJackHolder v2.fbx.powd
+2022_09_03_ExperimentMidi63Connector\Release\02mm_MagnetSet.gcode
+2022_09_03_ExperimentMidi63Connector\Release\02mm_MagnetSet.gcode.powd
+2022_09_03_ExperimentMidi63Connector\Release\02mm_MagnetsMidiJackHolder.gcode
+2022_09_03_ExperimentMidi63Connector\Release\02mm_MagnetsMidiJackHolder.gcode.powd
+2022_09_03_ExperimentMidi63Connector\Release\2x10Magnet.stl
+2022_09_03_ExperimentMidi63Connector\Release\2x10Magnet.stl.powd
+2022_09_03_ExperimentMidi63Connector\Release\4x8Magnet.stl
+2022_09_03_ExperimentMidi63Connector\Release\4x8Magnet.stl.powd
+2022_09_03_ExperimentMidi63Connector\Release\MagnetsMidiJackHolder.stl
+2022_09_03_ExperimentMidi63Connector\Release\MagnetsMidiJackHolder.stl.powd
+2022_09_03_ExperimentMidi63Connector\SpringContact\Arcade.dxf
+2022_09_03_ExperimentMidi63Connector\SpringContact\Arcade.dxf.powd
+2022_09_03_ExperimentMidi63Connector\SpringContact\Foot.dxf
+2022_09_03_ExperimentMidi63Connector\SpringContact\Foot.dxf.powd
+2022_09_03_ExperimentMidi63Connector\SpringContact\MetalButton.dxf
+2022_09_03_ExperimentMidi63Connector\SpringContact\MetalButton.dxf.powd
+2022_09_03_ExperimentMidi63Connector\SpringContact\Midi Spring Tin08mm Holder v1.f3d
+2022_09_03_ExperimentMidi63Connector\SpringContact\Midi Spring Tin08mm Holder v1.f3d.powd
+2022_09_03_ExperimentMidi63Connector\SpringContact\Midi Spring Tin08mm Holder v1.stl
+2022_09_03_ExperimentMidi63Connector\SpringContact\Midi Spring Tin08mm Holder v1.stl.powd
+2022_09_03_ExperimentMidi63Connector\SpringContact\Midi Spring Tin08mm Holder v3.f3d
+2022_09_03_ExperimentMidi63Connector\SpringContact\Midi Spring Tin08mm Holder v3.f3d.powd
+2022_09_03_ExperimentMidi63Connector\SpringContact\Midi Spring Tin08mm Holder v3.stl
+2022_09_03_ExperimentMidi63Connector\SpringContact\Midi Spring Tin08mm Holder v3.stl.powd
+2022_09_03_ExperimentMidi63Connector\SpringContact\MidiTubeHolder.dxf
+2022_09_03_ExperimentMidi63Connector\SpringContact\MidiTubeHolder.dxf.powd
+2022_09_03_ExperimentMidi63Connector\SpringContact\SpringV3.gcode
+2022_09_03_ExperimentMidi63Connector\SpringContact\SpringV3.gcode.powd
+2022_09_03_ExperimentMidi63Connector\SpringContactV2\ShapeContact.dxf
+2022_09_03_ExperimentMidi63Connector\SpringContactV2\ShapeContact.dxf.powd
+2022_09_03_ExperimentMidi63Connector\SpringContactV3\Midi Spring Tin08mm Holder V3 v3.stl
+2022_09_03_ExperimentMidi63Connector\SpringContactV3\Midi Spring Tin08mm Holder V3 v3.stl.powd
+2022_09_03_ExperimentMidi63Connector\SpringContactV3\Midi Spring Tin08mm Holder V3 v4.stl
+2022_09_03_ExperimentMidi63Connector\SpringContactV3\Midi Spring Tin08mm Holder V3 v4.stl.powd
+2022_09_03_ExperimentMidi63Connector\SpringContactV3\Midi Spring Tin08mm Holder V3 v5.stl
+2022_09_03_ExperimentMidi63Connector\SpringContactV3\Midi Spring Tin08mm Holder V3 v5.stl.powd
+2022_09_03_ExperimentMidi63Connector\SpringContactV3\Midi Spring Tin08mm Holder V3 v6.f3d
+2022_09_03_ExperimentMidi63Connector\SpringContactV3\Midi Spring Tin08mm Holder V3 v6.f3d.powd
+2022_09_03_ExperimentMidi63Connector\SpringContactV3\SpringConnectorShape.dxf
+2022_09_03_ExperimentMidi63Connector\SpringContactV3\SpringConnectorShape.dxf.powd
+2022_09_03_ExperimentMidi63Connector\SpringContactV3\SpringV3.f3d
+2022_09_03_ExperimentMidi63Connector\SpringContactV3\SpringV3.f3d.powd
+2022_09_03_ExperimentMidi63Connector\SpringContactV3\StandardQualitySprintConnector.gcode
+2022_09_03_ExperimentMidi63Connector\SpringContactV3\StandardQualitySprintConnector.gcode.powd
+2022_09_03_ExperimentMidi63Connector\SpringContactV3\SuperQualitySprint02mm.gcode
+2022_09_03_ExperimentMidi63Connector\SpringContactV3\SuperQualitySprint02mm.gcode.powd
+2022_09_03_ExperimentMidi63Connector\SpringContactV3\SuperQualitySprintConnector.gcode
+2022_09_03_ExperimentMidi63Connector\SpringContactV3\SuperQualitySprintConnector.gcode.powd
+2022_09_03_MidiFootEntry\MidiFootV2_WallEntry\DownFootWallMidiDown.gcode
+2022_09_03_MidiFootEntry\MidiFootV2_WallEntry\DownFootWallMidiDown.gcode.powd
+2022_09_03_MidiFootEntry\MidiFootV2_WallEntry\DownFootWallMidiTop.gcode
+2022_09_03_MidiFootEntry\MidiFootV2_WallEntry\DownFootWallMidiTop.gcode.powd
+2022_09_03_MidiFootEntry\MidiFootV2_WallEntry\FootLeftMax_Ender3_Foot_Size_with_Wall_Jack_v1.stl
+2022_09_03_MidiFootEntry\MidiFootV2_WallEntry\FootLeftMax_Ender3_Foot_Size_with_Wall_Jack_v1.stl.powd
+2022_09_03_MidiFootEntry\MidiFootV2_WallEntry\FootLeftMax_Ender3_Foot_Size_with_Wall_Jack_v1_TOp.stl
+2022_09_03_MidiFootEntry\MidiFootV2_WallEntry\FootLeftMax_Ender3_Foot_Size_with_Wall_Jack_v1_TOp.stl.powd
+2022_09_03_MidiFootEntry\MidiFootV2_WallEntry\FootLeftTop.stl
+2022_09_03_MidiFootEntry\MidiFootV2_WallEntry\FootLeftTop.stl.powd
+2022_09_03_MidiFootEntry\MidiFootV2_WallEntry\Max Ender3 Foot Size with Wall Jack v1 TOp.stl
+2022_09_03_MidiFootEntry\MidiFootV2_WallEntry\Max Ender3 Foot Size with Wall Jack v1 TOp.stl.powd
+2022_09_03_MidiFootEntry\MidiFootV2_WallEntry\Max Ender3 Foot Size with Wall Jack v1.stl
+2022_09_03_MidiFootEntry\MidiFootV2_WallEntry\Max Ender3 Foot Size with Wall Jack v1.stl.powd
+2022_09_09_MicroPhonePicaHolder\V0\HorizontalMicroHolder.gcode
+2022_09_09_MicroPhonePicaHolder\V0\HorizontalMicroHolder.gcode.powd
+2022_09_09_MicroPhonePicaHolder\V0\MicroPhonePicaHolder v1.stl
+2022_09_09_MicroPhonePicaHolder\V0\MicroPhonePicaHolder v1.stl.powd
+2022_09_09_MicroPhonePicaHolder\V0\MicroPhonePicaHolder.f3d
+2022_09_09_MicroPhonePicaHolder\V0\MicroPhonePicaHolder.f3d.powd
+2022_09_09_MicroPhonePicaHolder\V0\PicaHolderMicroPhonePicaHolder_v1.stl
+2022_09_09_MicroPhonePicaHolder\V0\PicaHolderMicroPhonePicaHolder_v1.stl.powd
+2022_09_09_MicroPhonePicaHolder\V0\PicaHolderMicroPhonePicaHolder_v1_001.stl
+2022_09_09_MicroPhonePicaHolder\V0\PicaHolderMicroPhonePicaHolder_v1_001.stl.powd
+2022_09_09_MicroPhonePicaHolder\V0\Untitled.f3d
+2022_09_09_MicroPhonePicaHolder\V0\Untitled.f3d.powd
+2022_09_09_MicroPhonePicaHolder\V0\VerticalMicroHolder.gcode
+2022_09_09_MicroPhonePicaHolder\V0\VerticalMicroHolder.gcode.powd
+2022_09_10_MidiFootArcadeBoard\V0\DownPart1mm.gcode
+2022_09_10_MidiFootArcadeBoard\V0\DownPart1mm.gcode.powd
+2022_09_10_MidiFootArcadeBoard\V0\Foot MidiBox v1.f3d
+2022_09_10_MidiFootArcadeBoard\V0\Foot MidiBox v1.f3d.powd
+2022_09_10_MidiFootArcadeBoard\V0\Foot MidiBox v1.stl
+2022_09_10_MidiFootArcadeBoard\V0\Foot MidiBox v1.stl.powd
+2022_09_10_MidiFootArcadeBoard\V0\FootMidiBoxFoot_MidiBox_v1.stl
+2022_09_10_MidiFootArcadeBoard\V0\FootMidiBoxFoot_MidiBox_v1.stl.powd
+2022_09_10_MidiFootArcadeBoard\V0\FootMidiBoxFoot_MidiBox_v1_001.stl
+2022_09_10_MidiFootArcadeBoard\V0\FootMidiBoxFoot_MidiBox_v1_001.stl.powd
+2022_09_10_MidiFootArcadeBoard\V0\Split.blend
+2022_09_10_MidiFootArcadeBoard\V0\Split.blend.powd
+2022_09_10_MidiFootArcadeBoard\V0\TopPart1mm.gcode
+2022_09_10_MidiFootArcadeBoard\V0\TopPart1mm.gcode.powd
+2022_09_10_MidiFootArcadeBoard\V1\08mm_DownPart.gcode
+2022_09_10_MidiFootArcadeBoard\V1\08mm_DownPart.gcode.powd
+2022_09_10_MidiFootArcadeBoard\V1\08mm_TopPart.gcode
+2022_09_10_MidiFootArcadeBoard\V1\08mm_TopPart.gcode.powd
+2022_09_10_MidiFootArcadeBoard\V1\1mm_DownPart.gcode
+2022_09_10_MidiFootArcadeBoard\V1\1mm_DownPart.gcode.powd
+2022_09_10_MidiFootArcadeBoard\V1\1mm_TopPart.gcode
+2022_09_10_MidiFootArcadeBoard\V1\1mm_TopPart.gcode.powd
+2022_09_10_MidiFootArcadeBoard\V1\Foot MidiBox V2 v3.f3d
+2022_09_10_MidiFootArcadeBoard\V1\Foot MidiBox V2 v3.f3d.powd
+2022_09_10_MidiFootArcadeBoard\V1\Foot MidiBox V2 v3.stl
+2022_09_10_MidiFootArcadeBoard\V1\Foot MidiBox V2 v3.stl.powd
+2022_09_10_MidiFootArcadeBoard\V1\Splitter.blend
+2022_09_10_MidiFootArcadeBoard\V1\Splitter.blend.powd
+2022_09_10_MidiFootArcadeBoard\V1\untitledDown.stl
+2022_09_10_MidiFootArcadeBoard\V1\untitledDown.stl.powd
+2022_09_10_MidiFootArcadeBoard\V1\untitledTop.stl
+2022_09_10_MidiFootArcadeBoard\V1\untitledTop.stl.powd
+2022_09_10_MidiFootArcadeBoard\V1\untitledTopWithCut.stl
+2022_09_10_MidiFootArcadeBoard\V1\untitledTopWithCut.stl.powd
+2022_09_11_Arduino_MidiFootBoard\FootKeyboardLeonardo\FootKeyboardLeonardo.ino
+2022_09_11_Arduino_MidiFootBoard\FootKeyboardLeonardo\FootKeyboardLeonardo.ino.powd
+2022_09_11_Arduino_MidiFootBoard\FootKeyboardLeonardo\IR2Midi.cpp
+2022_09_11_Arduino_MidiFootBoard\FootKeyboardLeonardo\IR2Midi.cpp.powd
+2022_09_11_Arduino_MidiFootBoard\FootKeyboardLeonardo\IR2Midi.h
+2022_09_11_Arduino_MidiFootBoard\FootKeyboardLeonardo\IR2Midi.h.powd
+2022_09_11_Arduino_MidiFootBoard\FootKeyboardLeonardo\SerialLog.cpp
+2022_09_11_Arduino_MidiFootBoard\FootKeyboardLeonardo\SerialLog.cpp.powd
+2022_09_11_Arduino_MidiFootBoard\FootKeyboardLeonardo\SerialLog.h
+2022_09_11_Arduino_MidiFootBoard\FootKeyboardLeonardo\SerialLog.h.powd
+2022_09_11_BirdFeederNoShit\1MM\Down.gcode
+2022_09_11_BirdFeederNoShit\1MM\Down.gcode.powd
+2022_09_11_BirdFeederNoShit\1MM\StepDown.gcode
+2022_09_11_BirdFeederNoShit\1MM\StepDown.gcode.powd
+2022_09_11_BirdFeederNoShit\1MM\Top.gcode
+2022_09_11_BirdFeederNoShit\1MM\Top.gcode.powd
+2022_09_11_BirdFeederNoShit\8mm\DownPart.gcode
+2022_09_11_BirdFeederNoShit\8mm\DownPart.gcode.powd
+2022_09_11_BirdFeederNoShit\8mm\TopPart.gcode
+2022_09_11_BirdFeederNoShit\8mm\TopPart.gcode.powd
+2022_09_11_BirdFeederNoShit\Source\Cap_v2.stl
+2022_09_11_BirdFeederNoShit\Source\Cap_v2.stl.powd
+2022_09_11_BirdFeederNoShit\Source\Cup_v2.stl
+2022_09_11_BirdFeederNoShit\Source\Cup_v2.stl.powd
+2022_09_11_BirdFeederNoShit\Source\Download #40656835・Cults.URL
+2022_09_11_BirdFeederNoShit\Source\Download #40656835・Cults.URL.powd
+2022_10_04_TelloHolders\Export\untitledTello_Clip_Around_Second_Draft_v4.stl
+2022_10_04_TelloHolders\Export\untitledTello_Clip_Around_Second_Draft_v4.stl.powd
+2022_10_04_TelloHolders\Export\untitledTello_Clip_Around_Second_Draft_v4_001.stl
+2022_10_04_TelloHolders\Export\untitledTello_Clip_Around_Second_Draft_v4_001.stl.powd
+2022_10_04_TelloHolders\Export\untitledTello_Clip_Around_Second_Draft_v4_002.stl
+2022_10_04_TelloHolders\Export\untitledTello_Clip_Around_Second_Draft_v4_002.stl.powd
+2022_10_04_TelloHolders\Export\untitledTello_Clip_Around_Second_Draft_v4_003.stl
+2022_10_04_TelloHolders\Export\untitledTello_Clip_Around_Second_Draft_v4_003.stl.powd
+2022_10_04_TelloHolders\Export\untitledTello_Clip_Around_Second_Draft_v4_004.stl
+2022_10_04_TelloHolders\Export\untitledTello_Clip_Around_Second_Draft_v4_004.stl.powd
+2022_10_18_PicaTinyForPhoneHolder\Export\HorizontalPhoneHolderPhotoPicaTinny_v1.stl
+2022_10_18_PicaTinyForPhoneHolder\Export\PhoneHolderPicaTinyDouble.gcode
+2022_10_18_PicaTinyForPhoneHolder\Export\VerticalPhoneHolderPhotoPicaTinny_v1.stl
+2022_10_18_VerticalScultureHolder\Export\Export.blend
+2022_10_18_VerticalScultureHolder\Export\ScultureHolder.gcode
+2022_10_18_VerticalScultureHolder\Export\scultureHolder2022_10_18_VerticalScultureHolder_v3.stl
+2022_10_18_VerticalScultureHolder\Export\scultureHolder2022_10_18_VerticalScultureHolder_v3_001.stl
+2022_10_18_VerticalScultureHolder\Export\WeighHolder.gcode
+2022_12_25_MsiCpuFanHolder\Export\BigFanPartsHUAYU_BIG_FAN_to_MSI_Pulse76_v1_001.stl
+2022_12_25_MsiCpuFanHolder\Export\BigFanPartsHUAYU_BIG_FAN_to_MSI_Pulse76_v1_002.stl
+2022_12_25_MsiCpuFanHolder\Export\BigFanPartsHUAYU_BIG_FAN_to_MSI_Pulse76_v1_003.stl
+2022_12_25_MsiCpuFanHolder\Export\TestCPUFanHUAYU_BIG_FAN_to_MSI_Pulse76_v2_001.stl
+2022_12_25_MsiCpuFanHolder\Export\TestMSI_Pulse76_CPU_Repalcement_v2.stl
+2022_12_25_MsiCpuFanHolder\Export\TestMSI_Pulse76_CPU_Repalcement_v2_001.stl
+2023_01_09_PaperShapeAroundQuest2\Eloi Sketch SVG\DownQuestFace.svg
+2023_01_09_PaperShapeAroundQuest2\Eloi Sketch SVG\UpQuestFace.svg
+2023_01_22_SkadisPatternStlAndDXF\DXF\36x56 Skadis DXF.dxf
+2023_01_22_SkadisPatternStlAndDXF\DXF\56x37 Skadis DXF.dxf
+2023_01_22_SkadisPatternStlAndDXF\DXF\76x56 Skadis DXF.dxf
+2023_01_22_SkadisPatternStlAndDXF\DXF\DXF A3 Wood Board Skadis.dxf
+2023_01_22_SkadisPatternStlAndDXF\DXF\DXF A4 Wood Board Skadis.dxf
+2023_01_22_SkadisPatternStlAndDXF\DXF\DXF Ender 3V2 Print Board Skadis.dxf
+2023_01_30_QuestFlatHolderConstruct\TopOfFlatHolder\DraftQuest_Flat_Holder_To_Store_v18.stl
+2023_01_30_QuestFlatHolderConstruct\TopOfFlatHolder\DraftQuest_Flat_Holder_To_Store_v18_001.stl
+2023_01_30_QuestFlatHolderConstruct\TopOfFlatHolder\Quest Flat Holder To Store v1.stl
+2023_01_30_QuestFlatHolderConstruct\TopOfFlatHolder\Quest Flat Holder To Store v14.f3d
+2023_01_30_QuestFlatHolderConstruct\TopOfFlatHolder\Quest Flat Holder To Store v14.stl
+2023_01_30_QuestFlatHolderConstruct\TopOfFlatHolder\Quest Flat Holder To Store v15.stl
+2023_01_30_QuestFlatHolderConstruct\TopOfFlatHolder\Quest Flat Holder To Store v16.stl
+2023_01_30_QuestFlatHolderConstruct\TopOfFlatHolder\Quest Flat Holder To Store v17.stl
+2023_01_30_QuestFlatHolderConstruct\TopOfFlatHolder\Quest Flat Holder To Store v18 5mm.stl
+2023_01_30_QuestFlatHolderConstruct\TopOfFlatHolder\Quest Flat Holder To Store v18.stl
+2023_02_25_QuestCalibrationAnchor\V13 Split\QuestCalibrationAnchor v13 - Copie.stl
+2023_02_25_QuestCalibrationAnchor\V13 Split\untitledQuestCalibrationAnchor_v13_-_Copie_001.stl
+2023_02_25_QuestCalibrationAnchor\V13 Split\untitledQuestCalibrationAnchor_v13_-_Copie_002.stl
+2023_03_01_FromWeb_QuestAndLynxPerfectFBX\01- Oculus Quest 2 VR Headset with Controllers\A_00d9f63e19a94d7a98e008ee5ac5ef8f_Glass_Opacity.jpg
+2023_03_01_FromWeb_QuestAndLynxPerfectFBX\01- Oculus Quest 2 VR Headset with Controllers\model.mtl
+2023_03_01_FromWeb_QuestAndLynxPerfectFBX\01- Oculus Quest 2 VR Headset with Controllers\model.obj
+2023_03_01_FromWeb_QuestAndLynxPerfectFBX\01- Oculus Quest 2 VR Headset with Controllers\N_03865707594b45c9a7bb75e37c9b6526_Headset_Normal.jpeg
+2023_03_01_FromWeb_QuestAndLynxPerfectFBX\01- Oculus Quest 2 VR Headset with Controllers\N_1820d2ee629947f192b69e1e9b08086f_Controllers_Normal.jpeg
+2023_03_01_FromWeb_QuestAndLynxPerfectFBX\01- Oculus Quest 2 VR Headset with Controllers\N_5c8c0d05e11d470483ed9017469a2a68_Glass_Normal.jpeg
+2023_03_01_FromWeb_QuestAndLynxPerfectFBX\01- Oculus Quest 2 VR Headset with Controllers\RGB_01d1f57f75704aa1b7bd1dea640f9bf7_Headset_Diffuse.jpg
+2023_03_01_FromWeb_QuestAndLynxPerfectFBX\01- Oculus Quest 2 VR Headset with Controllers\RGB_455fbda3d0c8474c9f5c1d913a6e3a08_Controllers_Diffuse.jpg
+2023_03_01_FromWeb_QuestAndLynxPerfectFBX\01- Oculus Quest 2 VR Headset with Controllers\RGB_48ffe3f347d54ec3b63ebabcbf9eb8af_Controllers_Specular.jpg
+2023_03_01_FromWeb_QuestAndLynxPerfectFBX\01- Oculus Quest 2 VR Headset with Controllers\RGB_60e9c8dc78fa4f21b157420fe3d9d421_Headset_Emissive.jpg
+2023_03_01_FromWeb_QuestAndLynxPerfectFBX\01- Oculus Quest 2 VR Headset with Controllers\RGB_8a9bd6c45b3349c3b03708429b990beb_Glass_Specular.jpg
+2023_03_01_FromWeb_QuestAndLynxPerfectFBX\01- Oculus Quest 2 VR Headset with Controllers\RGB_983072ab83894d22b9e5bd1aa236583f_Headset_Specular.jpg
+2023_03_01_FromWeb_QuestAndLynxPerfectFBX\01- Oculus Quest 2 VR Headset with Controllers\RGB_ca6cec33c6614a518f1868241857936f_Glass_Diffuse.jpg
+2023_03_01_FromWeb_QuestAndLynxPerfectFBX\01- Oculus Quest 2 VR Headset with Controllers\R_40f00f38a7644d7eba59f64c5a69fdca_Glass_Glossiness.jpeg
+2023_03_01_FromWeb_QuestAndLynxPerfectFBX\01- Oculus Quest 2 VR Headset with Controllers\R_68a0aa9cb44542659562138ddbeed5f9_Controllers_Glossiness.jpeg
+2023_03_01_FromWeb_QuestAndLynxPerfectFBX\01- Oculus Quest 2 VR Headset with Controllers\R_e6adc6e9c937424d95c420d21dd91008_Headset_Glossiness.jpeg
+2023_03_01_FromWeb_QuestAndLynxPerfectFBX\01- Oculus Quest 2 VR Headset with Controllers\Thumbnail.jpg
+2023_03_01_FromWeb_QuestAndLynxPerfectFBX\Low Poly-1.0.0\Lynx-R1_LowPoly.fbx
+2023_03_01_FromWeb_QuestAndLynxPerfectFBX\Quest_2_3D_Scan_PERFECT\LICENSE.txt
+2023_03_01_FromWeb_QuestAndLynxPerfectFBX\Quest_2_3D_Scan_PERFECT\Quest10k.fbx
+2023_03_01_FromWeb_QuestAndLynxPerfectFBX\Quest_2_3D_Scan_PERFECT\Quest10kLeft.fbx
+2023_03_01_FromWeb_QuestAndLynxPerfectFBX\Quest_2_3D_Scan_PERFECT\Quest10kRight.fbx
+2023_03_01_FromWeb_QuestAndLynxPerfectFBX\Quest_2_3D_Scan_PERFECT\README.txt
+2023_10_11_LenseProtectionForTheQuest3\.git\COMMIT_EDITMSG
+2023_10_11_LenseProtectionForTheQuest3\.git\config
+2023_10_11_LenseProtectionForTheQuest3\.git\description
+2023_10_11_LenseProtectionForTheQuest3\.git\FETCH_HEAD
+2023_10_11_LenseProtectionForTheQuest3\.git\HEAD
+2023_10_11_LenseProtectionForTheQuest3\.git\index
+2023_10_11_LenseProtectionForTheQuest3\.git\ORIG_HEAD
+2023_10_11_LenseProtectionForTheQuest3\.git\packed-refs
+2023_10_11_LenseProtectionForTheQuest3\Scan\Scan_20231011 (5).png
+2023_10_11_LenseProtectionForTheQuest3\Scan\Scan_20231012 (2).png
+Games\2023_02_07_CornesRiggedTriangles\CornersRiggedTriangle.blend
+Games\2023_02_07_CornesRiggedTriangles\CornersRiggedTriangle.blend1
+Games\2023_02_07_CornesRiggedTriangles\CornersRiggedTriangle.fbx
+Games\2023_02_07_CornesRiggedTriangles\Screenshot 2024-01-22 160804.png
+GCODE Disks\2022_05_06\1mm_CE3_usb_sd_micro_A.gcode
+GCODE Disks\2022_05_06\CE3_Gandalf_staff_1.gcode
+GCODE Disks\2022_05_06\CE3_usb_sd_micro_A.gcode
+GCODE Disks\2022_05_06\CE3_usb_sd_micro_C_mini.gcode
+GCODE Disks\2022_05_30\2022_05_30_V0_SataStorage.gcode
+GCODE Disks\2022_05_30\CE3_Coccinelle  Nano Paint Sensors v6.gcode
+GCODE Disks\2022_05_30\CE3_HolderPhone_Holer_5mm.gcode
+GCODE Disks\2022_05_30\CE3_PieceAdaptedToPrintG.gcode
+GCODE Disks\2022_05_30\CE3_StabiloHolder v15.gcode
+GCODE Disks\2022_06_01\ExportTestPieceGamme.gcode
+GCODE Disks\2022_06_01\PringleFilterSomeTest.gcode
+GCODE Disks\2022_06_02\CE3_V2.1_positioned.gcode
+GCODE Disks\2022_06_02\ChessBoardOnly.gcode
+GCODE Disks\2022_06_02\ChessBoardWithMainPieces.gcode
+GCODE Disks\2022_06_02\ShogiBoardOnly.gcode
+GCODE Disks\2022_06_02\ShogiBoardWithMainPieces.gcode
+GCODE Disks\2022_06_03\ChessBoardOnlyVertical.gcode
+GCODE Disks\2022_06_03\ShogiBoardOnlyVertical.gcode
+GCODE Disks\2022_06_03\ShogiPiecesSequenceMultiPart.gcode
+GCODE Disks\2022_06_07\02mm_CE3_Bed_Adjustment_Wheel_Clip_Arrow.gcode
+GCODE Disks\2022_06_08\02_hight_CE3_Reference_Full_Hand.gcode
+GCODE Disks\2022_06_09\CE3_rail_only.gcode
+GCODE Disks\2022_06_10\CE3_BracketV2_01.gcode
+GCODE Disks\2022_06_10\CE3_rail.gcode
+GCODE Disks\2022_06_10\FULL.3mf
+GCODE Disks\2022_06_10\Full.gcode
+GCODE Disks\2022_06_10\FULLHalf.gcode
+GCODE Disks\2022_06_10\JustJoinTest.gcode
+GCODE Disks\2022_06_10\justJointestStep.gcode
+GCODE Disks\2022_06_10\ToMark.gcode
+GCODE Disks\2022_06_11\CE3_ToTestTwoBoardsThroghPlaneWith30mmHole_v2_004.gcode
+GCODE Disks\2022_06_13\1mm V2 Plate 14cm.gcode
+GCODE Disks\2022_06_13\1MMCE3_HexaGoneSupport.gcode
+GCODE Disks\2022_06_13\DiskMediumSculture1MMFull.gcode
+GCODE Disks\2022_06_13\HexaGoneSupport.stl
+GCODE Disks\2022_06_13\untitled.stl
+GCODE Disks\2022_06_14\2022_06_14_PrintCameraFix.gcode
+GCODE Disks\2022_06_14\CE3_V12TwoBoardsThroghPlaneWith30mmHole_v5_002.gcode
+GCODE Disks\2022_06_14\QuickWoodFoot.gcode
+GCODE Disks\2022_06_14\V7Part1.gcode
+GCODE Disks\2022_06_14\V7Part2LargeDisk.gcode
+GCODE Disks\2022_06_14\V7_Part1.3mf
+GCODE Disks\2022_06_15\CE3_PringleRailCameraTripodeFix_v0_005.gcode
+GCODE Disks\2022_06_15\PaperSizeV2All.gcode
+GCODE Disks\2022_06_15\PlateV2Smalls.gcode
+GCODE Disks\2022_06_15\V2Base14And30CM.gcode
+GCODE Disks\2022_06_16\CE3_CableAndPringleTestPinaTinnyStlAndPringle_v4_006.gcode
+GCODE Disks\2022_06_16\PaperSizeV2All.gcode
+GCODE Disks\2022_06_17\CE3_V1Staff_and_Walking_Stick_Pica_Tinny_v1_002.gcode
+GCODE Disks\2022_06_17\HorizontalRail.gcode
+GCODE Disks\2022_06_17\SmallPartTest.gcode
+GCODE Disks\2022_06_17\VerticalRail.gcode
+GCODE Disks\2022_06_18\CanneWood27mm.gcode
+GCODE Disks\2022_06_18\CE3_CanAndGunStaff_and_Walking_Stick_Pica_Tinny_v2_002.3mf
+GCODE Disks\2022_06_18\GunRailPicaTinny.gcode
+GCODE Disks\2022_06_18\WoodRail.gcode
+GCODE Disks\2022_06_19\ArduinoAndPhotoTest.gcode
+GCODE Disks\2022_06_19\Part1HandleANdbottom.gcode
+GCODE Disks\2022_06_19\RailHandleGun.gcode
+GCODE Disks\2022_06_20\ArduinoAndPhoto.gcode
+GCODE Disks\2022_06_20\PhotoArduinoHolder.gcode
+GCODE Disks\2022_06_21\CanneTop.gcode
+GCODE Disks\2022_06_21\CE3_Justbox.gcode
+GCODE Disks\2022_06_21\DualDirOculusQuest2.gcode
+GCODE Disks\2022_06_21\DuoPicaTinnyEmptyInner.gcode
+GCODE Disks\2022_06_21\QuadraPicaTinny276Around.gcode
+GCODE Disks\2022_06_21\QuadraPicaTinny276Top.gcode
+GCODE Disks\2022_06_21\VerticalOculusQuest2.gcode
+GCODE Disks\2022_06_27\CE3_V_2_0TruncatedIcosphereV2_v2_001.gcode
+GCODE Disks\2022_06_27\CE3_V_2_0TruncatedIcosphereV2_v2_001TruncatedIcosphereV2_v5_001.gcode
+GCODE Disks\2022_06_28\TruncatedIcosphereGroup4.gcode
+GCODE Disks\2022_09_03\DownFoot.gcode
+GCODE Disks\2022_09_03\TopFoot.gcode
+GCODE Disks\2022_09_04\CE3_Midi Connector Experiment v1.gcode
+GCODE Disks\2022_09_04\SpringMagnet.gcode
+GCODE Disks\2022_09_05\SpringV3.gcode
+GCODE Disks\2022_09_06\DownFootWallMidiDown.gcode
+GCODE Disks\2022_09_06\DownFootWallMidiTop.gcode
+GCODE Disks\2022_09_06\FourConnector.gcode
+GCODE Disks\2022_09_06\RackMidiConnector.gcode
+GCODE Disks\2022_09_06\SerialHorizontal.gcode
+GCODE Disks\2022_09_06\SerialVertical.gcode
+GCODE Disks\2022_09_07\HolderMagnetV2.gcode
+GCODE Disks\2022_09_07\HolderTest.gcode
+GCODE Disks\2022_09_09\4x8and2x10mmMagnetConnector.gcode
+GCODE Disks\2022_09_09\HorizontalMicroHolder.gcode
+GCODE Disks\2022_09_09\Standard2x10.gcode
+GCODE Disks\2022_09_09\StandardQualitySprintConnector.gcode
+GCODE Disks\2022_09_09\SuperQuality2x10.gcode
+GCODE Disks\2022_09_09\SuperQualitySprintConnector.gcode
+GCODE Disks\2022_09_09\VerticalMicroHolder.gcode
+GCODE Disks\2022_09_10\CE3_PicaHolderMicroPhonePicaHolder_v1_001.gcode
+GCODE Disks\2022_09_11\Magnet4x8_02mm.gcode
+GCODE Disks\2022_09_11\Magnet4x8_02mmGroup.gcode
+GCODE Disks\2022_09_11\MagnetHolder_02mm.gcode
+GCODE Disks\2022_09_11\SuperQuality2x10_02mm.gcode
+GCODE Disks\2022_09_11\SuperQualitySprint02mm.gcode
+GCODE Disks\2022_09_12\02mm_MagnetSet.gcode
+GCODE Disks\2022_09_14\08mm_CE3_PartsThetaSStereoOnPicaTinny_v1_001.gcode
+GCODE Disks\2022_09_15\08mmLeft.gcode
+GCODE Disks\2022_09_15\08mmRight.gcode
+GCODE Disks\2022_10_04\CE3_Tello Clip Around v1.gcode
+GCODE Disks\2022_10_05\CE3_CanAndGunStaff_and_Walking_Stick_Pica_Tinny_v2_002.gcode
+GCODE Disks\2022_10_05\CE3_Tello Clip Around v2.gcode
+GCODE Disks\2022_10_05\CE3_untitled.gcode
+GCODE Disks\2022_10_05\V7Step1.gcode
+GCODE Disks\2022_10_05\V7Step2.gcode
+GCODE Disks\2022_10_05\V7Step3.gcode
+GCODE Disks\2022_10_05\V7Step4.gcode
+GCODE Disks\2022_10_18\PhoneHolderPicaTinyDouble.gcode
+GCODE Disks\2022_10_18\ScultureHolder.gcode
+GCODE Disks\2022_10_18\WeighHolder.gcode
+GCODE Disks\2022_10_25\CE3_Aspire V Nitro CD Holder Replacement v1.gcode
+GCODE Disks\2022_10_26\CE3_BirdBoxHolder Attempt 0 v1.gcode
+GCODE Disks\2023_01_09\CE3E3V2_oculus_cable_holder_head.gcode
+GCODE Disks\2023_01_09\FaceDown.gcode
+GCODE Disks\2023_01_09\FaceUp.gcode
+GCODE Disks\2023_01_10\HookAndVRController.gcode
+GCODE Disks\2023_01_10\HookHoleAndVRController.gcode
+GCODE Disks\2023_01_10\QuestHolderBigBofButMaybe.gcode
+GCODE Disks\2023_01_11\CE3E3V2_Skadis_Controller_Holder_Remix.gcode
+GCODE Disks\2023_01_11\HeadPhoneAndHooks.gcode
+GCODE Disks\2023_01_12\CE3E3V2_Oculus Quest 2 Label v1.gcode
+GCODE Disks\Christine\28_5_CE3_TuyauxMamanCuisineV1.gcode
+GCODE Disks\Christine\39_CE3_TuyauxMamanCuisineV1.gcode
+GCODE Disks\Christine\40_CE3_TuyauxMamanCuisineV1.gcode
+GCODE Disks\Christine\42_CE3_TuyauxMamanCuisineV1.gcode
+GCODE Disks\Christine\44_TuyauxMamanCuisineV1.gcode
+GCODE Disks\Christine\CE3_TuyauxMamanCuisineV1.gcode
+GCODE Disks\Frage\4verticaltable.gcode
+GCODE Disks\Frage\5smalltable.gcode
+GCODE Disks\Frage\FragTest.gcode
+GCODE Disks\GoFullRetard\DiskWith100PercentOfPlastic.gcode
+GCODE Disks\Humm\08mmCap.gcode
+GCODE Disks\Humm\08mmTip.gcode
+GCODE Disks\NotMine\CE3_BoiteResit3.gcode
+GCODE Disks\Repear\CE3_TuyauxMamanCuisine32plus.gcode
+GCODE Disks\Repear\CE3_TuyauxMamanCuisine43.gcode
+Rubbish\tmp\lock
+Undecided\ArduinoFormatFromWeb\README.md
+Undecided\ArduinoFormatFromWeb\README.md.powd
+Undecided\AtomicComponent\GitAutoSave.bat
+Undecided\AtomicComponent\README.md
+Undecided\AtomicComponent\README.md.powd
+Undecided\PrintedPhotoLog\2022-05-30 17-51-36.mkv
+Undecided\PrintedPhotoLog\2022-05-30 17-51-36.mkv.powd
+Undecided\PrintedPhotoLog\Capture d’écran 2022-05-30 173334.png
+Undecided\PrintedPhotoLog\Capture d’écran 2022-05-30 173334.png.powd
+Undecided\PrintedPhotoLog\Capture d’écran 2022-05-30 173825.png
+Undecided\PrintedPhotoLog\Capture d’écran 2022-05-30 173825.png.powd
+Undecided\PrintedPhotoLog\GitAutoSave.bat
+Undecided\PrintedPhotoLog\README.md
+Undecided\PrintedPhotoLog\README.md.powd
+2020_09_27_ShoGiCNCProductionBoard\ShiChessEnder3Version\Board\ChessBoard.stl
+2020_09_27_ShoGiCNCProductionBoard\ShiChessEnder3Version\Board\ChessBoard.stl.powd
+2020_09_27_ShoGiCNCProductionBoard\ShiChessEnder3Version\Board\ShogiBoard.stl
+2020_09_27_ShoGiCNCProductionBoard\ShiChessEnder3Version\Board\ShogiBoard.stl.powd
+2020_09_27_ShoGiCNCProductionBoard\ShiChessEnder3Version\ExportTest\ExportTestPieceGamme.gcode
+2020_09_27_ShoGiCNCProductionBoard\ShiChessEnder3Version\ExportTest\ExportTestPieceGamme.gcode.powd
+2020_09_27_ShoGiCNCProductionBoard\ShiChessEnder3Version\Piece\ShogiChess_.stl
+2020_09_27_ShoGiCNCProductionBoard\ShiChessEnder3Version\Piece\ShogiChess_.stl.powd
+2020_09_27_ShoGiCNCProductionBoard\ShiChessEnder3Version\Piece\ShogiChess_Chess_Bishop.stl
+2020_09_27_ShoGiCNCProductionBoard\ShiChessEnder3Version\Piece\ShogiChess_Chess_Bishop.stl.powd
+2020_09_27_ShoGiCNCProductionBoard\ShiChessEnder3Version\Piece\ShogiChess_Chess_Hexa_Bishop.stl
+2020_09_27_ShoGiCNCProductionBoard\ShiChessEnder3Version\Piece\ShogiChess_Chess_Hexa_Bishop.stl.powd
+2020_09_27_ShoGiCNCProductionBoard\ShiChessEnder3Version\Piece\ShogiChess_Chess_Hexa_Knight.stl
+2020_09_27_ShoGiCNCProductionBoard\ShiChessEnder3Version\Piece\ShogiChess_Chess_Hexa_Knight.stl.powd
+2020_09_27_ShoGiCNCProductionBoard\ShiChessEnder3Version\Piece\ShogiChess_Chess_hexa_knightV0.stl
+2020_09_27_ShoGiCNCProductionBoard\ShiChessEnder3Version\Piece\ShogiChess_Chess_hexa_knightV0.stl.powd
+2020_09_27_ShoGiCNCProductionBoard\ShiChessEnder3Version\Piece\ShogiChess_Chess_Hexa_Pawn.stl
+2020_09_27_ShoGiCNCProductionBoard\ShiChessEnder3Version\Piece\ShogiChess_Chess_Hexa_Pawn.stl.powd
+2020_09_27_ShoGiCNCProductionBoard\ShiChessEnder3Version\Piece\ShogiChess_Chess_Hexa_Queen.stl
+2020_09_27_ShoGiCNCProductionBoard\ShiChessEnder3Version\Piece\ShogiChess_Chess_Hexa_Queen.stl.powd
+2020_09_27_ShoGiCNCProductionBoard\ShiChessEnder3Version\Piece\ShogiChess_Chess_Hexa_Rock.stl
+2020_09_27_ShoGiCNCProductionBoard\ShiChessEnder3Version\Piece\ShogiChess_Chess_Hexa_Rock.stl.powd
+2020_09_27_ShoGiCNCProductionBoard\ShiChessEnder3Version\Piece\ShogiChess_CHess_Knight.stl
+2020_09_27_ShoGiCNCProductionBoard\ShiChessEnder3Version\Piece\ShogiChess_CHess_Knight.stl.powd
+2020_09_27_ShoGiCNCProductionBoard\ShiChessEnder3Version\Piece\ShogiChess_Chess_Pawn.stl
+2020_09_27_ShoGiCNCProductionBoard\ShiChessEnder3Version\Piece\ShogiChess_Chess_Pawn.stl.powd
+2020_09_27_ShoGiCNCProductionBoard\ShiChessEnder3Version\Piece\ShogiChess_Chess_Queen.stl
+2020_09_27_ShoGiCNCProductionBoard\ShiChessEnder3Version\Piece\ShogiChess_Chess_Queen.stl.powd
+2020_09_27_ShoGiCNCProductionBoard\ShiChessEnder3Version\Piece\ShogiChess_Chess_Rock.stl
+2020_09_27_ShoGiCNCProductionBoard\ShiChessEnder3Version\Piece\ShogiChess_Chess_Rock.stl.powd
+2020_09_27_ShoGiCNCProductionBoard\ShiChessEnder3Version\Piece\ShogiChess_ShogiChessCncAndPLA_v2_042.stl
+2020_09_27_ShoGiCNCProductionBoard\ShiChessEnder3Version\Piece\ShogiChess_ShogiChessCncAndPLA_v2_042.stl.powd
+2020_09_27_ShoGiCNCProductionBoard\ShiChessEnder3Version\Piece\ShogiChess_ShogiChessCncAndPLA_v2_045.stl
+2020_09_27_ShoGiCNCProductionBoard\ShiChessEnder3Version\Piece\ShogiChess_ShogiChessCncAndPLA_v2_045.stl.powd
+2020_09_27_ShoGiCNCProductionBoard\ShiChessEnder3Version\Piece\ShogiChess_ShoGi_Bishop.stl
+2020_09_27_ShoGiCNCProductionBoard\ShiChessEnder3Version\Piece\ShogiChess_ShoGi_Bishop.stl.powd
+2020_09_27_ShoGiCNCProductionBoard\ShiChessEnder3Version\Piece\ShogiChess_ShoGi_General.stl
+2020_09_27_ShoGiCNCProductionBoard\ShiChessEnder3Version\Piece\ShogiChess_ShoGi_General.stl.powd
+2020_09_27_ShoGiCNCProductionBoard\ShiChessEnder3Version\Piece\ShogiChess_ShoGi_Hexa_Bishop.stl
+2020_09_27_ShoGiCNCProductionBoard\ShiChessEnder3Version\Piece\ShogiChess_ShoGi_Hexa_Bishop.stl.powd
+2020_09_27_ShoGiCNCProductionBoard\ShiChessEnder3Version\Piece\ShogiChess_ShoGi_Hexa_General.stl
+2020_09_27_ShoGiCNCProductionBoard\ShiChessEnder3Version\Piece\ShogiChess_ShoGi_Hexa_General.stl.powd
+2020_09_27_ShoGiCNCProductionBoard\ShiChessEnder3Version\Piece\ShogiChess_ShoGi_Hexa_King.stl
+2020_09_27_ShoGiCNCProductionBoard\ShiChessEnder3Version\Piece\ShogiChess_ShoGi_Hexa_King.stl.powd
+2020_09_27_ShoGiCNCProductionBoard\ShiChessEnder3Version\Piece\ShogiChess_ShoGi_Hexa_Knight.stl
+2020_09_27_ShoGiCNCProductionBoard\ShiChessEnder3Version\Piece\ShogiChess_ShoGi_Hexa_Knight.stl.powd
+2020_09_27_ShoGiCNCProductionBoard\ShiChessEnder3Version\Piece\ShogiChess_ShoGi_Hexa_KnightV0.stl
+2020_09_27_ShoGiCNCProductionBoard\ShiChessEnder3Version\Piece\ShogiChess_ShoGi_Hexa_KnightV0.stl.powd
+2020_09_27_ShoGiCNCProductionBoard\ShiChessEnder3Version\Piece\ShogiChess_ShoGi_Hexa_LineSpare.stl
+2020_09_27_ShoGiCNCProductionBoard\ShiChessEnder3Version\Piece\ShogiChess_ShoGi_Hexa_LineSpare.stl.powd
+2020_09_27_ShoGiCNCProductionBoard\ShiChessEnder3Version\Piece\ShogiChess_ShoGi_Hexa_Pawn.stl
+2020_09_27_ShoGiCNCProductionBoard\ShiChessEnder3Version\Piece\ShogiChess_ShoGi_Hexa_Pawn.stl.powd
+2020_09_27_ShoGiCNCProductionBoard\ShiChessEnder3Version\Piece\ShogiChess_ShoGi_Hexa_Rock.stl
+2020_09_27_ShoGiCNCProductionBoard\ShiChessEnder3Version\Piece\ShogiChess_ShoGi_Hexa_Rock.stl.powd
+2020_09_27_ShoGiCNCProductionBoard\ShiChessEnder3Version\Piece\ShogiChess_ShoGi_Hexa_SilverGeneral.stl
+2020_09_27_ShoGiCNCProductionBoard\ShiChessEnder3Version\Piece\ShogiChess_ShoGi_Hexa_SilverGeneral.stl.powd
+2020_09_27_ShoGiCNCProductionBoard\ShiChessEnder3Version\Piece\ShogiChess_ShoGi_King.stl
+2020_09_27_ShoGiCNCProductionBoard\ShiChessEnder3Version\Piece\ShogiChess_ShoGi_King.stl.powd
+2020_09_27_ShoGiCNCProductionBoard\ShiChessEnder3Version\Piece\ShogiChess_ShoGi_Knight.stl
+2020_09_27_ShoGiCNCProductionBoard\ShiChessEnder3Version\Piece\ShogiChess_ShoGi_Knight.stl.powd
+2020_09_27_ShoGiCNCProductionBoard\ShiChessEnder3Version\Piece\ShogiChess_ShoGi_Line_.stl
+2020_09_27_ShoGiCNCProductionBoard\ShiChessEnder3Version\Piece\ShogiChess_ShoGi_Line_.stl.powd
+2020_09_27_ShoGiCNCProductionBoard\ShiChessEnder3Version\Piece\ShogiChess_ShoGi_Pawn.stl
+2020_09_27_ShoGiCNCProductionBoard\ShiChessEnder3Version\Piece\ShogiChess_ShoGi_Pawn.stl.powd
+2020_09_27_ShoGiCNCProductionBoard\ShiChessEnder3Version\Piece\ShogiChess_ShoGi_Rock.stl
+2020_09_27_ShoGiCNCProductionBoard\ShiChessEnder3Version\Piece\ShogiChess_ShoGi_Rock.stl.powd
+2020_09_27_ShoGiCNCProductionBoard\ShiChessEnder3Version\Piece\ShogiChess_ShoGi_SilverGeneral.stl
+2020_09_27_ShoGiCNCProductionBoard\ShiChessEnder3Version\Piece\ShogiChess_ShoGi_SilverGeneral.stl.powd
+2020_09_27_ShoGiCNCProductionBoard\ShiChessEnder3Version\ToPrint\CE3_ShogiBoardWithMainPiecesVertical.3mf
+2020_09_27_ShoGiCNCProductionBoard\ShiChessEnder3Version\ToPrint\CE3_ShogiBoardWithMainPiecesVertical.3mf.powd
+2020_09_27_ShoGiCNCProductionBoard\ShiChessEnder3Version\ToPrint\ChessBoardOnly.3mf
+2020_09_27_ShoGiCNCProductionBoard\ShiChessEnder3Version\ToPrint\ChessBoardOnly.3mf.powd
+2020_09_27_ShoGiCNCProductionBoard\ShiChessEnder3Version\ToPrint\ChessBoardOnly.gcode
+2020_09_27_ShoGiCNCProductionBoard\ShiChessEnder3Version\ToPrint\ChessBoardOnly.gcode.powd
+2020_09_27_ShoGiCNCProductionBoard\ShiChessEnder3Version\ToPrint\ChessBoardOnlyVertical.gcode
+2020_09_27_ShoGiCNCProductionBoard\ShiChessEnder3Version\ToPrint\ChessBoardOnlyVertical.gcode.powd
+2020_09_27_ShoGiCNCProductionBoard\ShiChessEnder3Version\ToPrint\ChessBoardWithMainPiece.3mf
+2020_09_27_ShoGiCNCProductionBoard\ShiChessEnder3Version\ToPrint\ChessBoardWithMainPiece.3mf.powd
+2020_09_27_ShoGiCNCProductionBoard\ShiChessEnder3Version\ToPrint\ChessBoardWithMainPieces.gcode
+2020_09_27_ShoGiCNCProductionBoard\ShiChessEnder3Version\ToPrint\ChessBoardWithMainPieces.gcode.powd
+2020_09_27_ShoGiCNCProductionBoard\ShiChessEnder3Version\ToPrint\ShogiBoardOnly.3mf
+2020_09_27_ShoGiCNCProductionBoard\ShiChessEnder3Version\ToPrint\ShogiBoardOnly.3mf.powd
+2020_09_27_ShoGiCNCProductionBoard\ShiChessEnder3Version\ToPrint\ShogiBoardOnly.gcode
+2020_09_27_ShoGiCNCProductionBoard\ShiChessEnder3Version\ToPrint\ShogiBoardOnly.gcode.powd
+2020_09_27_ShoGiCNCProductionBoard\ShiChessEnder3Version\ToPrint\ShogiBoardOnlyVertical.gcode
+2020_09_27_ShoGiCNCProductionBoard\ShiChessEnder3Version\ToPrint\ShogiBoardOnlyVertical.gcode.powd
+2020_09_27_ShoGiCNCProductionBoard\ShiChessEnder3Version\ToPrint\ShogiBoardWithMainPieces.3mf
+2020_09_27_ShoGiCNCProductionBoard\ShiChessEnder3Version\ToPrint\ShogiBoardWithMainPieces.3mf.powd
+2020_09_27_ShoGiCNCProductionBoard\ShiChessEnder3Version\ToPrint\ShogiBoardWithMainPieces.gcode
+2020_09_27_ShoGiCNCProductionBoard\ShiChessEnder3Version\ToPrint\ShogiBoardWithMainPieces.gcode.powd
+2020_09_27_ShoGiCNCProductionBoard\ShiChessEnder3Version\ToPrint\ShogiPiecesSequenceMultiPart.3mf
+2020_09_27_ShoGiCNCProductionBoard\ShiChessEnder3Version\ToPrint\ShogiPiecesSequenceMultiPart.3mf.powd
+2020_09_27_ShoGiCNCProductionBoard\ShiChessEnder3Version\ToPrint\ShogiPiecesSequenceMultiPart.gcode
+2020_09_27_ShoGiCNCProductionBoard\ShiChessEnder3Version\ToPrint\ShogiPiecesSequenceMultiPart.gcode.powd
+2022_05_12_TruncatedIcosahedron\Unstored\Icosahedron\CE3_2525.gcode
+2022_05_12_TruncatedIcosahedron\Unstored\Icosahedron\CE3_2525.gcode.powd
+2022_05_12_TruncatedIcosahedron\Unstored\Icosahedron\E3E3E33S_buckynode.gcode
+2022_05_12_TruncatedIcosahedron\Unstored\Icosahedron\E3E3E33S_buckynode.gcode.powd
+2022_05_12_TruncatedIcosahedron\Unstored\Icosahedron\E3E3E33S_buckynode25x25.gcode
+2022_05_12_TruncatedIcosahedron\Unstored\Icosahedron\E3E3E33S_buckynode25x25.gcode.powd
+2022_05_12_TruncatedIcosahedron\Unstored\Icosahedron\E3E3E33S_buckynode25x25WithHole.gcode
+2022_05_12_TruncatedIcosahedron\Unstored\Icosahedron\E3E3E33S_buckynode25x25WithHole.gcode.powd.pozq.powd
+2022_05_30_HexagonSataStorage\Raw CNC Version\Gcode\CE3_SataSATA_Storage_Small.gcode
+2022_05_30_HexagonSataStorage\Raw CNC Version\Gcode\CE3_SataSATA_Storage_Small.gcode.powd
+2022_06_10_TwoPlatesThroughHole\Test_06_11\Print\CE3_ToTestTwoBoardsThroghPlaneWith30mmHole_v2_004.3mf
+2022_06_10_TwoPlatesThroughHole\Test_06_11\Print\CE3_ToTestTwoBoardsThroghPlaneWith30mmHole_v2_004.3mf.powd
+2022_06_10_TwoPlatesThroughHole\Test_06_11\Print\CE3_ToTestTwoBoardsThroghPlaneWith30mmHole_v2_004.gcode
+2022_06_10_TwoPlatesThroughHole\Test_06_11\Print\CE3_ToTestTwoBoardsThroghPlaneWith30mmHole_v2_004.gcode.powd
+2022_06_16_PicaTinnySTL\CurrentWorkspace\2022_06_16\CableAndPRingle.blend
+2022_06_16_PicaTinnySTL\CurrentWorkspace\2022_06_16\CableAndPRingle.blend.powd
+2022_06_16_PicaTinnySTL\CurrentWorkspace\2022_06_16\CableAndPRingle.blend1
+2022_06_16_PicaTinnySTL\CurrentWorkspace\2022_06_16\CableAndPRingle.blend1.powd
+2022_06_16_PicaTinnySTL\CurrentWorkspace\2022_06_16\CableAndPringleTestPinaTinnyStlAndPringle_v4_001.stl
+2022_06_16_PicaTinnySTL\CurrentWorkspace\2022_06_16\CableAndPringleTestPinaTinnyStlAndPringle_v4_001.stl.powd
+2022_06_16_PicaTinnySTL\CurrentWorkspace\2022_06_16\CableAndPringleTestPinaTinnyStlAndPringle_v4_002.stl
+2022_06_16_PicaTinnySTL\CurrentWorkspace\2022_06_16\CableAndPringleTestPinaTinnyStlAndPringle_v4_002.stl.powd
+2022_06_16_PicaTinnySTL\CurrentWorkspace\2022_06_16\CableAndPringleTestPinaTinnyStlAndPringle_v4_003.stl
+2022_06_16_PicaTinnySTL\CurrentWorkspace\2022_06_16\CableAndPringleTestPinaTinnyStlAndPringle_v4_003.stl.powd
+2022_06_16_PicaTinnySTL\CurrentWorkspace\2022_06_16\CableAndPringleTestPinaTinnyStlAndPringle_v4_004.stl
+2022_06_16_PicaTinnySTL\CurrentWorkspace\2022_06_16\CableAndPringleTestPinaTinnyStlAndPringle_v4_004.stl.powd
+2022_06_16_PicaTinnySTL\CurrentWorkspace\2022_06_16\CableAndPringleTestPinaTinnyStlAndPringle_v4_005.stl
+2022_06_16_PicaTinnySTL\CurrentWorkspace\2022_06_16\CableAndPringleTestPinaTinnyStlAndPringle_v4_005.stl.powd
+2022_06_16_PicaTinnySTL\CurrentWorkspace\2022_06_16\CableAndPringleTestPinaTinnyStlAndPringle_v4_006.stl
+2022_06_16_PicaTinnySTL\CurrentWorkspace\2022_06_16\CableAndPringleTestPinaTinnyStlAndPringle_v4_006.stl.powd
+2022_06_16_PicaTinnySTL\CurrentWorkspace\2022_06_16\CableAndPringleTestPinaTinnyStlAndPringle_v4_007.stl
+2022_06_16_PicaTinnySTL\CurrentWorkspace\2022_06_16\CableAndPringleTestPinaTinnyStlAndPringle_v4_007.stl.powd
+2022_06_16_PicaTinnySTL\CurrentWorkspace\2022_06_16\CableAndPringleTestPinaTinnyStlAndPringle_v4_008.stl
+2022_06_16_PicaTinnySTL\CurrentWorkspace\2022_06_16\CableAndPringleTestPinaTinnyStlAndPringle_v4_008.stl.powd
+2022_06_16_PicaTinnySTL\CurrentWorkspace\2022_06_16\CableAndPringleTestPinaTinnyStlAndPringle_v4_009.stl
+2022_06_16_PicaTinnySTL\CurrentWorkspace\2022_06_16\CableAndPringleTestPinaTinnyStlAndPringle_v4_009.stl.powd
+2022_06_16_PicaTinnySTL\CurrentWorkspace\2022_06_16\CableAndPRingleVR.stl
+2022_06_16_PicaTinnySTL\CurrentWorkspace\2022_06_16\CableAndPRingleVR.stl.powd
+2022_06_16_PicaTinnySTL\CurrentWorkspace\2022_06_16\untitled.stl
+2022_06_16_PicaTinnySTL\CurrentWorkspace\2022_06_16\untitled.stl.powd
+2022_06_16_PicaTinnySTL\CurrentWorkspace\2022_06_17\HorizontalRail.gcode
+2022_06_16_PicaTinnySTL\CurrentWorkspace\2022_06_17\HorizontalRail.gcode.powd
+2022_06_16_PicaTinnySTL\CurrentWorkspace\2022_06_17\QuickTest.3mf
+2022_06_16_PicaTinnySTL\CurrentWorkspace\2022_06_17\QuickTest.3mf.powd
+2022_06_16_PicaTinnySTL\CurrentWorkspace\2022_06_17\SmallPartTest.gcode
+2022_06_16_PicaTinnySTL\CurrentWorkspace\2022_06_17\SmallPartTest.gcode.powd
+2022_06_16_PicaTinnySTL\CurrentWorkspace\2022_06_17\untitledPinaTinnyStlAndPringle_v5_001.stl
+2022_06_16_PicaTinnySTL\CurrentWorkspace\2022_06_17\untitledPinaTinnyStlAndPringle_v5_001.stl.powd
+2022_06_16_PicaTinnySTL\CurrentWorkspace\2022_06_17\untitledPinaTinnyStlAndPringle_v5_002.stl
+2022_06_16_PicaTinnySTL\CurrentWorkspace\2022_06_17\untitledPinaTinnyStlAndPringle_v5_002.stl.powd
+2022_06_16_PicaTinnySTL\CurrentWorkspace\2022_06_17\untitledPinaTinnyStlAndPringle_v5_003.stl
+2022_06_16_PicaTinnySTL\CurrentWorkspace\2022_06_17\untitledPinaTinnyStlAndPringle_v5_003.stl.powd
+2022_06_16_PicaTinnySTL\CurrentWorkspace\2022_06_17\untitledPinaTinnyStlAndPringle_v5_004.stl
+2022_06_16_PicaTinnySTL\CurrentWorkspace\2022_06_17\untitledPinaTinnyStlAndPringle_v5_004.stl.powd
+2022_06_16_PicaTinnySTL\CurrentWorkspace\2022_06_17\untitledPinaTinnyStlAndPringle_v5_005.stl
+2022_06_16_PicaTinnySTL\CurrentWorkspace\2022_06_17\untitledPinaTinnyStlAndPringle_v5_005.stl.powd
+2022_06_16_PicaTinnySTL\CurrentWorkspace\2022_06_17\untitledPinaTinnyStlAndPringle_v5_006.stl
+2022_06_16_PicaTinnySTL\CurrentWorkspace\2022_06_17\untitledPinaTinnyStlAndPringle_v5_006.stl.powd
+2022_06_16_PicaTinnySTL\CurrentWorkspace\2022_06_17\untitledPinaTinnyStlAndPringle_v5_007.stl
+2022_06_16_PicaTinnySTL\CurrentWorkspace\2022_06_17\untitledPinaTinnyStlAndPringle_v5_007.stl.powd
+2022_06_16_PicaTinnySTL\CurrentWorkspace\2022_06_17\untitledPinaTinnyStlAndPringle_v5_008.stl
+2022_06_16_PicaTinnySTL\CurrentWorkspace\2022_06_17\untitledPinaTinnyStlAndPringle_v5_008.stl.powd
+2022_06_16_PicaTinnySTL\CurrentWorkspace\2022_06_17\VerticalRail.gcode
+2022_06_16_PicaTinnySTL\CurrentWorkspace\2022_06_17\VerticalRail.gcode.powd
+2022_06_18_PicaTinnyArduinoHolders\Prototype\2022_06_18\FirstTest.gcode
+2022_06_18_PicaTinnyArduinoHolders\Prototype\2022_06_18\FirstTest.gcode.powd
+2022_06_18_PicaTinnyArduinoHolders\Prototype\2022_06_18\Part1.3mf
+2022_06_18_PicaTinnyArduinoHolders\Prototype\2022_06_18\Part1.3mf.powd
+2022_06_18_PicaTinnyArduinoHolders\Prototype\2022_06_18\QuickTest.stl
+2022_06_18_PicaTinnyArduinoHolders\Prototype\2022_06_18\QuickTest.stl.powd
+2022_06_18_PicaTinnyArduinoHolders\Prototype\2022_06_18\QuickTestArduinoOnPicaTinny_v1_001.stl
+2022_06_18_PicaTinnyArduinoHolders\Prototype\2022_06_18\QuickTestArduinoOnPicaTinny_v1_001.stl.powd
+2022_06_18_PicaTinnyArduinoHolders\Prototype\2022_06_18\QuickTestArduinoOnPicaTinny_v1_002.stl
+2022_06_18_PicaTinnyArduinoHolders\Prototype\2022_06_18\QuickTestArduinoOnPicaTinny_v1_002.stl.powd
+2022_06_18_PicaTinnyArduinoHolders\Prototype\2022_06_18\QuickTestArduinoOnPicaTinny_v1_003.stl
+2022_06_18_PicaTinnyArduinoHolders\Prototype\2022_06_18\QuickTestArduinoOnPicaTinny_v1_003.stl.powd
+2022_06_18_PicaTinnyArduinoHolders\Prototype\2022_06_18\QuickTestArduinoOnPicaTinny_v1_004.stl
+2022_06_18_PicaTinnyArduinoHolders\Prototype\2022_06_18\QuickTestArduinoOnPicaTinny_v1_004.stl.powd
+2022_06_18_PicaTinnyArduinoHolders\Prototype\2022_06_18\QuickTestArduinoOnPicaTinny_v1_005.stl
+2022_06_18_PicaTinnyArduinoHolders\Prototype\2022_06_18\QuickTestArduinoOnPicaTinny_v1_005.stl.powd
+2022_06_18_PicaTinnyArduinoHolders\Prototype\2022_06_18\QuickTestCamera.stl
+2022_06_18_PicaTinnyArduinoHolders\Prototype\2022_06_18\QuickTestCamera.stl.powd
+2022_06_18_PicaTinnyArduinoHolders\Prototype\2022_06_18\QuickTestLight.stl
+2022_06_18_PicaTinnyArduinoHolders\Prototype\2022_06_18\QuickTestLight.stl.powd
+2022_06_18_PicaTinnyArduinoHolders\Prototype\2022_06_20\ArduinoAndPhoto.gcode
+2022_06_18_PicaTinnyArduinoHolders\Prototype\2022_06_20\ArduinoAndPhoto.gcode.powd
+2022_06_18_PicaTinnyArduinoHolders\Prototype\2022_06_20\ArduinoHolderAndPhotoArduinoOnPicaTinny_v5_001.stl
+2022_06_18_PicaTinnyArduinoHolders\Prototype\2022_06_20\ArduinoHolderAndPhotoArduinoOnPicaTinny_v5_001.stl.powd
+2022_06_18_PicaTinnyArduinoHolders\Prototype\2022_06_20\ArduinoHolderAndPhotoArduinoOnPicaTinny_v5_002.stl
+2022_06_18_PicaTinnyArduinoHolders\Prototype\2022_06_20\ArduinoHolderAndPhotoArduinoOnPicaTinny_v5_002.stl.powd
+2022_06_18_PicaTinnyArduinoHolders\Prototype\2022_06_20\ArduinoHolderAndPhotoArduinoOnPicaTinny_v5_003.stl
+2022_06_18_PicaTinnyArduinoHolders\Prototype\2022_06_20\ArduinoHolderAndPhotoArduinoOnPicaTinny_v5_003.stl.powd
+2022_06_18_PicaTinnyArduinoHolders\Prototype\2022_06_20\ArduinoHolderAndPhotoArduinoOnPicaTinny_v5_004.stl
+2022_06_18_PicaTinnyArduinoHolders\Prototype\2022_06_20\ArduinoHolderAndPhotoArduinoOnPicaTinny_v5_004.stl.powd
+2022_06_18_PicaTinnyArduinoHolders\Prototype\2022_06_20\ArduinoHolderAndPhotoArduinoOnPicaTinny_v5_005.stl
+2022_06_18_PicaTinnyArduinoHolders\Prototype\2022_06_20\ArduinoHolderAndPhotoArduinoOnPicaTinny_v5_005.stl.powd
+2022_06_18_PicaTinnyArduinoHolders\Prototype\2022_06_20\ArduinoHolderAndPhotoArduinoOnPicaTinny_v5_007.stl
+2022_06_18_PicaTinnyArduinoHolders\Prototype\2022_06_20\ArduinoHolderAndPhotoArduinoOnPicaTinny_v5_007.stl.powd
+2022_06_18_PicaTinnyArduinoHolders\Prototype\2022_06_20\ArduinoHolderAndPhotoArduinoOnPicaTinny_v5_008.stl
+2022_06_18_PicaTinnyArduinoHolders\Prototype\2022_06_20\ArduinoHolderAndPhotoArduinoOnPicaTinny_v5_008.stl.powd
+2022_06_18_PicaTinnyArduinoHolders\Prototype\2022_06_20\Capture d’écran 2022-06-20 144302.png
+2022_06_18_PicaTinnyArduinoHolders\Prototype\2022_06_20\Capture d’écran 2022-06-20 144302.png.powd
+2022_06_18_PicaTinnyArduinoHolders\Prototype\2022_06_20\Capture d’écran 2022-06-20 144335.png
+2022_06_18_PicaTinnyArduinoHolders\Prototype\2022_06_20\Capture d’écran 2022-06-20 144335.png.powd
+2022_06_18_PicaTinnyArduinoHolders\Prototype\2022_06_20\Export.blend
+2022_06_18_PicaTinnyArduinoHolders\Prototype\2022_06_20\Export.blend.powd
+2022_06_18_PicaTinnyArduinoHolders\Prototype\2022_06_20\ScreenOfProject.png
+2022_06_18_PicaTinnyArduinoHolders\Prototype\2022_06_20\ScreenOfProject.png.powd
+2022_06_18_PicaTinnyArduinoHolders\Prototype\2022_06_20\ScreenOfProject1.png
+2022_06_18_PicaTinnyArduinoHolders\Prototype\2022_06_20\ScreenOfProject1.png.powd
+2022_06_18_PicaTinnyArduinoHolders\Prototype\2022_06_21\CE3_Justbox.gcode
+2022_06_18_PicaTinnyArduinoHolders\Prototype\2022_06_21\CE3_Justbox.gcode.powd
+2022_06_18_PicaTinnyArduinoHolders\Prototype\2022_06_21\Justbox.stl
+2022_06_18_PicaTinnyArduinoHolders\Prototype\2022_06_21\Justbox.stl.powd
+2022_06_18_PicaTinnyArduinoHolders\Prototype\2022_06_21\JustboxPicaTinnyBox_001.stl
+2022_06_18_PicaTinnyArduinoHolders\Prototype\2022_06_21\JustboxPicaTinnyBox_001.stl.powd
+2022_06_18_PicaTinnyArduinoHolders\Prototype\2022_06_21\JustboxPicaTinnyBox_002.stl
+2022_06_18_PicaTinnyArduinoHolders\Prototype\2022_06_21\JustboxPicaTinnyBox_002.stl.powd
+2022_06_18_PicaTinnyArduinoHolders\Prototype\2022_06_21\PicaTinnyBox.stl
+2022_06_18_PicaTinnyArduinoHolders\Prototype\2022_06_21\PicaTinnyBox.stl.powd
+2022_06_21_QuadraAndDuoPicaTinnyAroundStick\Prototype\2022_06_21\DoubleAndQuadraQuadraAndDuoPicaTinnyAroundStick_v1_002.stl
+2022_06_21_QuadraAndDuoPicaTinnyAroundStick\Prototype\2022_06_21\DoubleAndQuadraQuadraAndDuoPicaTinnyAroundStick_v1_002.stl.powd
+2022_06_21_QuadraAndDuoPicaTinnyAroundStick\Prototype\2022_06_21\DoubleAndQuadraQuadraAndDuoPicaTinnyAroundStick_v1_003.stl
+2022_06_21_QuadraAndDuoPicaTinnyAroundStick\Prototype\2022_06_21\DoubleAndQuadraQuadraAndDuoPicaTinnyAroundStick_v1_003.stl.powd
+2022_06_21_QuadraAndDuoPicaTinnyAroundStick\Prototype\2022_06_21\DoubleAndQuadraQuadraAndDuoPicaTinnyAroundStick_v1_004.stl
+2022_06_21_QuadraAndDuoPicaTinnyAroundStick\Prototype\2022_06_21\DoubleAndQuadraQuadraAndDuoPicaTinnyAroundStick_v1_004.stl.powd
+2022_06_21_QuadraAndDuoPicaTinnyAroundStick\Prototype\2022_06_21\QuadraPicaTinny276.gcode
+2022_06_21_QuadraAndDuoPicaTinnyAroundStick\Prototype\2022_06_21\QuadraPicaTinny276.gcode.powd
+2022_06_21_QuadraAndDuoPicaTinnyAroundStick\Prototype\2022_06_21\QuadraPicaTinny276Around.gcode
+2022_06_21_QuadraAndDuoPicaTinnyAroundStick\Prototype\2022_06_21\QuadraPicaTinny276Around.gcode.powd
+2022_06_21_QuadraAndDuoPicaTinnyAroundStick\Prototype\2022_06_21\QuadraPicaTinny276Top.gcode
+2022_06_21_QuadraAndDuoPicaTinnyAroundStick\Prototype\2022_06_21\QuadraPicaTinny276Top.gcode.powd
+2022_06_21_QuadraAndDuoPicaTinnyAroundStick\Prototype\2022_06_21\QuadraPico276.stl
+2022_06_21_QuadraAndDuoPicaTinnyAroundStick\Prototype\2022_06_21\QuadraPico276.stl.powd
+2022_06_21_QuadraAndDuoPicaTinnyAroundStick\Prototype\2022_06_21\QuadraStickPicaTinnyQuadraAndDuoPicaTinnyAroundStick_v3_001.stl
+2022_06_21_QuadraAndDuoPicaTinnyAroundStick\Prototype\2022_06_21\QuadraStickPicaTinnyQuadraAndDuoPicaTinnyAroundStick_v3_001.stl.powd
+2022_06_21_QuadraAndDuoPicaTinnyAroundStick\Prototype\2022_06_21\QuadraStickPicaTinnyQuadraAndDuoPicaTinnyAroundStick_v3_002.stl
+2022_06_21_QuadraAndDuoPicaTinnyAroundStick\Prototype\2022_06_21\QuadraStickPicaTinnyQuadraAndDuoPicaTinnyAroundStick_v3_002.stl.powd
+2022_06_21_QuadraAndDuoPicaTinnyAroundStick\Prototype\2022_06_21\QuoPicaTinnyEmptyInner.gcode
+2022_06_21_QuadraAndDuoPicaTinnyAroundStick\Prototype\2022_06_21\QuoPicaTinnyEmptyInner.gcode.powd
+2022_06_21_QuadraAndDuoPicaTinnyAroundStick\Prototype\2022_06_22\CanneTopQuadraAndDuoPicaTinnyAroundStick_v5_001.stl
+2022_06_21_QuadraAndDuoPicaTinnyAroundStick\Prototype\2022_06_22\CanneTopQuadraAndDuoPicaTinnyAroundStick_v5_001.stl.powd
+2022_06_21_QuadraAndDuoPicaTinnyAroundStick\Prototype\2022_06_22\CanneTopQuadraAndDuoPicaTinnyAroundStick_v5_002.stl
+2022_06_21_QuadraAndDuoPicaTinnyAroundStick\Prototype\2022_06_22\CanneTopQuadraAndDuoPicaTinnyAroundStick_v5_002.stl.powd
+2022_06_21_QuadraAndDuoPicaTinnyAroundStick\Prototype\2022_06_22\CanneTopQuadraAndDuoPicaTinnyAroundStick_v5_003.stl
+2022_06_21_QuadraAndDuoPicaTinnyAroundStick\Prototype\2022_06_22\CanneTopQuadraAndDuoPicaTinnyAroundStick_v5_003.stl.powd
+2022_06_21_QuadraAndDuoPicaTinnyAroundStick\Prototype\2022_06_22\CanneTopTypes.f3d
+2022_06_21_QuadraAndDuoPicaTinnyAroundStick\Prototype\2022_06_22\CanneTopTypes.f3d.powd
+2022_06_21_QuadraAndDuoPicaTinnyAroundStick\Prototype\2022_06_22\Export.blend
+2022_06_21_QuadraAndDuoPicaTinnyAroundStick\Prototype\2022_06_22\Export.blend.powd
+2022_06_21_QuadraAndDuoPicaTinnyAroundStick\Prototype\2022_06_22\Export.blend1
+2022_06_21_QuadraAndDuoPicaTinnyAroundStick\Prototype\2022_06_22\Export.blend1.powd
+2022_06_21_QuadraAndDuoPicaTinnyAroundStick\Prototype\2022_06_22\QuadraAndDuoPicaTinnyAroundStick v5.stl
+2022_06_21_QuadraAndDuoPicaTinnyAroundStick\Prototype\2022_06_22\QuadraAndDuoPicaTinnyAroundStick v5.stl.powd
+2022_06_21_VRPicaTinnyJoins\Prototype\2022_06_21\DualDirOculusQuest2.gcode
+2022_06_21_VRPicaTinnyJoins\Prototype\2022_06_21\DualDirOculusQuest2.gcode.powd
+2022_06_21_VRPicaTinnyJoins\Prototype\2022_06_21\JoinPicaTinnyToHorizontal.stl
+2022_06_21_VRPicaTinnyJoins\Prototype\2022_06_21\JoinPicaTinnyToHorizontal.stl.powd
+2022_06_21_VRPicaTinnyJoins\Prototype\2022_06_21\JoinPicaTinnyToVRHoldersQuadraAndDuoPicaTinnyAroundStick_v3_001.stl
+2022_06_21_VRPicaTinnyJoins\Prototype\2022_06_21\JoinPicaTinnyToVRHoldersQuadraAndDuoPicaTinnyAroundStick_v3_001.stl.powd
+2022_06_21_VRPicaTinnyJoins\Prototype\2022_06_21\JoinPicaTinnyToVRHoldersQuadraAndDuoPicaTinnyAroundStick_v3_002.stl
+2022_06_21_VRPicaTinnyJoins\Prototype\2022_06_21\JoinPicaTinnyToVRHoldersQuadraAndDuoPicaTinnyAroundStick_v3_002.stl.powd
+2022_06_21_VRPicaTinnyJoins\Prototype\2022_06_21\JoinPicaTinnyToVRHoldersQuadraAndDuoPicaTinnyAroundStick_v3_003.stl
+2022_06_21_VRPicaTinnyJoins\Prototype\2022_06_21\JoinPicaTinnyToVRHoldersQuadraAndDuoPicaTinnyAroundStick_v3_003.stl.powd
+2022_06_21_VRPicaTinnyJoins\Prototype\2022_06_21\JoinPicaTinnyToVRHoldersRight_Grip_v6_001.stl
+2022_06_21_VRPicaTinnyJoins\Prototype\2022_06_21\JoinPicaTinnyToVRHoldersRight_Grip_v6_001.stl.powd
+2022_06_21_VRPicaTinnyJoins\Prototype\2022_06_21\JoinPicaTinnyToVRHoldersRight_Grip_v6_003.stl
+2022_06_21_VRPicaTinnyJoins\Prototype\2022_06_21\JoinPicaTinnyToVRHoldersRight_Grip_v6_003.stl.powd
+2022_06_21_VRPicaTinnyJoins\Prototype\2022_06_21\JoinPicaTinnyVRDualDirection.stl
+2022_06_21_VRPicaTinnyJoins\Prototype\2022_06_21\JoinPicaTinnyVRDualDirection.stl.powd
+2022_06_21_VRPicaTinnyJoins\Prototype\2022_06_21\VerticalOculusQuest2.gcode
+2022_06_21_VRPicaTinnyJoins\Prototype\2022_06_21\VerticalOculusQuest2.gcode.powd
+2022_06_23_WalkStickController\FromWeb\ArduinoFeather\SB-Feather_Tray.stl
+2022_06_23_WalkStickController\FromWeb\ArduinoFeather\SB-Feather_Tray.stl.powd
+2022_06_23_WalkStickController\FromWeb\LeonardoCase\01_Bottom.stl
+2022_06_23_WalkStickController\FromWeb\LeonardoCase\01_Bottom.stl.powd
+2022_06_23_WalkStickController\FromWeb\LeonardoCase\02_Top.stl
+2022_06_23_WalkStickController\FromWeb\LeonardoCase\02_Top.stl.powd
+2022_06_23_WalkStickController\FromWeb\LeonardoCase\Thing files for Arduino Leonardo case by marcinszydlowski - Thingiverse.URL
+2022_06_23_WalkStickController\FromWeb\LeonardoCase\Thing files for Arduino Leonardo case by marcinszydlowski - Thingiverse.URL.powd
+2022_06_23_WalkStickController\PicaTinnyBaseToWood\2022_06_18\HandlePicaAndWoodStickStaff_and_Walking_Stick_Pica_Tinny_v4_001.stl
+2022_06_23_WalkStickController\PicaTinnyBaseToWood\2022_06_18\HandlePicaAndWoodStickStaff_and_Walking_Stick_Pica_Tinny_v4_001.stl.powd
+2022_06_23_WalkStickController\PicaTinnyBaseToWood\2022_06_18\HandlePicaAndWoodStickStaff_and_Walking_Stick_Pica_Tinny_v4_002.stl
+2022_06_23_WalkStickController\PicaTinnyBaseToWood\2022_06_18\HandlePicaAndWoodStickStaff_and_Walking_Stick_Pica_Tinny_v4_002.stl.powd
+2022_06_23_WalkStickController\PicaTinnyBaseToWood\2022_06_18\HandlePicaAndWoodStickStaff_and_Walking_Stick_Pica_Tinny_v4_003.stl
+2022_06_23_WalkStickController\PicaTinnyBaseToWood\2022_06_18\HandlePicaAndWoodStickStaff_and_Walking_Stick_Pica_Tinny_v4_003.stl.powd
+2022_06_23_WalkStickController\PicaTinnyBaseToWood\2022_06_18\Staff and Walking Stick Pica Tinny v4.stl
+2022_06_23_WalkStickController\PicaTinnyBaseToWood\2022_06_18\Staff and Walking Stick Pica Tinny v4.stl.powd
+2022_06_23_WalkStickController\QuickSave\2022_06_18\CanAndGunStaff_and_Walking_Stick_Pica_Tinny_v2_001.stl
+2022_06_23_WalkStickController\QuickSave\2022_06_18\CanAndGunStaff_and_Walking_Stick_Pica_Tinny_v2_001.stl.powd
+2022_06_23_WalkStickController\QuickSave\2022_06_18\CanAndGunStaff_and_Walking_Stick_Pica_Tinny_v2_002.stl
+2022_06_23_WalkStickController\QuickSave\2022_06_18\CanAndGunStaff_and_Walking_Stick_Pica_Tinny_v2_002.stl.powd
+2022_06_23_WalkStickController\QuickSave\2022_06_18\CanAndGunStaff_and_Walking_Stick_Pica_Tinny_v2_003.stl
+2022_06_23_WalkStickController\QuickSave\2022_06_18\CanAndGunStaff_and_Walking_Stick_Pica_Tinny_v2_003.stl.powd
+2022_06_23_WalkStickController\QuickSave\2022_06_18\CanAndGunStaff_and_Walking_Stick_Pica_Tinny_v2_005.stl
+2022_06_23_WalkStickController\QuickSave\2022_06_18\CanAndGunStaff_and_Walking_Stick_Pica_Tinny_v2_005.stl.powd
+2022_06_23_WalkStickController\QuickSave\2022_06_18\CE3_CanAndGunStaff_and_Walking_Stick_Pica_Tinny_v2_002.3mf
+2022_06_23_WalkStickController\QuickSave\2022_06_18\CE3_CanAndGunStaff_and_Walking_Stick_Pica_Tinny_v2_002.3mf.powd
+2022_06_23_WalkStickController\QuickSave\2022_06_18\ExportBlend.blend
+2022_06_23_WalkStickController\QuickSave\2022_06_18\ExportBlend.blend.powd
+2022_06_23_WalkStickController\QuickSave\2022_06_18\HandleGunFromWeb.blend
+2022_06_23_WalkStickController\QuickSave\2022_06_18\HandleGunFromWeb.blend.powd
+2022_06_23_WalkStickController\QuickSave\2022_06_18\Staff and Walking Stick Pica Tinny v2.stl
+2022_06_23_WalkStickController\QuickSave\2022_06_18\Staff and Walking Stick Pica Tinny v2.stl.powd
+2022_09_03_ExperimentMidi63Connector\MagnetContactV4\2x10mm\2x10 Magnet Connector v1.stl
+2022_09_03_ExperimentMidi63Connector\MagnetContactV4\2x10mm\2x10 Magnet Connector v1.stl.powd
+2022_09_03_ExperimentMidi63Connector\MagnetContactV4\2x10mm\2x10 Magnet Connector v2.stl
+2022_09_03_ExperimentMidi63Connector\MagnetContactV4\2x10mm\2x10 Magnet Connector v2.stl.powd
+2022_09_03_ExperimentMidi63Connector\MagnetContactV4\2x10mm\2x10 Magnet Connector v3.stl
+2022_09_03_ExperimentMidi63Connector\MagnetContactV4\2x10mm\2x10 Magnet Connector v3.stl.powd
+2022_09_03_ExperimentMidi63Connector\MagnetContactV4\2x10mm\2x10MagnetConnector.f3d
+2022_09_03_ExperimentMidi63Connector\MagnetContactV4\2x10mm\2x10MagnetConnector.f3d.powd
+2022_09_03_ExperimentMidi63Connector\MagnetContactV4\2x10mm\Standard2x10.gcode
+2022_09_03_ExperimentMidi63Connector\MagnetContactV4\2x10mm\Standard2x10.gcode.powd
+2022_09_03_ExperimentMidi63Connector\MagnetContactV4\2x10mm\SuperQuality2x10.gcode
+2022_09_03_ExperimentMidi63Connector\MagnetContactV4\2x10mm\SuperQuality2x10.gcode.powd
+2022_09_03_ExperimentMidi63Connector\MagnetContactV4\2x10mm\SuperQuality2x10_02mm.gcode
+2022_09_03_ExperimentMidi63Connector\MagnetContactV4\2x10mm\SuperQuality2x10_02mm.gcode.powd
+2022_09_03_ExperimentMidi63Connector\MagnetContactV4\4x8mm\4x8 Magnet Connector v2.stl
+2022_09_03_ExperimentMidi63Connector\MagnetContactV4\4x8mm\4x8 Magnet Connector v2.stl.powd
+2022_09_03_ExperimentMidi63Connector\MagnetContactV4\4x8mm\Magnet4x8_02mm.gcode
+2022_09_03_ExperimentMidi63Connector\MagnetContactV4\4x8mm\Magnet4x8_02mm.gcode.powd
+2022_09_03_ExperimentMidi63Connector\MagnetContactV4\4x8mm\Midi Connector WithMagnet 8mm v2.stl
+2022_09_03_ExperimentMidi63Connector\MagnetContactV4\4x8mm\Midi Connector WithMagnet 8mm v2.stl.powd
+2022_09_03_ExperimentMidi63Connector\MagnetContactV4\4x8mm\Midi Connector WithMagnet 8mm v3.f3d
+2022_09_03_ExperimentMidi63Connector\MagnetContactV4\4x8mm\Midi Connector WithMagnet 8mm v3.f3d.powd
+2022_09_03_ExperimentMidi63Connector\MagnetContactV4\4x8mm\Midi Connector WithMagnet 8mm v3.stl
+2022_09_03_ExperimentMidi63Connector\MagnetContactV4\4x8mm\Midi Connector WithMagnet 8mm v3.stl.powd
+2022_09_03_ExperimentMidi63Connector\SpringContactV2\Serial\Blender.blend
+2022_09_03_ExperimentMidi63Connector\SpringContactV2\Serial\Blender.blend.powd
+2022_09_03_ExperimentMidi63Connector\SpringContactV2\Serial\Blender.blend1
+2022_09_03_ExperimentMidi63Connector\SpringContactV2\Serial\Blender.blend1.powd
+2022_09_03_ExperimentMidi63Connector\SpringContactV2\Serial\FourConnector.gcode
+2022_09_03_ExperimentMidi63Connector\SpringContactV2\Serial\FourConnector.gcode.powd
+2022_09_03_ExperimentMidi63Connector\SpringContactV2\Serial\Midi Spring Tin08mm Holder Serial v1.stl
+2022_09_03_ExperimentMidi63Connector\SpringContactV2\Serial\Midi Spring Tin08mm Holder Serial v1.stl.powd
+2022_09_03_ExperimentMidi63Connector\SpringContactV2\Serial\PartMidi_Spring_Tin08mm_Holder_Serial_v1_001.stl
+2022_09_03_ExperimentMidi63Connector\SpringContactV2\Serial\PartMidi_Spring_Tin08mm_Holder_Serial_v1_001.stl.powd
+2022_09_03_ExperimentMidi63Connector\SpringContactV2\Serial\PartMidi_Spring_Tin08mm_Holder_Serial_v1_002.stl
+2022_09_03_ExperimentMidi63Connector\SpringContactV2\Serial\PartMidi_Spring_Tin08mm_Holder_Serial_v1_002.stl.powd
+2022_09_03_ExperimentMidi63Connector\SpringContactV2\Serial\PartMidi_Spring_Tin08mm_Holder_Serial_v1_003.stl
+2022_09_03_ExperimentMidi63Connector\SpringContactV2\Serial\PartMidi_Spring_Tin08mm_Holder_Serial_v1_003.stl.powd
+2022_09_03_ExperimentMidi63Connector\SpringContactV2\Serial\Print.3mf
+2022_09_03_ExperimentMidi63Connector\SpringContactV2\Serial\Print.3mf.powd
+2022_09_03_ExperimentMidi63Connector\SpringContactV2\Serial\PrintConnectors.3mf
+2022_09_03_ExperimentMidi63Connector\SpringContactV2\Serial\PrintConnectors.3mf.powd
+2022_09_03_ExperimentMidi63Connector\SpringContactV2\Serial\RackMidiConnector.gcode
+2022_09_03_ExperimentMidi63Connector\SpringContactV2\Serial\RackMidiConnector.gcode.powd
+2022_09_03_ExperimentMidi63Connector\SpringContactV2\Serial\SerialHorizontal.gcode
+2022_09_03_ExperimentMidi63Connector\SpringContactV2\Serial\SerialHorizontal.gcode.powd
+2022_09_03_ExperimentMidi63Connector\SpringContactV2\Serial\SerialVertical.gcode
+2022_09_03_ExperimentMidi63Connector\SpringContactV2\Serial\SerialVertical.gcode.powd
+2022_09_09_MicroPhonePicaHolder\V0\08mm\HorizontalVersion.gcode
+2022_09_09_MicroPhonePicaHolder\V0\08mm\HorizontalVersion.gcode.powd
+2022_09_09_MicroPhonePicaHolder\V0\08mm\VerticalVersion.gcode
+2022_09_09_MicroPhonePicaHolder\V0\08mm\VerticalVersion.gcode.powd
+2022_10_04_TelloHolders\Export\V7\untitled.blend
+2022_10_04_TelloHolders\Export\V7\untitled.blend.powd
+2022_10_04_TelloHolders\Export\V7\V7Step1.gcode
+2022_10_04_TelloHolders\Export\V7\V7Step1.gcode.powd
+2022_10_04_TelloHolders\Export\V7\V7Step2.gcode
+2022_10_04_TelloHolders\Export\V7\V7Step2.gcode.powd
+2022_10_04_TelloHolders\Export\V7\V7Step3.gcode
+2022_10_04_TelloHolders\Export\V7\V7Step3.gcode.powd
+2022_10_04_TelloHolders\Export\V7\V7Step4.gcode
+2022_10_04_TelloHolders\Export\V7\V7Step4.gcode.powd
+2022_10_04_TelloHolders\Export\V7\V7TelloTello_Clip_Around_Second_Draft_v6_001.stl
+2022_10_04_TelloHolders\Export\V7\V7TelloTello_Clip_Around_Second_Draft_v6_001.stl.powd
+2022_10_04_TelloHolders\Export\V7\V7TelloTello_Clip_Around_Second_Draft_v6_002.stl
+2022_10_04_TelloHolders\Export\V7\V7TelloTello_Clip_Around_Second_Draft_v6_002.stl.powd
+2022_10_04_TelloHolders\Export\V7\V7TelloTello_Clip_Around_Second_Draft_v6_003.stl
+2022_10_04_TelloHolders\Export\V7\V7TelloTello_Clip_Around_Second_Draft_v6_003.stl.powd
+2022_10_04_TelloHolders\Export\V7\V7TelloTello_Clip_Around_Second_Draft_v6_004.stl
+2022_10_04_TelloHolders\Export\V7\V7TelloTello_Clip_Around_Second_Draft_v6_004.stl.powd
+2022_12_25_MsiCpuFanHolder\Export\V2\CE3_V2HUAYU_BIG_FAN_to_MSI_Pulse76_v6_003.3mf
+2022_12_25_MsiCpuFanHolder\Export\V2\CE3_V2HUAYU_BIG_FAN_to_MSI_Pulse76_v6_003.gcode
+2022_12_25_MsiCpuFanHolder\Export\V2\V2HUAYU_BIG_FAN_to_MSI_Pulse76_v6_001.stl
+2022_12_25_MsiCpuFanHolder\Export\V2\V2HUAYU_BIG_FAN_to_MSI_Pulse76_v6_002.stl
+2022_12_25_MsiCpuFanHolder\Export\V2\V2HUAYU_BIG_FAN_to_MSI_Pulse76_v6_003.stl
+2023_01_30_QuestFlatHolderConstruct\Gcode\2023_01_30\CE3E3V2_Quest Flat Holder To Store v4.gcode
+2023_01_30_QuestFlatHolderConstruct\Gcode\2023_01_30\HolderWithIncline.gcode
+2023_01_30_QuestFlatHolderConstruct\Gcode\2023_01_30\QuestFlatHolder_04mm.gcode
+2023_03_01_FromWeb_QuestAndLynxPerfectFBX\quest-2-controller-low-mid-and-high-poly\source\Quest 2 Controller.zip
+2023_03_01_FromWeb_QuestAndLynxPerfectFBX\quest-2-controller-low-mid-and-high-poly\textures\Color1k.png
+2023_03_01_FromWeb_QuestAndLynxPerfectFBX\quest-2-controller-low-mid-and-high-poly\textures\Rough.png
+2023_03_01_FromWeb_QuestAndLynxPerfectFBX\Quest_2_3D_Scan_PERFECT\files\quest2-10k.STL
+2023_03_01_FromWeb_QuestAndLynxPerfectFBX\Quest_2_3D_Scan_PERFECT\files\quest2-touch-L-10k.STL
+2023_03_01_FromWeb_QuestAndLynxPerfectFBX\Quest_2_3D_Scan_PERFECT\files\quest2-touch-R-10k.STL
+2023_03_01_FromWeb_QuestAndLynxPerfectFBX\Quest_2_3D_Scan_PERFECT\images\quest2-10k.png
+2023_03_01_FromWeb_QuestAndLynxPerfectFBX\Quest_2_3D_Scan_PERFECT\images\quest2-150k.png
+2023_03_01_FromWeb_QuestAndLynxPerfectFBX\Quest_2_3D_Scan_PERFECT\images\quest2-touch-L-10k.png
+2023_03_01_FromWeb_QuestAndLynxPerfectFBX\Quest_2_3D_Scan_PERFECT\images\quest2-touch-L-50k.png
+2023_03_01_FromWeb_QuestAndLynxPerfectFBX\Quest_2_3D_Scan_PERFECT\images\quest2-touch-R-10k.png
+2023_03_01_FromWeb_QuestAndLynxPerfectFBX\Quest_2_3D_Scan_PERFECT\images\quest2-touch-R-50k.png
+2023_03_01_FromWeb_QuestAndLynxPerfectFBX\Quest_2_3D_Scan_PERFECT\images\quest2-with-controllers.jpg
+2023_10_11_LenseProtectionForTheQuest3\.git\hooks\applypatch-msg.sample
+2023_10_11_LenseProtectionForTheQuest3\.git\hooks\commit-msg.sample
+2023_10_11_LenseProtectionForTheQuest3\.git\hooks\fsmonitor-watchman.sample
+2023_10_11_LenseProtectionForTheQuest3\.git\hooks\post-update.sample
+2023_10_11_LenseProtectionForTheQuest3\.git\hooks\pre-applypatch.sample
+2023_10_11_LenseProtectionForTheQuest3\.git\hooks\pre-commit.sample
+2023_10_11_LenseProtectionForTheQuest3\.git\hooks\pre-merge-commit.sample
+2023_10_11_LenseProtectionForTheQuest3\.git\hooks\pre-push.sample
+2023_10_11_LenseProtectionForTheQuest3\.git\hooks\pre-rebase.sample
+2023_10_11_LenseProtectionForTheQuest3\.git\hooks\pre-receive.sample
+2023_10_11_LenseProtectionForTheQuest3\.git\hooks\prepare-commit-msg.sample
+2023_10_11_LenseProtectionForTheQuest3\.git\hooks\push-to-checkout.sample
+2023_10_11_LenseProtectionForTheQuest3\.git\hooks\update.sample
+2023_10_11_LenseProtectionForTheQuest3\.git\info\exclude
+2023_10_11_LenseProtectionForTheQuest3\.git\logs\HEAD
+GCODE Disks\2022_06_07\Old\CE3_Bed_Adjustment_Wheel_Clip_Arrow.gcode
+GCODE Disks\2022_06_07\Old\CE3_Hydralisk.gcode
+GCODE Disks\2022_06_07\Old\DiceHolder.gcode
+GCODE Disks\2022_06_07\Old\usb_sd_micro_A.STL
+GCODE Disks\2022_06_07\Old\usb_sd_micro_C_mini.STL
+GCODE Disks\2022_09_12\08mm\08mm_DownPart.gcode
+GCODE Disks\2022_09_12\08mm\08mm_TopPart.gcode
+GCODE Disks\2022_09_12\1mm\1mm_DownPart.gcode
+GCODE Disks\2022_09_12\1mm\1mm_TopPart.gcode
+Undecided\ArduinoFormatFromWeb\AruduinoNano\ArduinoNanoFromWeb.stl
+Undecided\ArduinoFormatFromWeb\AruduinoNano\ArduinoNanoFromWeb.stl.powd
+Undecided\ArduinoFormatFromWeb\AruduinoNano\Capture d’écran 2022-05-30 053224.png
+Undecided\ArduinoFormatFromWeb\AruduinoNano\Capture d’écran 2022-05-30 053224.png.powd
+Undecided\ArduinoFormatFromWeb\AruduinoNano\Test v1.f3d
+Undecided\ArduinoFormatFromWeb\AruduinoNano\Test v1.f3d.powd
+Undecided\AtomicComponent\2020_09_27_12VStepMotorClassic\12VStepMotor v2.f3z
+Undecided\AtomicComponent\2020_09_27_12VStepMotorClassic\12VStepMotor v2.f3z.powd
+Undecided\AtomicComponent\2020_09_27_12VStepMotorClassic\12VStepMotor v2.stl
+Undecided\AtomicComponent\2020_09_27_12VStepMotorClassic\12VStepMotor v2.stl.powd
+Undecided\AtomicComponent\2020_09_27_12VStepMotorClassic\Capture d’écran 2022-05-30 052509.png
+Undecided\AtomicComponent\2020_09_27_12VStepMotorClassic\Capture d’écran 2022-05-30 052509.png.powd
+Undecided\AtomicComponent\2020_09_27_LightResistor\Capture d’écran 2022-05-30 051946.png
+Undecided\AtomicComponent\2020_09_27_LightResistor\Capture d’écran 2022-05-30 051946.png.powd
+Undecided\AtomicComponent\2020_09_27_LightResistor\LightResistor v3.f3d
+Undecided\AtomicComponent\2020_09_27_LightResistor\LightResistor v3.f3d.powd
+Undecided\AtomicComponent\2020_09_27_LightResistor\LightResistor v3.stl
+Undecided\AtomicComponent\2020_09_27_LightResistor\LightResistor v3.stl.powd
+Undecided\AtomicComponent\2020_09_27_StepMotor_SM_28BYJ\Capture d’écran 2022-05-30 052057.png
+Undecided\AtomicComponent\2020_09_27_StepMotor_SM_28BYJ\Capture d’écran 2022-05-30 052057.png.powd
+Undecided\AtomicComponent\2020_09_27_StepMotor_SM_28BYJ\SM_28BYJ v7.f3z
+Undecided\AtomicComponent\2020_09_27_StepMotor_SM_28BYJ\SM_28BYJ v7.f3z.powd
+Undecided\AtomicComponent\2020_09_27_StepMotor_SM_28BYJ\SM_28BYJ v7.stl
+Undecided\AtomicComponent\2020_09_27_StepMotor_SM_28BYJ\SM_28BYJ v7.stl.powd
+Undecided\AtomicComponent\2022_05_30_Hexagrid\FusionLink.txt
+Undecided\AtomicComponent\2022_05_30_Hexagrid\FusionLink.txt.powd
+Undecided\AtomicComponent\2022_05_30_Hexagrid\Hexagone Grid v1.f3d
+Undecided\AtomicComponent\2022_05_30_Hexagrid\Hexagone Grid v1.f3d.powd
+Undecided\AtomicComponent\2022_05_30_Hexagrid\HexagoneGrid20x20.blend
+Undecided\AtomicComponent\2022_05_30_Hexagrid\HexagoneGrid20x20.blend.powd
+Undecided\AtomicComponent\2022_05_30_Hexagrid\HexagoneGrid20x20.blend1
+Undecided\AtomicComponent\2022_05_30_Hexagrid\HexagoneGrid20x20.blend1.powd
+Undecided\AtomicComponent\2022_05_30_Hexagrid\HexagoneGrid20x20.fbx
+Undecided\AtomicComponent\2022_05_30_Hexagrid\HexagoneGrid20x20.fbx.powd
+Undecided\AtomicComponent\2022_05_30_Hexagrid\Screenshot.png
+Undecided\AtomicComponent\2022_05_30_Hexagrid\Screenshot.png.powd
+Undecided\AtomicComponent\2022_05_30_Hexagrid\_Hexagone_Grid_Border.stl
+Undecided\AtomicComponent\2022_05_30_Hexagrid\_Hexagone_Grid_Border.stl.powd
+Undecided\AtomicComponent\2022_05_30_Hexagrid\_Hexagone_Grid_Inner.stl
+Undecided\AtomicComponent\2022_05_30_Hexagrid\_Hexagone_Grid_Inner.stl.powd
+Undecided\InMindButNotYetProject\NeckComputerGhostInTheShell\(138) Pinterest.URL
+Undecided\InMindButNotYetProject\NeckComputerGhostInTheShell\(138) Pinterest.URL.powd
+Undecided\InMindButNotYetProject\NeckComputerGhostInTheShell\21e9e53a63471d60adbe26d56eb3eee2.jpg
+Undecided\InMindButNotYetProject\NeckComputerGhostInTheShell\21e9e53a63471d60adbe26d56eb3eee2.jpg.powd
+Undecided\InMindButNotYetProject\NeckComputerGhostInTheShell\22a91ccd3a6dcab99e79742d19fbc796.jpg
+Undecided\InMindButNotYetProject\NeckComputerGhostInTheShell\22a91ccd3a6dcab99e79742d19fbc796.jpg.powd
+Undecided\InMindButNotYetProject\NeckComputerGhostInTheShell\351554-00-d-752526.jpg
+Undecided\InMindButNotYetProject\NeckComputerGhostInTheShell\351554-00-d-752526.jpg.powd
+Undecided\InMindButNotYetProject\NeckComputerGhostInTheShell\4278c0b6f23d61d1c09e3ca7fb4360a7.jpg
+Undecided\InMindButNotYetProject\NeckComputerGhostInTheShell\4278c0b6f23d61d1c09e3ca7fb4360a7.jpg.powd
+Undecided\InMindButNotYetProject\NeckComputerGhostInTheShell\7b7605c6d8225fbab0bd3ee38221084a.jpg
+Undecided\InMindButNotYetProject\NeckComputerGhostInTheShell\7b7605c6d8225fbab0bd3ee38221084a.jpg.powd
+Undecided\InMindButNotYetProject\NeckComputerGhostInTheShell\Adult Neck Brace Motorcycle, Motocross, ATV, Skiing Bohn Body Armor.URL
+Undecided\InMindButNotYetProject\NeckComputerGhostInTheShell\Adult Neck Brace Motorcycle, Motocross, ATV, Skiing Bohn Body Armor.URL.powd
+Undecided\InMindButNotYetProject\NeckComputerGhostInTheShell\ba3bd3b1f696517097737b753afcda16.jpg
+Undecided\InMindButNotYetProject\NeckComputerGhostInTheShell\ba3bd3b1f696517097737b753afcda16.jpg.powd
+Undecided\InMindButNotYetProject\NeckComputerGhostInTheShell\Bohn-Motorcycle-Neck-Brace-Back-.jpg
+Undecided\InMindButNotYetProject\NeckComputerGhostInTheShell\Bohn-Motorcycle-Neck-Brace-Back-.jpg.powd
+Undecided\InMindButNotYetProject\NeckComputerGhostInTheShell\neck device - Recherche Google.URL
+Undecided\InMindButNotYetProject\NeckComputerGhostInTheShell\neck device - Recherche Google.URL.powd
+Undecided\InMindButNotYetProject\NeckComputerGhostInTheShell\s-l400.jpg
+Undecided\InMindButNotYetProject\NeckComputerGhostInTheShell\s-l400.jpg.powd
+Undecided\PicaTinnyRail\2022_06_16_PicaTinnyRail\M1913A_Rail_CrossSection.svg.png
+Undecided\PicaTinnyRail\2022_06_16_PicaTinnyRail\M1913A_Rail_CrossSection.svg.png.powd
+Undecided\PicaTinnyRail\2022_06_16_PicaTinnyRail\Picatinny.svg.png
+Undecided\PicaTinnyRail\2022_06_16_PicaTinnyRail\Picatinny.svg.png.powd
+Undecided\PicaTinnyRail\2022_06_16_PicaTinnyRail\picatinny_weaver.jpg
+Undecided\PicaTinnyRail\2022_06_16_PicaTinnyRail\picatinny_weaver.jpg.powd
+Undecided\PicaTinnyRail\Aim\MushkaAR_print1.stl
+Undecided\PicaTinnyRail\Aim\MushkaAR_print1.stl.powd
+Undecided\PicaTinnyRail\Nerf\DX1_Facia_Set.stl
+Undecided\PicaTinnyRail\Nerf\DX1_Facia_Set.stl.powd
+Undecided\PicaTinnyRail\Nerf\DX1_Left_Side_Facia.stl
+Undecided\PicaTinnyRail\Nerf\DX1_Left_Side_Facia.stl.powd
+Undecided\PicaTinnyRail\Nerf\DX1_Right_Side_Facia.stl
+Undecided\PicaTinnyRail\Nerf\DX1_Right_Side_Facia.stl.powd
+Undecided\PicaTinnyRail\Nerf\Nerf_Safety_Cap.stl
+Undecided\PicaTinnyRail\Nerf\Nerf_Safety_Cap.stl.powd
+Undecided\PicaTinnyRail\Nerf\Nerf_XD1.stl
+Undecided\PicaTinnyRail\Nerf\Nerf_XD1.stl.powd
+Undecided\PicaTinnyRail\Nerf\Nerf_XD1_PicaV1.stl
+Undecided\PicaTinnyRail\Nerf\Nerf_XD1_PicaV1.stl.powd
+Undecided\PicaTinnyRail\Nerf\Nerf_XD1_PicaV3.stl
+Undecided\PicaTinnyRail\Nerf\Nerf_XD1_PicaV3.stl.powd
+Undecided\PicaTinnyRail\Nerf\Thing files for Delta X1 Nerf Barrel Extension by StrickSL - Thingiverse.URL
+Undecided\PicaTinnyRail\Nerf\Thing files for Delta X1 Nerf Barrel Extension by StrickSL - Thingiverse.URL.powd
+Undecided\PicaTinnyRail\Rail\handle-a.STL
+Undecided\PicaTinnyRail\Rail\handle-a.STL.powd
+Undecided\PicaTinnyRail\Rail\handle-b.STL
+Undecided\PicaTinnyRail\Rail\handle-b.STL.powd
+Undecided\PicaTinnyRail\Rail\rail.STL
+Undecided\PicaTinnyRail\Rail\rail.STL.powd
+Undecided\PrintedPhotoLog\ClipSnappy-1.0-portable\20220530-174054251.png
+Undecided\PrintedPhotoLog\ClipSnappy-1.0-portable\20220530-174054251.png.powd
+Undecided\PrintedPhotoLog\ClipSnappy-1.0-portable\20220530-174211883.png
+Undecided\PrintedPhotoLog\ClipSnappy-1.0-portable\20220530-174211883.png.powd
+Undecided\PrintedPhotoLog\ClipSnappy-1.0-portable\20220530-174213297.png
+Undecided\PrintedPhotoLog\ClipSnappy-1.0-portable\20220530-174213297.png.powd
+Undecided\PrintedPhotoLog\ClipSnappy-1.0-portable\20220530-174305918.png
+Undecided\PrintedPhotoLog\ClipSnappy-1.0-portable\20220530-174305918.png.powd
+Undecided\PrintedPhotoLog\ClipSnappy-1.0-portable\20220530-174306666.png
+Undecided\PrintedPhotoLog\ClipSnappy-1.0-portable\20220530-174306666.png.powd
+Undecided\PrintedPhotoLog\ClipSnappy-1.0-portable\20220530-174329360.png
+Undecided\PrintedPhotoLog\ClipSnappy-1.0-portable\20220530-174329360.png.powd
+Undecided\PrintedPhotoLog\ClipSnappy-1.0-portable\20220530-174330764.png
+Undecided\PrintedPhotoLog\ClipSnappy-1.0-portable\20220530-174330764.png.powd
+Undecided\PrintedPhotoLog\ClipSnappy-1.0-portable\20220530-174429601.png
+Undecided\PrintedPhotoLog\ClipSnappy-1.0-portable\20220530-174429601.png.powd
+Undecided\PrintedPhotoLog\ClipSnappy-1.0-portable\20220530-174430334.png
+Undecided\PrintedPhotoLog\ClipSnappy-1.0-portable\20220530-174430334.png.powd
+Undecided\PrintedPhotoLog\ClipSnappy-1.0-portable\20220530-175054234.png
+Undecided\PrintedPhotoLog\ClipSnappy-1.0-portable\20220530-175054234.png.powd
+Undecided\PrintedPhotoLog\ClipSnappy-1.0-portable\20220530-175054973.png
+Undecided\PrintedPhotoLog\ClipSnappy-1.0-portable\20220530-175054973.png.powd
+Undecided\PrintedPhotoLog\ClipSnappy-1.0-portable\20220530-175229844.png
+Undecided\PrintedPhotoLog\ClipSnappy-1.0-portable\20220530-175229844.png.powd
+Undecided\PrintedPhotoLog\ClipSnappy-1.0-portable\20220530-175231252.png
+Undecided\PrintedPhotoLog\ClipSnappy-1.0-portable\20220530-175231252.png.powd
+Undecided\PrintedPhotoLog\ClipSnappy-1.0-portable\20220530-175522920.png
+Undecided\PrintedPhotoLog\ClipSnappy-1.0-portable\20220530-175522920.png.powd
+Undecided\PrintedPhotoLog\ClipSnappy-1.0-portable\20220530-175524334.png
+Undecided\PrintedPhotoLog\ClipSnappy-1.0-portable\20220530-175524334.png.powd
+Undecided\PrintedPhotoLog\ClipSnappy-1.0-portable\20220530-175614105.png
+Undecided\PrintedPhotoLog\ClipSnappy-1.0-portable\20220530-175614105.png.powd
+Undecided\PrintedPhotoLog\ClipSnappy-1.0-portable\20220530-175615549.png
+Undecided\PrintedPhotoLog\ClipSnappy-1.0-portable\20220530-175615549.png.powd
+Undecided\PrintedPhotoLog\ClipSnappy-1.0-portable\20220530-175820910.png
+Undecided\PrintedPhotoLog\ClipSnappy-1.0-portable\20220530-175820910.png.powd
+Undecided\PrintedPhotoLog\ClipSnappy-1.0-portable\20220530-175822325.png
+Undecided\PrintedPhotoLog\ClipSnappy-1.0-portable\20220530-175822325.png.powd
+Undecided\PrintedPhotoLog\ClipSnappy-1.0-portable\20220530-175844345.png
+Undecided\PrintedPhotoLog\ClipSnappy-1.0-portable\20220530-175844345.png.powd
+Undecided\PrintedPhotoLog\ClipSnappy-1.0-portable\20220530-175845087.png
+Undecided\PrintedPhotoLog\ClipSnappy-1.0-portable\20220530-175845087.png.powd
+Undecided\PrintedPhotoLog\ClipSnappy-1.0-portable\20220530-190341752.png
+Undecided\PrintedPhotoLog\ClipSnappy-1.0-portable\20220530-190341752.png.powd
+Undecided\PrintedPhotoLog\ClipSnappy-1.0-portable\20220530-190343176.png
+Undecided\PrintedPhotoLog\ClipSnappy-1.0-portable\20220530-190343176.png.powd
+Undecided\PrintedPhotoLog\ClipSnappy-1.0-portable\20220530-213441215.png
+Undecided\PrintedPhotoLog\ClipSnappy-1.0-portable\20220530-213441215.png.powd
+Undecided\PrintedPhotoLog\ClipSnappy-1.0-portable\20220530-213441426.png
+Undecided\PrintedPhotoLog\ClipSnappy-1.0-portable\20220530-213441426.png.powd
+Undecided\PrintedPhotoLog\ClipSnappy-1.0-portable\20220530-213450541.png
+Undecided\PrintedPhotoLog\ClipSnappy-1.0-portable\20220530-213450541.png.powd
+Undecided\PrintedPhotoLog\ClipSnappy-1.0-portable\20220530-213450752.png
+Undecided\PrintedPhotoLog\ClipSnappy-1.0-portable\20220530-213450752.png.powd
+Undecided\PrintedPhotoLog\ClipSnappy-1.0-portable\20220530-213600677.png
+Undecided\PrintedPhotoLog\ClipSnappy-1.0-portable\20220530-213600677.png.powd
+Undecided\PrintedPhotoLog\ClipSnappy-1.0-portable\20220530-213600885.png
+Undecided\PrintedPhotoLog\ClipSnappy-1.0-portable\20220530-213600885.png.powd
+Undecided\PrintedPhotoLog\ClipSnappy-1.0-portable\20220530-213605220.png
+Undecided\PrintedPhotoLog\ClipSnappy-1.0-portable\20220530-213605220.png.powd
+Undecided\PrintedPhotoLog\ClipSnappy-1.0-portable\20220530-213608970.png
+Undecided\PrintedPhotoLog\ClipSnappy-1.0-portable\20220530-213608970.png.powd
+Undecided\PrintedPhotoLog\ClipSnappy-1.0-portable\20220530-213709303.png
+Undecided\PrintedPhotoLog\ClipSnappy-1.0-portable\20220530-213709303.png.powd
+Undecided\PrintedPhotoLog\ClipSnappy-1.0-portable\20220530-213710029.png
+Undecided\PrintedPhotoLog\ClipSnappy-1.0-portable\20220530-213710029.png.powd
+Undecided\PrintedPhotoLog\ClipSnappy-1.0-portable\20220530-213713945.png
+Undecided\PrintedPhotoLog\ClipSnappy-1.0-portable\20220530-213713945.png.powd
+Undecided\PrintedPhotoLog\ClipSnappy-1.0-portable\20220530-220239666.png
+Undecided\PrintedPhotoLog\ClipSnappy-1.0-portable\20220530-220239666.png.powd
+Undecided\PrintedPhotoLog\ClipSnappy-1.0-portable\20220531-233420424.png
+Undecided\PrintedPhotoLog\ClipSnappy-1.0-portable\20220531-233420424.png.powd
+Undecided\PrintedPhotoLog\ClipSnappy-1.0-portable\20220531-233421176.png
+Undecided\PrintedPhotoLog\ClipSnappy-1.0-portable\20220531-233421176.png.powd
+Undecided\PrintedPhotoLog\ClipSnappy-1.0-portable\20220531-233457878.png
+Undecided\PrintedPhotoLog\ClipSnappy-1.0-portable\20220531-233457878.png.powd
+Undecided\PrintedPhotoLog\ClipSnappy-1.0-portable\20220531-233458620.png
+Undecided\PrintedPhotoLog\ClipSnappy-1.0-portable\20220531-233458620.png.powd
+Undecided\PrintedPhotoLog\ClipSnappy-1.0-portable\20220601-231040401.png
+Undecided\PrintedPhotoLog\ClipSnappy-1.0-portable\20220601-231040401.png.powd
+Undecided\PrintedPhotoLog\ClipSnappy-1.0-portable\20220601-231041820.png
+Undecided\PrintedPhotoLog\ClipSnappy-1.0-portable\20220601-231041820.png.powd
+Undecided\PrintedPhotoLog\ClipSnappy-1.0-portable\20220601-231150326.png
+Undecided\PrintedPhotoLog\ClipSnappy-1.0-portable\20220601-231150326.png.powd
+Undecided\PrintedPhotoLog\ClipSnappy-1.0-portable\20220601-231150540.png
+Undecided\PrintedPhotoLog\ClipSnappy-1.0-portable\20220601-231150540.png.powd
+Undecided\PrintedPhotoLog\ClipSnappy-1.0-portable\clipsnappy.exe
+Undecided\PrintedPhotoLog\ClipSnappy-1.0-portable\clipsnappy.exe.powd
+2020_09_27_ShoGiCNCProductionBoard\ShiChessEnder3Version\ExportTest\FirstTest\ShogiChessPieceShogi.3mf
+2020_09_27_ShoGiCNCProductionBoard\ShiChessEnder3Version\ExportTest\FirstTest\ShogiChessPieceShogi.3mf.powd
+2020_09_27_ShoGiCNCProductionBoard\ShiChessEnder3Version\ExportTest\FirstTest\ShogiChessPieceShogiChessCncAndPLA_v2_001.stl
+2020_09_27_ShoGiCNCProductionBoard\ShiChessEnder3Version\ExportTest\FirstTest\ShogiChessPieceShogiChessCncAndPLA_v2_001.stl.powd
+2020_09_27_ShoGiCNCProductionBoard\ShiChessEnder3Version\ExportTest\FirstTest\ShogiChessPieceShogiChessCncAndPLA_v2_002.stl
+2020_09_27_ShoGiCNCProductionBoard\ShiChessEnder3Version\ExportTest\FirstTest\ShogiChessPieceShogiChessCncAndPLA_v2_002.stl.powd
+2020_09_27_ShoGiCNCProductionBoard\ShiChessEnder3Version\ExportTest\FirstTest\ShogiChessPieceShogiChessCncAndPLA_v2_003.stl
+2020_09_27_ShoGiCNCProductionBoard\ShiChessEnder3Version\ExportTest\FirstTest\ShogiChessPieceShogiChessCncAndPLA_v2_003.stl.powd
+2020_09_27_ShoGiCNCProductionBoard\ShiChessEnder3Version\ExportTest\FirstTest\ShogiChessPieceShogiChessCncAndPLA_v2_004.stl
+2020_09_27_ShoGiCNCProductionBoard\ShiChessEnder3Version\ExportTest\FirstTest\ShogiChessPieceShogiChessCncAndPLA_v2_004.stl.powd
+2020_09_27_ShoGiCNCProductionBoard\ShiChessEnder3Version\ExportTest\FirstTest\ShogiChessPieceShogiChessCncAndPLA_v2_005.stl
+2020_09_27_ShoGiCNCProductionBoard\ShiChessEnder3Version\ExportTest\FirstTest\ShogiChessPieceShogiChessCncAndPLA_v2_005.stl.powd
+2020_09_27_ShoGiCNCProductionBoard\ShiChessEnder3Version\ExportTest\FirstTest\ShogiChessPieceShogiChessCncAndPLA_v2_006.stl
+2020_09_27_ShoGiCNCProductionBoard\ShiChessEnder3Version\ExportTest\FirstTest\ShogiChessPieceShogiChessCncAndPLA_v2_006.stl.powd
+2020_09_27_ShoGiCNCProductionBoard\ShiChessEnder3Version\ExportTest\FirstTest\ShogiChessPieceShogiChessCncAndPLA_v2_007.stl
+2020_09_27_ShoGiCNCProductionBoard\ShiChessEnder3Version\ExportTest\FirstTest\ShogiChessPieceShogiChessCncAndPLA_v2_007.stl.powd
+2020_09_27_ShoGiCNCProductionBoard\ShiChessEnder3Version\ExportTest\FirstTest\ShogiChessPieceShogiChessCncAndPLA_v2_008.stl
+2020_09_27_ShoGiCNCProductionBoard\ShiChessEnder3Version\ExportTest\FirstTest\ShogiChessPieceShogiChessCncAndPLA_v2_008.stl.powd
+2020_09_27_ShoGiCNCProductionBoard\ShiChessEnder3Version\ExportTest\FirstTest\ShogiChessPieceShogiChessCncAndPLA_v2_009.stl
+2020_09_27_ShoGiCNCProductionBoard\ShiChessEnder3Version\ExportTest\FirstTest\ShogiChessPieceShogiChessCncAndPLA_v2_009.stl.powd
+2020_09_27_ShoGiCNCProductionBoard\ShiChessEnder3Version\ExportTest\FirstTest\ShogiChessPieceShogiChessCncAndPLA_v2_010.stl
+2020_09_27_ShoGiCNCProductionBoard\ShiChessEnder3Version\ExportTest\FirstTest\ShogiChessPieceShogiChessCncAndPLA_v2_010.stl.powd
+2020_09_27_ShoGiCNCProductionBoard\ShiChessEnder3Version\ExportTest\FirstTest\ShogiChessPieceShogiChessCncAndPLA_v2_011.stl
+2020_09_27_ShoGiCNCProductionBoard\ShiChessEnder3Version\ExportTest\FirstTest\ShogiChessPieceShogiChessCncAndPLA_v2_011.stl.powd
+2020_09_27_ShoGiCNCProductionBoard\ShiChessEnder3Version\ExportTest\FirstTest\ShogiChessPieceShogiChessCncAndPLA_v2_012.stl
+2020_09_27_ShoGiCNCProductionBoard\ShiChessEnder3Version\ExportTest\FirstTest\ShogiChessPieceShogiChessCncAndPLA_v2_012.stl.powd
+2020_09_27_ShoGiCNCProductionBoard\ShiChessEnder3Version\ExportTest\FirstTest\ShogiChessPieceShogiChessCncAndPLA_v2_013.stl
+2020_09_27_ShoGiCNCProductionBoard\ShiChessEnder3Version\ExportTest\FirstTest\ShogiChessPieceShogiChessCncAndPLA_v2_013.stl.powd
+2020_09_27_ShoGiCNCProductionBoard\ShiChessEnder3Version\ExportTest\FirstTest\ShogiChessPieceShogiChessCncAndPLA_v2_014.stl
+2020_09_27_ShoGiCNCProductionBoard\ShiChessEnder3Version\ExportTest\FirstTest\ShogiChessPieceShogiChessCncAndPLA_v2_014.stl.powd
+2020_09_27_ShoGiCNCProductionBoard\ShiChessEnder3Version\ExportTest\FirstTest\ShogiChessPieceShogiChessCncAndPLA_v2_015.stl
+2020_09_27_ShoGiCNCProductionBoard\ShiChessEnder3Version\ExportTest\FirstTest\ShogiChessPieceShogiChessCncAndPLA_v2_015.stl.powd
+2020_09_27_ShoGiCNCProductionBoard\ShiChessEnder3Version\ExportTest\FirstTest\ShogiChessPieceShogiChessCncAndPLA_v2_016.stl
+2020_09_27_ShoGiCNCProductionBoard\ShiChessEnder3Version\ExportTest\FirstTest\ShogiChessPieceShogiChessCncAndPLA_v2_016.stl.powd
+2020_09_27_ShoGiCNCProductionBoard\ShiChessEnder3Version\ExportTest\FirstTest\ShogiChessPieceShogiChessCncAndPLA_v2_017.stl
+2020_09_27_ShoGiCNCProductionBoard\ShiChessEnder3Version\ExportTest\FirstTest\ShogiChessPieceShogiChessCncAndPLA_v2_017.stl.powd
+2020_09_27_ShoGiCNCProductionBoard\ShiChessEnder3Version\ExportTest\FirstTest\ShogiChessPieceShogiChessCncAndPLA_v2_018.stl
+2020_09_27_ShoGiCNCProductionBoard\ShiChessEnder3Version\ExportTest\FirstTest\ShogiChessPieceShogiChessCncAndPLA_v2_018.stl.powd
+2020_09_27_ShoGiCNCProductionBoard\ShiChessEnder3Version\ExportTest\FirstTest\ShogiChessPieceShogiChessCncAndPLA_v2_019.stl
+2020_09_27_ShoGiCNCProductionBoard\ShiChessEnder3Version\ExportTest\FirstTest\ShogiChessPieceShogiChessCncAndPLA_v2_019.stl.powd
+2020_09_27_ShoGiCNCProductionBoard\ShiChessEnder3Version\ExportTest\FirstTest\ShogiChessPieceShogiChessCncAndPLA_v2_020.stl
+2020_09_27_ShoGiCNCProductionBoard\ShiChessEnder3Version\ExportTest\FirstTest\ShogiChessPieceShogiChessCncAndPLA_v2_020.stl.powd
+2020_09_27_ShoGiCNCProductionBoard\ShiChessEnder3Version\ExportTest\FirstTest\ShogiChessPieceShogiChessCncAndPLA_v2_021.stl
+2020_09_27_ShoGiCNCProductionBoard\ShiChessEnder3Version\ExportTest\FirstTest\ShogiChessPieceShogiChessCncAndPLA_v2_021.stl.powd
+2020_09_27_ShoGiCNCProductionBoard\ShiChessEnder3Version\ExportTest\FirstTest\ShogiChessPieceShogiChessCncAndPLA_v2_022.stl
+2020_09_27_ShoGiCNCProductionBoard\ShiChessEnder3Version\ExportTest\FirstTest\ShogiChessPieceShogiChessCncAndPLA_v2_022.stl.powd
+2020_09_27_ShoGiCNCProductionBoard\ShiChessEnder3Version\ExportTest\FirstTest\ShogiChessPieceShogiChessCncAndPLA_v2_023.stl
+2020_09_27_ShoGiCNCProductionBoard\ShiChessEnder3Version\ExportTest\FirstTest\ShogiChessPieceShogiChessCncAndPLA_v2_023.stl.powd
+2020_09_27_ShoGiCNCProductionBoard\ShiChessEnder3Version\ExportTest\FirstTest\ShogiChessPieceShogiChessCncAndPLA_v2_024.stl
+2020_09_27_ShoGiCNCProductionBoard\ShiChessEnder3Version\ExportTest\FirstTest\ShogiChessPieceShogiChessCncAndPLA_v2_024.stl.powd
+2020_09_27_ShoGiCNCProductionBoard\ShiChessEnder3Version\ExportTest\FirstTest\ShogiChessPieceShogiChessCncAndPLA_v2_025.stl
+2020_09_27_ShoGiCNCProductionBoard\ShiChessEnder3Version\ExportTest\FirstTest\ShogiChessPieceShogiChessCncAndPLA_v2_025.stl.powd
+2020_09_27_ShoGiCNCProductionBoard\ShiChessEnder3Version\ExportTest\FirstTest\ShogiChessPieceShogiChessCncAndPLA_v2_026.stl
+2020_09_27_ShoGiCNCProductionBoard\ShiChessEnder3Version\ExportTest\FirstTest\ShogiChessPieceShogiChessCncAndPLA_v2_026.stl.powd
+2020_09_27_ShoGiCNCProductionBoard\ShiChessEnder3Version\ExportTest\FirstTest\ShogiChessPieceShogiChessCncAndPLA_v2_027.stl
+2020_09_27_ShoGiCNCProductionBoard\ShiChessEnder3Version\ExportTest\FirstTest\ShogiChessPieceShogiChessCncAndPLA_v2_027.stl.powd
+2020_09_27_ShoGiCNCProductionBoard\ShiChessEnder3Version\ExportTest\FirstTest\ShogiChessPieceShogiChessCncAndPLA_v2_028.stl
+2020_09_27_ShoGiCNCProductionBoard\ShiChessEnder3Version\ExportTest\FirstTest\ShogiChessPieceShogiChessCncAndPLA_v2_028.stl.powd
+2022_06_23_WalkStickController\QuickSave\2022_06_18\FromWeb\20220530-191902450.png
+2022_06_23_WalkStickController\QuickSave\2022_06_18\FromWeb\20220530-191902450.png.powd
+2022_06_23_WalkStickController\QuickSave\2022_06_18\FromWeb\20220530-191902669.png
+2022_06_23_WalkStickController\QuickSave\2022_06_18\FromWeb\20220530-191902669.png.powd
+2022_06_23_WalkStickController\QuickSave\2022_06_18\FromWeb\20220530-192714504.png
+2022_06_23_WalkStickController\QuickSave\2022_06_18\FromWeb\20220530-192714504.png.powd
+2022_06_23_WalkStickController\QuickSave\2022_06_18\FromWeb\20220530-192714733.png
+2022_06_23_WalkStickController\QuickSave\2022_06_18\FromWeb\20220530-192714733.png.powd
+2022_06_23_WalkStickController\QuickSave\2022_06_18\FromWeb\20220530-192719130.png
+2022_06_23_WalkStickController\QuickSave\2022_06_18\FromWeb\20220530-192719130.png.powd
+2023_10_11_LenseProtectionForTheQuest3\.git\objects\0e\d204fcc42759f8c4432ccd7f20d9662795cec0
+2023_10_11_LenseProtectionForTheQuest3\.git\objects\12\fcc871a6729e0785f700b3b068c0bab551050d
+2023_10_11_LenseProtectionForTheQuest3\.git\objects\17\3036f83df56b9710826eff06d18be65bf6e7d6
+2023_10_11_LenseProtectionForTheQuest3\.git\objects\18\1dbf275d8347d6be70e514b2e14c34fec7817b
+2023_10_11_LenseProtectionForTheQuest3\.git\objects\2b\f26faaee85334146611a41970d3ead35c3005f
+2023_10_11_LenseProtectionForTheQuest3\.git\objects\2d\e3c1f3e6133552577fe4e2096ad4512b8a9251
+2023_10_11_LenseProtectionForTheQuest3\.git\objects\2f\05b7fe22bd1c0115291cb5a8b1d520e1056f9f
+2023_10_11_LenseProtectionForTheQuest3\.git\objects\46\7112a50d71eabee16b39c6ab7dcd8365f43fa7
+2023_10_11_LenseProtectionForTheQuest3\.git\objects\49\93dbf4368ed37fc02be8848fc0a4908f9fc35a
+2023_10_11_LenseProtectionForTheQuest3\.git\objects\56\26fa65a50efa4b0d843e13e61a3a5dc7552baf
+2023_10_11_LenseProtectionForTheQuest3\.git\objects\5c\26553314a50b83589a2de509f8157382a2c289
+2023_10_11_LenseProtectionForTheQuest3\.git\objects\6c\539fdf6768fc3d2682a8eefb67288a2804d921
+2023_10_11_LenseProtectionForTheQuest3\.git\objects\7b\5365ffb0873fb1407f7201f959c80588b46232
+2023_10_11_LenseProtectionForTheQuest3\.git\objects\8c\302a7bd35c637ee403ab95d12391c3de8c36c8
+2023_10_11_LenseProtectionForTheQuest3\.git\objects\9d\1774a58f93385be33a6b405641bb3dc3b01263
+2023_10_11_LenseProtectionForTheQuest3\.git\objects\b5\8f6cfb858d5c626f2e539b8f540969b5d5665f
+2023_10_11_LenseProtectionForTheQuest3\.git\objects\c1\273fab7492b5bbee0288d6eea2da0ccad0fcc7
+2023_10_11_LenseProtectionForTheQuest3\.git\objects\cc\3e38f0078c9f073af673d071a6705ab7da0a34
+2023_10_11_LenseProtectionForTheQuest3\.git\objects\cd\0c5e47702581ac3a83d74f8412421d09628e1c
+2023_10_11_LenseProtectionForTheQuest3\.git\objects\e3\b5cf5f654f781ed6fa45fdf69d43220fe6eef2
+2023_10_11_LenseProtectionForTheQuest3\.git\objects\ef\49818399a3ad0199dd1b031a00c8c846d63f2c
+2023_10_11_LenseProtectionForTheQuest3\.git\objects\ef\8288ddfcaa27f24b56ad097a7e82ee7cb96f46
+2023_10_11_LenseProtectionForTheQuest3\.git\objects\f4\69982d618daefe65134d5190f689fc1aea97e7
+2023_10_11_LenseProtectionForTheQuest3\.git\objects\f9\8146c31a75d182b99707a3cacfd82713b56381
+2023_10_11_LenseProtectionForTheQuest3\.git\objects\ff\0115797507e33db78592e8d2dc5f29e2f481b2
+2023_10_11_LenseProtectionForTheQuest3\.git\objects\pack\pack-26df2b682202b8dd41c28b5fba1f4502230041ce.idx
+2023_10_11_LenseProtectionForTheQuest3\.git\objects\pack\pack-26df2b682202b8dd41c28b5fba1f4502230041ce.pack
+2023_10_11_LenseProtectionForTheQuest3\.git\refs\heads\main
+GCODE Disks\2022_09_13\8mm\Microphone\HorizontalVersion.gcode
+GCODE Disks\2022_09_13\8mm\Microphone\VerticalVersion.gcode
+GCODE Disks\2022_09_13\8mm\SpringConnector\CE3_Midi Spring Tin08mm Holder V3 v5.gcode
+GCODE Disks\2022_09_13\8mm\SquareBox\08mm_DownPart.gcode
+GCODE Disks\2022_09_13\8mm\SquareBox\08mm_TopPart.gcode
+Undecided\AtomicComponent\2020_09_27_StepMotor_SM_28BYJ\Controller 28BYJ ULN2003\28BYJ ULN2003 v2.f3z
+Undecided\AtomicComponent\2020_09_27_StepMotor_SM_28BYJ\Controller 28BYJ ULN2003\28BYJ ULN2003 v2.f3z.powd
+Undecided\AtomicComponent\2020_09_27_StepMotor_SM_28BYJ\Controller 28BYJ ULN2003\28BYJ ULN2003 v2.stl
+Undecided\AtomicComponent\2020_09_27_StepMotor_SM_28BYJ\Controller 28BYJ ULN2003\28BYJ ULN2003 v2.stl.powd
+Undecided\AtomicComponent\2020_09_27_StepMotor_SM_28BYJ\Controller 28BYJ ULN2003\Capture d’écran 2022-05-30 052424.png
+Undecided\AtomicComponent\2020_09_27_StepMotor_SM_28BYJ\Controller 28BYJ ULN2003\Capture d’écran 2022-05-30 052424.png.powd
+Undecided\AtomicComponent\2020_09_27_StepMotor_SM_28BYJ\Gear\Capture d’écran 2022-05-30 052256.png
+Undecided\AtomicComponent\2020_09_27_StepMotor_SM_28BYJ\Gear\Capture d’écran 2022-05-30 052256.png.powd
+Undecided\AtomicComponent\2020_09_27_StepMotor_SM_28BYJ\Gear\Gear 28BYJ 5mm v1.f3d
+Undecided\AtomicComponent\2020_09_27_StepMotor_SM_28BYJ\Gear\Gear 28BYJ 5mm v1.f3d.powd
+Undecided\AtomicComponent\2020_09_27_StepMotor_SM_28BYJ\Gear\Gear 28BYJ 5mm v1.stl
+Undecided\AtomicComponent\2020_09_27_StepMotor_SM_28BYJ\Gear\Gear 28BYJ 5mm v1.stl.powd
+Undecided\PicaTinnyRail\2022_06_16_PicaTinnyRail\FixingCameraTripode\CameraFixV1CameraTripodeFix_v0_001.stl
+Undecided\PicaTinnyRail\2022_06_16_PicaTinnyRail\FixingCameraTripode\CameraFixV1CameraTripodeFix_v0_001.stl.powd
+Undecided\PicaTinnyRail\2022_06_16_PicaTinnyRail\FixingCameraTripode\CameraFixV1CameraTripodeFix_v0_002.stl
+Undecided\PicaTinnyRail\2022_06_16_PicaTinnyRail\FixingCameraTripode\CameraFixV1CameraTripodeFix_v0_002.stl.powd
+Undecided\PicaTinnyRail\2022_06_16_PicaTinnyRail\FixingCameraTripode\CameraTripodeFix v0.stl
+Undecided\PicaTinnyRail\2022_06_16_PicaTinnyRail\FixingCameraTripode\CameraTripodeFix v0.stl.powd
+Undecided\PicaTinnyRail\2022_06_16_PicaTinnyRail\FixingCameraTripode\CameraTripodeFix.f3d
+Undecided\PicaTinnyRail\2022_06_16_PicaTinnyRail\FixingCameraTripode\CameraTripodeFix.f3d.powd
+Undecided\PicaTinnyRail\2022_06_16_PicaTinnyRail\FixingCameraTripode\MagnetTinnyRail.stl
+Undecided\PicaTinnyRail\2022_06_16_PicaTinnyRail\FixingCameraTripode\MagnetTinnyRail.stl.powd
+Undecided\PicaTinnyRail\2022_06_16_PicaTinnyRail\FixingCameraTripode\PrinleTinnyStore.stl
+Undecided\PicaTinnyRail\2022_06_16_PicaTinnyRail\FixingCameraTripode\PrinleTinnyStore.stl.powd
+Undecided\PicaTinnyRail\2022_06_16_PicaTinnyRail\FixingCameraTripode\SmallCylinder.stl
+Undecided\PicaTinnyRail\2022_06_16_PicaTinnyRail\FixingCameraTripode\SmallCylinder.stl.powd
+Undecided\PicaTinnyRail\Adaptator\For Lamp\BracketV2_01.stl
+Undecided\PicaTinnyRail\Adaptator\For Lamp\BracketV2_01.stl.powd
+Undecided\PicaTinnyRail\Adaptator\For Lamp\BracketV2_02.stl
+Undecided\PicaTinnyRail\Adaptator\For Lamp\BracketV2_02.stl.powd
+Undecided\PicaTinnyRail\Adaptator\For Lamp\BracketV2_03.stl
+Undecided\PicaTinnyRail\Adaptator\For Lamp\BracketV2_03.stl.powd
+Undecided\PicaTinnyRail\Adaptator\For Lamp\PicatinnyRailV2.stl
+Undecided\PicaTinnyRail\Adaptator\For Lamp\PicatinnyRailV2.stl.powd
+Undecided\PicaTinnyRail\Adaptator\OtherSiZE\19mm_riser_-_35mm.stl
+Undecided\PicaTinnyRail\Adaptator\OtherSiZE\19mm_riser_-_35mm.stl.powd
+Undecided\PicaTinnyRail\Adaptator\OtherSiZE\19mm_riser_-_45mm.stl
+Undecided\PicaTinnyRail\Adaptator\OtherSiZE\19mm_riser_-_45mm.stl.powd
+2022_06_23_WalkStickController\QuickSave\2022_06_18\FromWeb\CaneHandleClassic\3D Printable Derby cane by alan stanford.URL
+2022_06_23_WalkStickController\QuickSave\2022_06_18\FromWeb\CaneHandleClassic\3D Printable Derby cane by alan stanford.URL.powd
+2022_06_23_WalkStickController\QuickSave\2022_06_18\FromWeb\CaneHandleClassic\derby-cane-1.stl
+2022_06_23_WalkStickController\QuickSave\2022_06_18\FromWeb\CaneHandleClassic\derby-cane-1.stl.powd
+2022_06_23_WalkStickController\QuickSave\2022_06_18\FromWeb\CaneHandleClassic\Download free STL file Cane handle M8 screw • Object to 3D print • Cults.URL
+2022_06_23_WalkStickController\QuickSave\2022_06_18\FromWeb\CaneHandleClassic\Download free STL file Cane handle M8 screw • Object to 3D print • Cults.URL.powd
+2022_06_23_WalkStickController\QuickSave\2022_06_18\FromWeb\CaneHandleClassic\poignee-de-canne-vis-m820200803-3346-1gs62ws.zip
+2022_06_23_WalkStickController\QuickSave\2022_06_18\FromWeb\CaneHandleClassic\poignee-de-canne-vis-m820200803-3346-1gs62ws.zip.powd
+2022_06_23_WalkStickController\QuickSave\2022_06_18\FromWeb\CaneHandleHalfFill\Capture d’écran 2022-05-30 192723.png
+2022_06_23_WalkStickController\QuickSave\2022_06_18\FromWeb\CaneHandleHalfFill\Capture d’écran 2022-05-30 192723.png.powd
+2022_06_23_WalkStickController\QuickSave\2022_06_18\FromWeb\CaneHandleHalfFill\STL file Handle and foot for 19mm cane・3D printing model to download • Cults.URL
+2022_06_23_WalkStickController\QuickSave\2022_06_18\FromWeb\CaneHandleHalfFill\STL file Handle and foot for 19mm cane・3D printing model to download • Cults.URL.powd
+2022_06_23_WalkStickController\QuickSave\2022_06_18\FromWeb\EagleHandle\Free STL file eagle cane handle・Design to download and 3D print • Cults.URL
+2022_06_23_WalkStickController\QuickSave\2022_06_18\FromWeb\EagleHandle\Free STL file eagle cane handle・Design to download and 3D print • Cults.URL.powd
+2022_06_23_WalkStickController\QuickSave\2022_06_18\FromWeb\RealOneWithGoodDesign\Ancien Pommeau à Canne Ombrelle Poignée Parapluie Old Chinese Silver Cane Knob.URL
+2022_06_23_WalkStickController\QuickSave\2022_06_18\FromWeb\RealOneWithGoodDesign\Ancien Pommeau à Canne Ombrelle Poignée Parapluie Old Chinese Silver Cane Knob.URL.powd
+2022_06_23_WalkStickController\QuickSave\2022_06_18\FromWeb\RealOneWithGoodDesign\Ancien_pommeau_a_canne_ombrelle_poignee_parapluie_old_Chinese_silver_cane_knob_04_rwb.jpg
+2022_06_23_WalkStickController\QuickSave\2022_06_18\FromWeb\RealOneWithGoodDesign\Ancien_pommeau_a_canne_ombrelle_poignee_parapluie_old_Chinese_silver_cane_knob_04_rwb.jpg.powd
+2023_10_11_LenseProtectionForTheQuest3\.git\logs\refs\heads\main
+2023_10_11_LenseProtectionForTheQuest3\.git\refs\remotes\origin\HEAD
+2023_10_11_LenseProtectionForTheQuest3\.git\refs\remotes\origin\main
+GCODE Disks\2022_09_13\8mm\Bird\8mm\DownPart.gcode
+GCODE Disks\2022_09_13\8mm\Bird\8mm\TopPart.gcode
+Undecided\PicaTinnyRail\2022_06_16_PicaTinnyRail\FixingCameraTripode\2022_06_15_TestARound\CE3_PringleRailCameraTripodeFix_v0_005.gcode
+Undecided\PicaTinnyRail\2022_06_16_PicaTinnyRail\FixingCameraTripode\2022_06_15_TestARound\CE3_PringleRailCameraTripodeFix_v0_005.gcode.powd
+Undecided\PicaTinnyRail\2022_06_16_PicaTinnyRail\FixingCameraTripode\2022_06_15_TestARound\PringleRailCameraTripodeFix_v0_001.stl
+Undecided\PicaTinnyRail\2022_06_16_PicaTinnyRail\FixingCameraTripode\2022_06_15_TestARound\PringleRailCameraTripodeFix_v0_001.stl.powd
+Undecided\PicaTinnyRail\2022_06_16_PicaTinnyRail\FixingCameraTripode\2022_06_15_TestARound\PringleRailCameraTripodeFix_v0_002.stl
+Undecided\PicaTinnyRail\2022_06_16_PicaTinnyRail\FixingCameraTripode\2022_06_15_TestARound\PringleRailCameraTripodeFix_v0_002.stl.powd
+Undecided\PicaTinnyRail\2022_06_16_PicaTinnyRail\FixingCameraTripode\2022_06_15_TestARound\PringleRailCameraTripodeFix_v0_003.stl
+Undecided\PicaTinnyRail\2022_06_16_PicaTinnyRail\FixingCameraTripode\2022_06_15_TestARound\PringleRailCameraTripodeFix_v0_003.stl.powd
+Undecided\PicaTinnyRail\2022_06_16_PicaTinnyRail\FixingCameraTripode\2022_06_15_TestARound\PringleRailCameraTripodeFix_v0_004.stl
+Undecided\PicaTinnyRail\2022_06_16_PicaTinnyRail\FixingCameraTripode\2022_06_15_TestARound\PringleRailCameraTripodeFix_v0_004.stl.powd
+Undecided\PicaTinnyRail\2022_06_16_PicaTinnyRail\FixingCameraTripode\2022_06_15_TestARound\PringleRailCameraTripodeFix_v0_005.stl
+Undecided\PicaTinnyRail\2022_06_16_PicaTinnyRail\FixingCameraTripode\2022_06_15_TestARound\PringleRailCameraTripodeFix_v0_005.stl.powd
+Undecided\PicaTinnyRail\2022_06_16_PicaTinnyRail\FixingCameraTripode\2022_06_15_TestARound\PringleRailCameraTripodeFix_v0_006.stl
+Undecided\PicaTinnyRail\2022_06_16_PicaTinnyRail\FixingCameraTripode\2022_06_15_TestARound\PringleRailCameraTripodeFix_v0_006.stl.powd
+Undecided\PicaTinnyRail\2022_06_16_PicaTinnyRail\FixingCameraTripode\2022_06_15_TestARound\untitled.blend
+Undecided\PicaTinnyRail\2022_06_16_PicaTinnyRail\FixingCameraTripode\2022_06_15_TestARound\untitled.blend.powd
+2023_10_11_LenseProtectionForTheQuest3\.git\logs\refs\remotes\origin\HEAD
+2023_10_11_LenseProtectionForTheQuest3\.git\logs\refs\remotes\origin\main
+2022_06_23_WalkStickController\QuickSave\2022_06_18\FromWeb\CaneHandleClassic\poignee-de-canne-vis-m820200803-3346-1gs62ws\jmira838\poignee-de-canne-vis-m8\poignée canne v5.stl
+2022_06_23_WalkStickController\QuickSave\2022_06_18\FromWeb\CaneHandleClassic\poignee-de-canne-vis-m820200803-3346-1gs62ws\jmira838\poignee-de-canne-vis-m8\poignée canne v5.stl.powd
